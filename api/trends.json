@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T14:17:26.337357+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-11-01T15:13:42.194334+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 15时13分]"
         },
         {
           "title": "光伏行业龙头厂商减亏，硅料环节率先回暖",
