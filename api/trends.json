@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T15:13:42.194334+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-11-01T16:15:37.364334+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北汽新能源：10月销量销量30542辆，同比增长112%",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 15时13分]"
+        },
+        {
+          "title": "国家能源局：9月全国新增建档立卡新能源发电项目共7218个",
+          "url": "https://flash.jin10.com/detail/20251101160620680800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "光伏行业龙头厂商减亏，硅料环节率先回暖",
