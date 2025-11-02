@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T11:44:40.085356+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-11-02T12:16:29.688697+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3758477",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 12时16分]"
         },
         {
           "title": "小米YU7成国产新能源车保值率第一",
