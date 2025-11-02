@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T19:17:09.311940+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-11-02T20:21:09.394630+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 20时21分]"
         },
         {
           "title": "比亚迪：前10月新能源汽车销量同比增长13.88%",
@@ -40,11 +41,12 @@
           "ranks": [
             2,
             10,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "上汽集团：10月份新能源汽车销量同比增长31.58%",
