@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-11-02T09:02:26.606108+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-02T10:47:17.044910+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
+          "url": "https://wallstreetcn.com/articles/3758477",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "小米YU7成国产新能源车保值率第一",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3YU7%E6%88%90%E5%9B%BD%E4%BA%A7%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BF%9D%E5%80%BC%E7%8E%87%E7%AC%AC%E4%B8%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3YU7%25E6%2588%2590%25E5%259B%25BD%25E4%25BA%25A7%25E6%2596%25B0%25E8%2583%25BD%25E6%25BA%2590%25E8%25BD%25A6%25E4%25BF%259D%25E5%2580%25BC%25E7%258E%2587%25E7%25AC%25AC%25E4%25B8%2580%2523%26pos%3D29%26dgr%3D0%26flag%3D1%26band_rank%3D29%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D29%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1762051263%26pre_seqid%3D17620512639060252277965&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
