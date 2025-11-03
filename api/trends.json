@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T14:20:32.793358+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-03T15:14:22.985442+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时14分]"
         },
         {
           "title": "对于光伏，大家怎么看？",
@@ -68,11 +68,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时10分 ~ 14时20分]"
+          "appearance_count": 16,
+          "time_info": "[01时10分 ~ 15时14分]"
         }
       ]
     }
