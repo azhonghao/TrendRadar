@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T16:19:20.031839+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2025-11-03T17:18:00.187027+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时15分 ~ 16时19分]"
+        },
+        {
+          "title": "为什么日系车总是不给试驾，国产车特别是新能源求着你去试驾？",
+          "url": "https://www.zhihu.com/question/13109006405",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时18分]"
         },
         {
           "title": "对于光伏，大家怎么看？",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "为什么日系车总是不给试驾，国产车特别是新能源求着你去试驾？",
-          "url": "https://www.zhihu.com/question/13109006405",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "中信建投：持续看好储能全球共振大趋势不变",
@@ -82,11 +82,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时10分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[01时10分 ~ 17时18分]"
         }
       ]
     },
@@ -101,7 +102,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
