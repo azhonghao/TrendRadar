@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T01:12:47.053552+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-11-04T02:20:22.453941+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时20分]"
         },
         {
           "title": "据日经新闻：三星集团和日本电力公司Erex将成立储能合资公司。",
@@ -25,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
