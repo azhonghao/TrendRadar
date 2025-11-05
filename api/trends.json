@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T17:16:29.440058+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-11-05T18:15:31.444638+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股光伏板块午后拉升，通润装备直线涨停，阿特斯涨超10%，天合光能、京山轻机、阳光电源、东方日升、天宜新材跟涨。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时22分]"
+        },
+        {
+          "title": "国家能源局副局长宋宏坤：“十四五”以来 中国新型储能直接带动项目投资超两千亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/2999812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "创业板指涨幅扩大至1%，早盘一度跌超2%。沪指涨0.16%，深证成指涨0.33%。光伏储能板块持续拉升。",
@@ -59,7 +70,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -70,7 +81,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
