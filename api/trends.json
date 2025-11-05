@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T03:11:35.450857+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2025-11-06T04:16:25.681498+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 04时16分]"
         },
         {
           "title": "截至9月底我国新型储能装机规模超1亿千瓦",
