@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-11-05T13:14:46.972445+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2025-11-05T14:22:01.703892+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股光伏板块午后拉升，通润装备直线涨停，阿特斯涨超10%，天合光能、京山轻机、阳光电源、东方日升、天宜新材跟涨。",
           "url": "https://wallstreetcn.com/livenews/2999644",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时22分]"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%，早盘一度跌超2%。沪指涨0.16%，深证成指涨0.33%。光伏储能板块持续拉升。",
+          "url": "https://wallstreetcn.com/livenews/2999646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时22分"
         },
         {
           "title": "赛力斯今日港股上市募资140亿港元 为“首家A+H豪华新能源车企”​",
