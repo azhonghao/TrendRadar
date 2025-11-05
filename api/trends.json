@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T00:16:53.028108+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-06T01:15:40.627708+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时15分]"
         },
         {
           "title": "说好的新能源高歌猛进，为什么燃油车又杀来了？",
@@ -26,8 +26,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时15分]"
+        },
+        {
+          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
+          "url": "https://www.cls.cn/detail/2191911",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "01时15分"
         }
       ]
     }
