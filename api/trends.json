@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T14:20:22.344288+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-11-06T15:15:05.322748+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 14时20分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
-          "url": "https://www.cls.cn/detail/2191989",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 15时15分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -40,8 +29,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 15时15分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "说好的新能源高歌猛进，为什么燃油车又杀来了？",
