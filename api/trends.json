@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-08T01:12:12.104599+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-08T02:18:24.979008+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局：推进煤炭与新能源融合发展",
+          "url": "https://www.cls.cn/detail/2194362",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
