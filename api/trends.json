@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:25:02.725057+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2025-11-07T21:25:48.536162+08:00",
+  "total_titles_processed": 1915,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时25分]"
         },
         {
           "title": "国家能源局9月核发绿证2.29亿个",
