@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-08T12:14:58.098698+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-11-08T13:12:46.877084+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 3,
       "titles": [
+        {
+          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
+          "url": "https://flash.jin10.com/detail/20251108100640646800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时12分]"
+        },
         {
           "title": "国家能源局：推进煤炭与新能源融合发展",
           "url": "https://www.cls.cn/detail/2194362",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 03时11分]"
-        },
-        {
-          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
-          "url": "https://flash.jin10.com/detail/20251108100640646800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时14分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
