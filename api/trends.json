@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:12:46.877084+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2025-11-08T14:17:48.694947+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             15,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 13时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 14时17分]"
         },
         {
           "title": "国家能源局：推进煤炭与新能源融合发展",
