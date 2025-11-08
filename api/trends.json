@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T22:11:15.113116+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-11-08T23:13:23.532779+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             11,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 23时13分]"
         },
         {
           "title": "国金证券：固态电池技术突破与储能需求爆发，全面看好锂电产业链",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时11分]"
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时13分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
