@@ -1,50 +1,7 @@
 {
-  "generated_at": "2025-11-09T23:11:29.985579+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2025-11-10T00:15:16.592449+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国金证券：固态电池技术突破与储能需求爆发，全面看好锂电产业链",
-          "url": "https://wallstreetcn.com/livenews/3001570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20,
-            21,
-            28,
-            6,
-            7,
-            10,
-            14,
-            16,
-            18,
-            22,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 19时09分]"
-        },
-        {
-          "title": "长春车展：新能源汽车加速北上“破冰”高寒市场",
-          "url": "https://wallstreetcn.com/livenews/3001566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
