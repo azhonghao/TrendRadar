@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T18:12:25.245386+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2025-11-09T19:09:54.092364+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
             16,
             18,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 18时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 19时09分]"
         },
         {
           "title": "长春车展：新能源汽车加速北上“破冰”高寒市场",
