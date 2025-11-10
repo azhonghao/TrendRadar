@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T16:21:02.328282+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2025-11-10T17:16:36.366752+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "【两部门：到2030年，协同高效的多层次新能源消纳调控体系基本建立】国家发展改革委、国家能源局发布关于促进新能源消纳和调控的指导意见。其中提出，到2030年，协同高效的多层次新能源消纳调控体系基本建立，持续保障新能源顺利接网、多元利用、高效运行，新增用电量需求主要由新增新能源发电满足。新型电力系统适配能力显著增强，系统调节能力大幅提升，电力市场促进新能源消纳的机制更加健全，跨省跨区新能源交易更加顺畅，满足全国每年新增2亿千瓦以上新能源合理消纳需求，助力实现碳达峰目标。到2035年，适配高比例新能源的新型电力系统基本建成，新能源消纳调控体系进一步完善，全国统一电力市场在新能源资源配置中发挥基础作用，新能源在全国范围内优化配置、高效消纳，支撑实现国家自主贡献目标。",
@@ -14,18 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "乘联分会：中国10月新能源汽车零售销量同比增长7.3%，环比下降1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3002038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -42,6 +31,29 @@
           "time_info": "[08时59分 ~ 10时50分]"
         },
         {
+          "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
+          "url": "https://www.cls.cn/detail/2195982",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "乘联分会：中国10月新能源汽车零售销量同比增长7.3%，环比下降1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3002038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时16分]"
+        },
+        {
           "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
           "url": "https://wallstreetcn.com/livenews/3001788",
           "source": "华尔街见闻-快讯",
@@ -51,12 +63,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        },
+        {
+          "title": "两部门：加快修订新能源并网技术标准",
+          "url": "https://wallstreetcn.com/livenews/3002046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "两部门：推动海上风电规范有序开发与消纳，科学高效推动省内集中式新能源开发与消纳",
+          "url": "https://wallstreetcn.com/livenews/3002045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "两部门：结合雅下水电基地开发，优化论证新能源配置及送出消纳方案",
+          "url": "https://wallstreetcn.com/livenews/3002041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
+          "url": "https://wallstreetcn.com/livenews/3002039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "国家能源局主要负责同志赴甘肃省调研定点帮扶工作",
@@ -69,6 +125,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 16时21分]"
+        },
+        {
+          "title": "国家发改委等部门：推动企业物流数据开放互联",
+          "url": "https://wallstreetcn.com/livenews/3002064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3002060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
