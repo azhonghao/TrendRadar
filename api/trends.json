@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T01:14:17.457070+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-11-11T02:19:06.984766+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时19分]"
         },
         {
           "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时19分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3002253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时19分]"
         }
       ]
     }
