@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T09:00:11.170356+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-11-10T10:50:31.031868+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2195198",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时50分]"
         },
         {
           "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
@@ -25,7 +26,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         }
