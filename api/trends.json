@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T03:11:34.401754+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2025-11-11T04:16:02.537039+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 04时16分]"
         },
         {
           "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
           "url": "https://www.cls.cn/detail/2195982",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 04时16分]"
         }
       ]
     },
