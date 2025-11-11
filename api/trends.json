@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T10:42:55.131520+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-11-11T11:42:50.364343+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
@@ -31,15 +31,26 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "11月11日午间收评：创业板指高开低走跌0.74%，超硬材料、光伏板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3002496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "两部门发文促进新能源消纳 储能行业迎加速发展机遇",
           "url": "https://www.cls.cn/detail/2196584",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 11时42分]"
         }
       ]
     },
@@ -56,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时42分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
