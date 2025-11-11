@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T12:18:42.669256+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2025-11-11T13:14:36.662756+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时14分]"
         },
         {
           "title": "两部门发文促进新能源消纳 储能行业迎加速发展机遇",
@@ -51,8 +52,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 13时14分]"
+        },
+        {
+          "title": "印度阿达尼集团将在印度建设电池储能系统项目，该项目涉及部署超过700个电池储能系统集装箱。",
+          "url": "https://flash.jin10.com/detail/20251111115450480800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -69,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 13时14分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
