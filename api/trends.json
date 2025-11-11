@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T03:10:47.002060+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-11-12T04:14:58.458221+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             6,
             8,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -30,19 +31,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
           "url": "https://www.cls.cn/detail/2197163",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时14分]"
         }
       ]
     }
