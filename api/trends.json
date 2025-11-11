@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T20:24:52.503329+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2025-11-11T21:26:45.666859+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,19 @@
           "time_info": "[16时17分 ~ 20时24分]"
         },
         {
+          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时26分]"
+        },
+        {
           "title": "【创业板指高开低走跌1.4%，超硬材料、光伏板块逆势走强】市场全天震荡调整，深成指、创业板指均跌超1%。超硬材料概念逆势大涨，四方达、黄河旋风涨停。光伏板块集体走强，中来股份、协鑫集成等封板。大消费板块午后拉升，欢乐家、三元股份等涨停。下跌方面，存储芯片板块调整，香农芯创跌超10%；算力硬件股下挫，天孚通信跌超7%。个股涨跌互现，今日成交2.01万亿。截止收盘沪指跌0.39%，深成指跌1.03%，创业板指跌1.4%。",
           "url": "https://wallstreetcn.com/livenews/3002588",
           "source": "华尔街见闻-快讯",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时42分 ~ 14时20分]"
-        },
-        {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时24分]"
         },
         {
           "title": "太蓝新能源高翔：2025年是半固态电池产业化应用元年",
@@ -158,7 +158,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         }
@@ -166,7 +166,7 @@
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "国家发改委：鼓励地方按照中试特点 探索简化项目建设前置要件审批程序",
@@ -200,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "国家发改委等部门印发《招标人主体责任履行指引》",
+          "url": "https://wallstreetcn.com/livenews/3002820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "国家发改委：中试需求十分迫切 正是民营企业大展身手之时",
