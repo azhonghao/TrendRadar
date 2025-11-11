@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T07:12:47.724995+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-11-11T09:01:05.457832+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时19分]"
+        },
+        {
+          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
+          "url": "https://www.cls.cn/detail/2196521",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }
