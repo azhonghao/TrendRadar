@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:17:53.049670+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-12T13:16:12.968456+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时16分]"
         },
         {
           "title": "首次！中国新能源车月销量超燃油车",
@@ -41,6 +41,19 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
+          "title": "美国缺电“过桥”唯一选项！瑞银：“储能”需求相当于第二个“电车”，锂价告别熊市",
+          "url": "https://wallstreetcn.com/articles/3759117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时16分]"
+        },
+        {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
           "url": "https://www.cls.cn/detail/2197163",
           "source": "财联社热门",
@@ -53,28 +66,16 @@
           "time_info": "[01时12分 ~ 06时14分]"
         },
         {
-          "title": "美国缺电“过桥”唯一选项！瑞银：“储能”需求相当于第二个“电车”，锂价告别熊市",
-          "url": "https://wallstreetcn.com/articles/3759117",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 12时17分]"
-        },
-        {
           "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
           "url": "https://wallstreetcn.com/articles/3759102",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时16分]"
         }
       ]
     },
@@ -91,8 +92,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时16分]"
         }
       ]
     }
