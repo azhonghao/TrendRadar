@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T06:13:32.850384+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-11-13T07:13:34.602187+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -52,11 +52,12 @@
             10,
             8,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
@@ -83,11 +84,12 @@
             4,
             14,
             10,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         }
       ]
     }
