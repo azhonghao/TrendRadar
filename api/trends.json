@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:15:06.250054+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2025-11-12T23:15:11.463666+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时18分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[16时18分 ~ 23时15分]"
         },
         {
           "title": "中国光伏行业协会：妄图通过造谣抹黑、恶意做空光伏行业牟取利益的恶劣行为 将与之斗争到底",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时18分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[16时18分 ~ 23时15分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -133,11 +133,24 @@
             16,
             19,
             15,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时15分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[17时15分 ~ 23时15分]"
+        },
+        {
+          "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
+          "url": "https://wallstreetcn.com/articles/3759217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时15分]"
         },
         {
           "title": "美国缺电“过桥”唯一选项！瑞银：“储能”需求相当于第二个“电车”，锂价告别熊市",
@@ -177,18 +190,6 @@
           "time_info": "[01时12分 ~ 06时14分]"
         },
         {
-          "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
-          "url": "https://wallstreetcn.com/articles/3759217",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 22时15分]"
-        },
-        {
           "title": "多晶硅期货主力合约强势反弹，日内由跌转涨，此前一度跌近4%，现报53230元/吨。消息面上，中国光伏行业协会声明称，网络流传的小道消息均为不实信息。",
           "url": "https://flash.jin10.com/detail/20251112145048428800",
           "source": "金十数据",
@@ -198,6 +199,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
+          "url": "https://www.cls.cn/detail/2198526",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时14分 ~ 23时15分]"
         },
         {
           "title": "通威股份：坚定看好和支持光伏“反内卷”行动",
@@ -247,15 +260,15 @@
           "time_info": "[22时14分 ~ 22时15分]"
         },
         {
-          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
-          "url": "https://www.cls.cn/detail/2198526",
+          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
+          "url": "https://www.cls.cn/detail/2197827",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "光伏",
@@ -312,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时41分 ~ 22时15分]"
+          "appearance_count": 21,
+          "time_info": "[11时41分 ~ 23时15分]"
         }
       ]
     }
