@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T04:15:07.679572+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-13T05:13:08.966186+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
@@ -28,8 +28,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
+          "url": "https://wallstreetcn.com/articles/3759217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -41,18 +53,6 @@
             8,
             16,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
-          "url": "https://wallstreetcn.com/articles/3759217",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -86,8 +86,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时13分]"
         }
       ]
     }
