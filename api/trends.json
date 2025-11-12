@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T13:16:12.968456+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-11-12T14:20:44.114555+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 13时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 14时20分]"
         },
         {
           "title": "首次！中国新能源车月销量超燃油车",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
@@ -74,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 14时20分]"
         }
       ]
     },
@@ -89,11 +89,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 14时20分]"
         }
       ]
     }
