@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T13:14:58.068441+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-11-13T14:20:41.454038+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时20分]"
         },
         {
           "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -73,6 +73,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
+          "url": "https://wallstreetcn.com/articles/3759183",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "阿特斯签下1.86GWh加拿大储能大单",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
-          "url": "https://wallstreetcn.com/articles/3759183",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 13时14分]"
         },
         {
           "title": "工信部：编制“十五五”智能网联新能源汽车、新型电池产业发展规划",
