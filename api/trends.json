@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T02:19:02.426445+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-11-14T03:11:00.017414+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时10分]"
         },
         {
           "title": "特斯拉(TSLA.O)跌幅扩大至5%，其此前召回约10500套Powerwall 2交流电池储能系统。",
