@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-13T16:18:04.976686+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2025-11-13T17:15:43.160474+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
+          "url": "https://www.cls.cn/detail/2199005",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 17时15分]"
+        },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
           "url": "https://www.cls.cn/detail/2198526",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时13分]"
-        },
-        {
-          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
-          "url": "https://www.cls.cn/detail/2199005",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 16时18分]"
         },
         {
           "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
