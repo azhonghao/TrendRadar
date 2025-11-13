@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-14T01:14:17.980533+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-11-14T02:19:02.426445+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 4,
       "titles": [
+        {
+          "title": "【焦点复盘】创业板指放量涨超2%，锂电、储能赛道持续火爆，“宁王”盘中一度飙升逾9%",
+          "url": "https://www.cls.cn/detail/2199765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时19分]"
+        },
         {
           "title": "特斯拉(TSLA.O)跌幅扩大至5%，其此前召回约10500套Powerwall 2交流电池储能系统。",
           "url": "https://flash.jin10.com/detail/20251113233121765800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "【焦点复盘】创业板指放量涨超2%，锂电、储能赛道持续火爆，“宁王”盘中一度飙升逾9%",
-          "url": "https://www.cls.cn/detail/2199765",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时14分]"
         },
         {
           "title": "美国消费品安全委员会：特斯拉召回约10500套Powerwall 2交流电池储能系统。该公司已收到22起过热报告，尚未报告任何人员受伤。",
