@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T10:30:47.231810+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-11-14T11:41:57.521530+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】创业板指放量涨超2%，锂电、储能赛道持续火爆，“宁王”盘中一度飙升逾9%",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1970799763776599605",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "纳斯达克金龙中国指数盘初跌0.38%，随后转涨。 热门中概股里，B站跌6.9%，万国数据跌4.4%，世纪互联跌2%，百度、大全新能源、文远知行至多跌1.3%。 理想涨1.85%，贝壳涨2%，阿里巴巴涨3.3%。 ETF中，CQQQ涨0.2%，KWEB涨0.4%，ASHR涨1.12%。",
