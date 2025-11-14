@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:17:20.164047+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2025-11-14T13:14:03.241052+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 13时14分]"
         },
         {
           "title": "美国消费品安全委员会：特斯拉召回约10500套Powerwall 2交流电池储能系统。该公司已收到22起过热报告，尚未报告任何人员受伤。",
