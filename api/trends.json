@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T11:41:57.521530+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-14T12:17:20.164047+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "00时16分"
         },
         {
+          "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1970799763776599605",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时17分]"
+        },
+        {
           "title": "美国消费品安全委员会：特斯拉召回约10500套Powerwall 2交流电池储能系统。该公司已收到22起过热报告，尚未报告任何人员受伤。",
           "url": "https://flash.jin10.com/detail/20251113231354405800",
           "source": "金十数据",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1970799763776599605",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "纳斯达克金龙中国指数盘初跌0.38%，随后转涨。 热门中概股里，B站跌6.9%，万国数据跌4.4%，世纪互联跌2%，百度、大全新能源、文远知行至多跌1.3%。 理想涨1.85%，贝壳涨2%，阿里巴巴涨3.3%。 ETF中，CQQQ涨0.2%，KWEB涨0.4%，ASHR涨1.12%。",
