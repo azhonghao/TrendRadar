@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:09:51.313882+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2025-11-16T02:16:32.477133+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "科研人员研发“闪速退火”工艺，一秒“炼”就晶圆级高性能储能薄膜",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     }
