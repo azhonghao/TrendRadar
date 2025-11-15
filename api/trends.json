@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:12:38.352891+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-15T19:09:50.112097+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 19时09分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.6%，本周累跌约2.5%。 热门中概股里，阿特斯太阳能初步收涨18%，悦刻电子烟涨10%，大全新能源涨6%，百度则跌3.8%，京东跌4.6%，小鹏跌5.2%。",
