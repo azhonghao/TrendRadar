@@ -1,50 +1,7 @@
 {
-  "generated_at": "2025-11-16T23:11:43.334034+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2025-11-17T00:13:55.390630+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "与“十三五”末相比，我国新型储能装机规模暴增超3000%",
-          "url": "https://wallstreetcn.com/livenews/3005197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 09时02分]"
-        },
-        {
-          "title": "科研人员研发“闪速退火”工艺，一秒“炼”就晶圆级高性能储能薄膜",
-          "url": "https://wallstreetcn.com/livenews/3005175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
-          "url": "https://wallstreetcn.com/livenews/3005329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 22时10分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
