@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T07:11:39.814298+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-11-16T09:02:11.833595+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3005197",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时02分]"
         },
         {
           "title": "科研人员研发“闪速退火”工艺，一秒“炼”就晶圆级高性能储能薄膜",
