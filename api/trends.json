@@ -1,7 +1,9 @@
 {
-  "generated_at": "2025-11-18T19:12:21.380564+08:00",
-  "total_titles_processed": 1736,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:28:01.565243+08:00",
+  "total_titles_processed": 1795,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
@@ -61,7 +63,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
