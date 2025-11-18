@@ -1,72 +1,7 @@
 {
-  "generated_at": "2025-11-18T23:15:06.713223+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2025-11-19T00:17:43.114541+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "北京：加大对汽车特别是新能源汽车消费的金融支持力度",
-          "url": "https://wallstreetcn.com/livenews/3006359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时15分]"
-        },
-        {
-          "title": "洁美科技：控股子公司柔震科技与宁德新能源科技有限公司签署《合作开发框架协议》，双方就“锂电池复合集流体”的联合设计开发、技术成果交付及后续产能保障等事宜达成合作，柔震科技将依据ATL需求完成定制化开发、样品交付及量产供应，双方共同推进复合集流体在锂电池领域的产业化应用。",
-          "url": "https://wallstreetcn.com/livenews/3006388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时16分]"
-        },
-        {
-          "title": "A股储能概念持续调整，海博思创跌超10%，阿特斯、鹏辉能源、永福股份、奥特迅、派能科技等多股跌逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3006267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
-        },
-        {
-          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
-          "url": "https://wallstreetcn.com/livenews/3006131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "储能电池成本过去13年下降89%，推动“光伏+储能”成为最经济的绿色能源组合",
-          "url": "https://wallstreetcn.com/livenews/3006452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
