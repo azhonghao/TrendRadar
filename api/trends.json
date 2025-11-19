@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-20T06:13:16.197859+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2025-11-20T07:12:50.484257+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国内外需求共振，储能赛道迎“价值重估”",
+          "url": "https://wallstreetcn.com/livenews/3007444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
         {
           "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
           "url": "https://flash.jin10.com/detail/20251120015210196800",
