@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T03:10:57.766477+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-11-21T04:15:12.377669+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时15分]"
         },
         {
           "title": "霸王茶姬张俊杰将迎娶“光伏二代”高海纯？天合光能回应：已登记结婚",
           "url": "https://www.cls.cn/detail/2206631",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 04时15分]"
         },
         {
           "title": "印度第一大光伏邦Rajasthan的电力监管部门阻止拟议的3.2 GW煤炭发电计划，称与清洁能源目标有冲突。",
