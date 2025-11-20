@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-20T16:18:46.985863+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2025-11-20T17:15:01.582707+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 6,
       "titles": [
-        {
-          "title": "霸王茶姬CEO将与“光伏女神”结婚",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%ACCEO%E5%B0%86%E4%B8%8E%E2%80%9C%E5%85%89%E4%BC%8F%E5%A5%B3%E7%A5%9E%E2%80%9D%E7%BB%93%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时18分]"
-        },
         {
           "title": "霸王茶姬创始人将与“光伏女神”结婚",
           "url": "https://www.toutiao.com/trending/7574636005870534675/",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 17时15分]"
+        },
+        {
+          "title": "霸王茶姬CEO将与“光伏女神”结婚",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%ACCEO%E5%B0%86%E4%B8%8E%E2%80%9C%E5%85%89%E4%BC%8F%E5%A5%B3%E7%A5%9E%E2%80%9D%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 17时15分]"
         },
         {
           "title": "财政部、工信部发布关于征求《新能源汽车政府采购需求标准（征求意见稿）》意见的函",
