@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:12:35.491366+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-11-20T20:25:05.876355+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 20时25分]"
         },
         {
           "title": "霸王茶姬CEO将与“光伏女神”结婚",
@@ -52,7 +53,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
