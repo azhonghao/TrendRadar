@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T14:20:14.972491+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2025-11-21T15:14:17.589927+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 15时14分]"
         },
         {
           "title": "沪指跌幅扩大至2%，深成指跌2.88%，创业板指跌3.27%，锂电产业链、算力硬件、光伏、存储芯片等方向跌幅居前，沪深京三市下跌个股近5100只。",
