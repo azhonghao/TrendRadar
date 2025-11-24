@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T07:12:11.415328+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2025-11-24T09:01:21.202433+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2208107",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 09时01分]"
         },
         {
           "title": "储能项目大型化趋势显现，业界看好行业超预期发展",
@@ -25,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
