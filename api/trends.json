@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T22:15:50.878115+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-11-24T23:15:25.633445+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时15分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[18时15分 ~ 23时15分]"
         },
         {
           "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
