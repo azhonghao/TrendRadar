@@ -1,76 +1,22 @@
 {
-  "generated_at": "2025-11-24T23:15:25.633445+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2025-11-25T00:14:44.575444+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "储能“出海加速度”跑出20倍大牛股：揭秘一众厂商背后掌握的“财富密码”",
-          "url": "https://www.cls.cn/detail/2208107",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 09时01分]"
-        },
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
           "url": "https://wallstreetcn.com/articles/3759974",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时15分 ~ 23时15分]"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时17分]"
-        },
-        {
-          "title": "储能项目大型化趋势显现，业界看好行业超预期发展",
-          "url": "https://wallstreetcn.com/livenews/3009199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家能源局：截至10月底，全国累计发电装机容量同比增长17.3%",
-          "url": "https://wallstreetcn.com/livenews/3009397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "00时14分"
         }
       ]
     }
