@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T17:17:11.218025+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2025-11-24T18:16:10.988588+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "储能“出海加速度”跑出20倍大牛股：揭秘一众厂商背后掌握的“财富密码”",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时14分 ~ 17时17分]"
+        },
+        {
+          "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "储能项目大型化趋势显现，业界看好行业超预期发展",
