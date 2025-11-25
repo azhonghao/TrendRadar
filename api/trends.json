@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T17:16:47.546075+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2025-11-25T18:15:39.735588+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "url": "https://www.cls.cn/detail/2210210",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
         },
         {
           "title": "中信建投：坚定看好储能需求向好趋势 短期扰动不改行业大势",
