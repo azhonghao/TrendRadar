@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T16:19:02.705666+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-25T17:16:47.546075+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时13分]"
+        },
+        {
+          "title": "年内涨幅超130%，光伏、军工、PCB钻针新兴需求强劲，钨正迎来重新估值？",
+          "url": "https://www.cls.cn/detail/2210210",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "中信建投：坚定看好储能需求向好趋势 短期扰动不改行业大势",
