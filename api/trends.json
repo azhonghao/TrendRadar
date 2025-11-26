@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T10:43:58.118829+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-11-26T11:44:24.834109+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1975493689821390813",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 11时44分]"
         },
         {
           "title": "中金：锂电新一轮上行周期启动 储能有望成为核心“推手”",
