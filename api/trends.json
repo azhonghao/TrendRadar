@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T16:18:44.522117+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2025-11-26T17:16:00.896449+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             22,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时16分]"
         },
         {
           "title": "国家发改委：轻微失信信息原则上不予公示",
@@ -62,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 17时16分]"
         },
         {
           "title": "中金：锂电新一轮上行周期启动 储能有望成为核心“推手”",
