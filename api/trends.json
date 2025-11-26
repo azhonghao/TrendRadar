@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:13:20.766266+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-11-26T20:26:21.130302+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
             11,
             9,
             10,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时43分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[10时43分 ~ 20时26分]"
         },
         {
           "title": "中金：锂电新一轮上行周期启动 储能有望成为核心“推手”",
