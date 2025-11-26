@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-26T14:20:18.990487+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-11-26T15:14:35.157951+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
       "match_count": 3,
       "titles": [
-        {
-          "title": "预告：国家发改委定于11月27日（星期四）下午3:00召开新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3010673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
         {
           "title": "国家发改委：轻微失信信息原则上不予公示",
           "url": "https://wallstreetcn.com/livenews/3010614",
@@ -31,15 +20,28 @@
           "time_info": "[12时19分 ~ 13时13分]"
         },
         {
+          "title": "预告：国家发改委定于11月27日（星期四）下午3:00召开新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3010673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时14分]"
+        },
+        {
           "title": "发改委：轻微失信信息原则上不予公示",
           "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E8%BD%BB%E5%BE%AE%E5%A4%B1%E4%BF%A1%E4%BF%A1%E6%81%AF%E5%8E%9F%E5%88%99%E4%B8%8A%E4%B8%8D%E4%BA%88%E5%85%AC%E7%A4%BA",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 15时14分]"
         }
       ]
     },
@@ -55,11 +57,12 @@
             12,
             11,
             9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 15时14分]"
         },
         {
           "title": "中金：锂电新一轮上行周期启动 储能有望成为核心“推手”",
