@@ -1,115 +1,22 @@
 {
-  "generated_at": "2025-11-27T23:13:50.549162+08:00",
-  "total_titles_processed": 2023,
+  "generated_at": "2025-11-28T00:15:59.030042+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "国家发展改革委：鼓励多种新型储能和氢能技术路线有序发展",
-          "url": "https://wallstreetcn.com/livenews/3011426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时14分]"
-        },
-        {
-          "title": "当地储能需求上升 中国企业考虑在印度建电池厂",
-          "url": "https://wallstreetcn.com/livenews/3011425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时14分]"
-        },
-        {
-          "title": "国家发展改革委：全国新型储能装机超过1亿千瓦，是“十三五”末的30倍以上",
-          "url": "https://wallstreetcn.com/livenews/3011422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时14分]"
-        },
-        {
-          "title": "为什么多是新能源钻研豪华的事，自主燃油卖不上价值？",
-          "url": "https://www.zhihu.com/question/1976240547309043797",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.03%，报7750.79点。 热门中概股里，阿特斯太阳能涨8.4%，大全新能源涨3.2%，文远知行涨1.7%，金山云则跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.64%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收涨0.01%，德银嘉实沪深300指数ETF（ASHR）收涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3011058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "新能源蛇妖",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%9B%87%E5%A6%96&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "国家发改委：要注意防范重复度高的人形机器人产品“扎堆”上市",
           "url": "https://www.cls.cn/detail/2212698",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 23时13分]"
-        },
-        {
-          "title": "国家发改委：去年和今年分别安排7000亿元、8000亿元超长期特别国债",
-          "url": "https://wallstreetcn.com/livenews/3011375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "00时15分"
         }
       ]
     }
