@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T17:15:16.269718+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-11-27T18:14:52.006427+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时14分]"
         },
         {
           "title": "当地储能需求上升 中国企业考虑在印度建电池厂",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时14分]"
         },
         {
           "title": "国家发展改革委：全国新型储能装机超过1亿千瓦，是“十三五”末的30倍以上",
@@ -37,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时14分]"
         },
         {
           "title": "为什么多是新能源钻研豪华的事，自主燃油卖不上价值？",
@@ -89,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时14分]"
         },
         {
           "title": "国家发改委：去年和今年分别安排7000亿元、8000亿元超长期特别国债",
