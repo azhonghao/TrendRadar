@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:14:52.006427+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2025-11-27T19:12:22.377067+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
@@ -93,11 +93,12 @@
           "ranks": [
             13,
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "国家发改委：去年和今年分别安排7000亿元、8000亿元超长期特别国债",
