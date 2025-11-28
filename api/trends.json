@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T21:26:35.992640+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2025-11-28T22:13:20.270767+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 22时13分]"
         },
         {
           "title": "事关动力和储能电池！工信部加速推进“反内卷” 机构看好行业供需结构改善",
@@ -101,11 +101,12 @@
           "ranks": [
             10,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "晶科能源：预计明年全球储能装机需求超400GWh 明年储能系统发货目标翻倍增长",
