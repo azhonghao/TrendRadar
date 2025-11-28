@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T06:12:07.099545+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-11-29T07:12:34.644479+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
@@ -27,8 +27,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家能源局 发改委 湖南发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委表示要注意防范重复度高的人形机器人产品扎堆上市，我国已有超 150 家人形机器人企业，如何解读？",
+          "url": "https://www.zhihu.com/question/1977401930948044538",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }
