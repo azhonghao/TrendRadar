@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:25:09.376260+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2025-11-28T21:26:35.992640+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 21时26分]"
+        },
+        {
+          "title": "事关动力和储能电池！工信部加速推进“反内卷” 机构看好行业供需结构改善",
+          "url": "https://www.cls.cn/detail/2214281",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时26分]"
         },
         {
           "title": "晶科能源：预计明年全球储能装机需求超400GWh 明年储能系统发货目标翻倍增长",
@@ -115,18 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
-        },
-        {
-          "title": "事关动力和储能电池！工信部加速推进“反内卷” 机构看好行业供需结构改善",
-          "url": "https://www.cls.cn/detail/2214281",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时25分]"
         },
         {
           "title": "天津“十五五”规划建议：加快推动信创、生物医药、新能源、新材料、航空航天等成长为支柱产业",
