@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:18:13.234105+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-11-29T15:12:24.882437+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -60,19 +60,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时12分 ~ 14时18分]"
+          "appearance_count": 12,
+          "time_info": "[07时12分 ~ 15时12分]"
         },
         {
           "title": "国家发改委主任发文 信息量很大",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E4%B8%BB%E4%BB%BB%E5%8F%91%E6%96%87+%E4%BF%A1%E6%81%AF%E9%87%8F%E5%BE%88%E5%A4%A7",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时12分]"
         }
       ]
     }
