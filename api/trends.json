@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T11:41:12.777651+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-11-29T12:16:07.980712+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 11时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 12时16分]"
         },
         {
           "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
@@ -36,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时16分]"
         }
       ]
     },
@@ -57,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 11时41分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时16分]"
         }
       ]
     }
