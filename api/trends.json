@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:12:24.882437+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-11-29T16:16:55.915609+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时12分 ~ 15时12分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 16时16分]"
         },
         {
           "title": "国家发改委主任发文 信息量很大",
@@ -69,11 +70,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 15时12分]"
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时16分]"
         }
       ]
     }
