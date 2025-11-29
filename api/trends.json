@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:13:16.903622+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-29T14:18:13.234105+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -38,17 +38,18 @@
             5,
             8,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 14时18分]"
         }
       ]
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国家发改委表示要注意防范重复度高的人形机器人产品扎堆上市，我国已有超 150 家人形机器人企业，如何解读？",
@@ -59,8 +60,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时12分 ~ 13时13分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 14时18分]"
+        },
+        {
+          "title": "国家发改委主任发文 信息量很大",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E4%B8%BB%E4%BB%BB%E5%8F%91%E6%96%87+%E4%BF%A1%E6%81%AF%E9%87%8F%E5%BE%88%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         }
       ]
     }
