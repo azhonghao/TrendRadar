@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T07:12:34.644479+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-29T08:56:26.170487+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时56分]"
         },
         {
           "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
@@ -41,11 +41,12 @@
           "url": "https://www.zhihu.com/question/1977401930948044538",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时56分]"
         }
       ]
     }
