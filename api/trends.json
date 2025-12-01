@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T07:12:41.159391+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-01T09:09:21.555244+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "国家发改委：鼓励支持引导广大民营企业把握新一轮科技革命和产业变革等民间投资发展机遇",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "国家发改委：扎实推进民营经济高质量发展任务举措落地见效",
+          "url": "https://wallstreetcn.com/livenews/3012648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "国家能源局：持续完善配网农网规划建设、优化用电营商环境、提升供电可靠性管理等方面的政策文件",
+          "url": "https://wallstreetcn.com/livenews/3012638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     }
