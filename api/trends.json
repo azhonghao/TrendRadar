@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T16:19:58.484686+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-02T17:19:17.967597+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "LG能源计划扩大储能系统电池产能",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "国家能源局：10月，全国新增建档立卡新能源发电项目共5358个",
+          "url": "https://wallstreetcn.com/livenews/3013600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "银河证券：新能源有望打开第二成长空间",
@@ -36,9 +47,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家能源局 发改委 湖南发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委郑栅洁：采取超常规措施 全链条推动重点领域关键核心技术攻关取得决定性突破",
+          "url": "https://wallstreetcn.com/livenews/3013595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     }
