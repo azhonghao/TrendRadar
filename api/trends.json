@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T15:16:56.343816+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-02T16:19:58.484686+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "LG能源计划扩大储能系统电池产能",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "比亚迪 11 月销量 48.02 万辆，同比降 5.24%，累计销量同比增 11.3%，反映了新能源市场哪些变化？",
+          "url": "https://www.zhihu.com/question/1978928382784849162",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
