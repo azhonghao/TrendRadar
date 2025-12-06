@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T16:16:37.043053+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-12-06T17:13:00.694942+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "先导智能辟谣“光伏设备工程师在印度遭遇恶性人身伤害”",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时12分 ~ 16时16分]"
+        },
+        {
+          "title": "光伏板一边发电一边治沙",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E4%BC%8F%E6%9D%BF%E4%B8%80%E8%BE%B9%E5%8F%91%E7%94%B5%E4%B8%80%E8%BE%B9%E6%B2%BB%E6%B2%99%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         }
       ]
     }
