@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:11:07.439493+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-12-07T02:17:09.368089+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "福建省在深远海新能源装备领域实现关键技术突破",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "福建省在深远海新能源装备领域实现关键技术突破",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         }
       ]
     }
