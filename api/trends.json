@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:18:22.184476+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2025-12-06T15:12:35.021627+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             2,
             8,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时12分]"
         },
         {
           "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
           "url": "https://www.zhihu.com/question/1979110285521478648",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时12分]"
         }
       ]
     }
