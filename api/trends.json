@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T17:21:04.703061+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2025-12-08T18:16:15.544441+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "乘联分会：11月新能源车在国内总体乘用车的零售渗透率59.3%",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "光伏板块震荡走强，迈为股份冲击20cm涨停，协鑫集成快速封板，捷佳伟创、赛伍技术、东方日升、艾罗能源等涨幅居前。",
