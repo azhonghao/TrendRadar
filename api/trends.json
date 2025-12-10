@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-10T17:17:36.943353+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2025-12-10T18:16:06.581272+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 5,
       "titles": [
-        {
-          "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32140482",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 10时53分]"
-        },
         {
           "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
           "url": "https://www.cls.cn/detail/2224821",
@@ -28,8 +17,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 18时16分]"
+        },
+        {
+          "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32140482",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时16分 ~ 17时17分]"
+          "time_info": "[09时00分 ~ 10时53分]"
         },
         {
           "title": "储能行业最新研判：2026年出货量增速约40%",
