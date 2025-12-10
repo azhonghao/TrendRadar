@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:19:30.673945+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2025-12-10T17:17:36.943353+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "储能行业最新研判：2026年出货量增速约40%",
@@ -49,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 17时17分]"
         },
         {
           "title": "新能源汽车购置税政策调整在即，车市消费热度持续上升",
