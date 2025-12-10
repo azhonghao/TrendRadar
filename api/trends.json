@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T14:21:40.503632+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2025-12-10T15:17:18.166335+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
+          "url": "https://www.cls.cn/detail/2224821",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
