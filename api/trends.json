@@ -1,72 +1,7 @@
 {
-  "generated_at": "2025-12-10T23:16:54.205930+08:00",
-  "total_titles_processed": 2139,
+  "generated_at": "2025-12-11T00:19:40.908427+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
-          "url": "https://www.cls.cn/detail/2224821",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 22时16分]"
-        },
-        {
-          "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32140482",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 10时53分]"
-        },
-        {
-          "title": "储能行业最新研判：2026年出货量增速约40%",
-          "url": "https://wallstreetcn.com/livenews/3017923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 17时17分]"
-        },
-        {
-          "title": "新能源汽车购置税政策调整在即，车市消费热度持续上升",
-          "url": "https://wallstreetcn.com/livenews/3017915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
