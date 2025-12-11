@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T09:01:26.041808+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2025-12-11T10:55:47.466976+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AIDC储能2030年出货量或达今年20倍",
@@ -25,9 +25,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "新能源车为何修不起",
+          "url": "https://www.toutiao.com/trending/7582287780194271251/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "江苏“十五五”规划建议：增强新一代信息技术、新能源、新材料等产业优势 培育航空航天、低空经济等增长新引擎",
@@ -36,7 +47,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
