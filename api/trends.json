@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T18:15:33.277953+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-11T19:13:23.326781+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             15,
             12,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 19时13分]"
         },
         {
           "title": "两部门：原则上仅允许同一集团内同一省（区、市）的新能源发电企业进行集中报价 禁止跨集团、跨省（区、市）集中报价",
