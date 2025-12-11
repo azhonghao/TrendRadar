@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T07:11:54.874400+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-12-11T09:01:26.041808+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "AIDC储能2030年出货量或达今年20倍",
@@ -14,9 +14,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "中金：2026年储能行业需求景气度仍然较高",
+          "url": "https://wallstreetcn.com/livenews/3018752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "江苏“十五五”规划建议：增强新一代信息技术、新能源、新材料等产业优势 培育航空航天、低空经济等增长新引擎",
+          "url": "https://wallstreetcn.com/livenews/3018735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
