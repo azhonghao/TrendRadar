@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:18:29.526985+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2025-12-12T18:15:11.437166+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2227741",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 18时15分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
