@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T11:45:34.231582+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-12-13T12:19:50.675876+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
@@ -14,9 +14,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "选购 20 万内新能源 SUV，哪款车型能在智能科技上做到「花小钱办大事」？",
+          "url": "https://www.zhihu.com/question/1982602259352285696",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
