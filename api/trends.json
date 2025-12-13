@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T20:23:04.394902+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-12-13T21:22:27.377005+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
@@ -25,49 +25,64 @@
           "time_info": "[14时19分 ~ 20时23分]"
         },
         {
+          "title": "加紧清理拖欠企业账款 ，国家发改委明确时间表",
+          "url": "https://wallstreetcn.com/livenews/3020243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "国家发改委：多措并举促进投资止跌回稳，适当增加中央预算内投资规模",
           "url": "https://wallstreetcn.com/livenews/3020232",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时22分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3020234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时22分]"
         },
         {
           "title": "国家发改委：优化实施消费品以旧换新政策，积极扩大服务消费",
           "url": "https://wallstreetcn.com/livenews/3020233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时22分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能 深化拓展“人工智能+”行动",
           "url": "https://flash.jin10.com/detail/20251213190708740800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时22分]"
         }
       ]
     },
