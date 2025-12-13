@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T04:14:23.477646+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-12-14T05:11:11.864687+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://wallstreetcn.com/livenews/3020243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时11分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3020234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时11分]"
         },
         {
           "title": "国家发改委：优化实施消费品以旧换新政策，积极扩大服务消费",
           "url": "https://wallstreetcn.com/livenews/3020233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时11分]"
         },
         {
           "title": "国家发改委：多措并举促进投资止跌回稳，适当增加中央预算内投资规模",
