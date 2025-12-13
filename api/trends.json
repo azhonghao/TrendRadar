@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-13T10:31:08.890776+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2025-12-13T11:45:34.231582+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
+          "url": "https://www.zhihu.com/question/1982603963074355711",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
