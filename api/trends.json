@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:11:29.906121+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-12-14T20:23:16.854966+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时05分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 20时23分]"
         },
         {
           "title": "国家发改委：提振消费要出实招出新招，综合整治“内卷式”竞争和培育发展新动能",
@@ -97,11 +97,12 @@
           "ranks": [
             2,
             7,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时23分]"
         },
         {
           "title": "罗永浩说豪华新能源就看沃尔沃XC70",
