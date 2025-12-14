@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-14T14:19:35.719908+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-14T15:13:32.208044+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
       "match_count": 6,
       "titles": [
-        {
-          "title": "国家发改委：多渠道促进就业增收，保障民生商品量足价稳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171966",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时19分]"
-        },
         {
           "title": "国家发改委：提振消费要出实招出新招，综合整治“内卷式”竞争和培育发展新动能",
           "url": "https://wallstreetcn.com/articles/3761352",
@@ -28,11 +16,25 @@
             9,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时12分 ~ 15时13分]"
+        },
+        {
+          "title": "国家发改委：多渠道促进就业增收，保障民生商品量足价稳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171966",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 15时13分]"
         },
         {
           "title": "加紧清理拖欠企业账款 ，国家发改委明确时间表",
@@ -95,7 +97,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
