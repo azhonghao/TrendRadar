@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T11:23:17.566562+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-14T12:31:22.028278+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,27 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32171966",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时31分]"
+        },
+        {
+          "title": "国家发改委：提振消费要出实招出新招，综合整治“内卷式”竞争和培育发展新动能",
+          "url": "https://wallstreetcn.com/articles/3761352",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时12分 ~ 12时31分]"
         },
         {
           "title": "加紧清理拖欠企业账款 ，国家发改委明确时间表",
@@ -30,20 +46,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "国家发改委：提振消费要出实招出新招，综合整治“内卷式”竞争和培育发展新动能",
-          "url": "https://wallstreetcn.com/articles/3761352",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时12分 ~ 11时23分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
