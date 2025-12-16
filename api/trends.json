@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:18:16.150439+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-16T16:20:12.378943+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -122,11 +122,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 16时20分]"
         },
         {
           "title": "国家发改委：大力提升居民消费意愿，深入实施提振消费专项行动",
