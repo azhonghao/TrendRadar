@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T11:55:29.940713+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-12-16T12:30:26.899347+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时30分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌1.25%，深成指跌1.69%，军工、贵金属、商业航天、光伏风电等板块跌幅居前，沪深京三市下跌个股超4500只。",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时30分]"
         },
         {
           "title": "车百会理事长张永伟：2026年新能源汽车销量有望达到2000万辆",
@@ -82,7 +84,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -108,11 +110,12 @@
           "url": "https://www.cls.cn/detail/2230564",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 12时30分]"
         },
         {
           "title": "国家发改委：大力提升居民消费意愿，深入实施提振消费专项行动",
