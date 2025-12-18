@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:16:50.881141+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-12-18T14:21:27.741244+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "炒作新能源汽车负面信息团伙被打掉",
@@ -16,22 +16,23 @@
             16,
             15,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 14时21分]"
         },
         {
-          "title": "工信部电子信息司司长杨旭东：将对光伏行业进一步加强产能调控",
-          "url": "https://wallstreetcn.com/livenews/3022846",
+          "title": "隆基绿能钟宝申：超越竞争思维 共同应对光伏行业挑战",
+          "url": "https://wallstreetcn.com/livenews/3022880",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "14时21分"
         },
         {
           "title": "福特汽车取消与韩国LG新能源65亿美元的电动汽车电池合同",
@@ -43,6 +44,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "中国光伏行业协会王勃华：光伏企业应进一步支持参与行业自律，坚决抵制以低于成本的价格开展恶性竞争",
+          "url": "https://wallstreetcn.com/livenews/3022835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时21分]"
         },
         {
           "title": "中国光伏行业协会名誉理事长王勃华：多晶硅产量12年来首次下降",
@@ -58,16 +72,16 @@
           "time_info": "[11时52分 ~ 13时16分]"
         },
         {
-          "title": "中国光伏行业协会王勃华：光伏企业应进一步支持参与行业自律，坚决抵制以低于成本的价格开展恶性竞争",
-          "url": "https://wallstreetcn.com/livenews/3022835",
+          "title": "工信部电子信息司司长杨旭东：将对光伏行业进一步加强产能调控",
+          "url": "https://wallstreetcn.com/livenews/3022846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            12
+            5,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 14时21分]"
         },
         {
           "title": "达拉斯联储能源调查：第四季度石油和天然气产量变化不大。",
@@ -104,11 +118,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时21分]"
         },
         {
           "title": "国家发改委：实施一批具有战略性引领性突破性的重大标志性工程项目",
