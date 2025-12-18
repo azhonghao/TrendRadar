@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-19T02:20:18.967517+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2025-12-19T03:14:02.728268+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国光伏行业协会罕见未预测下一年度新增装机 业内关注组件何时重回“1元”时代",
+          "url": "https://www.cls.cn/detail/2233868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
