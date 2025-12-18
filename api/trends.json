@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T14:21:27.741244+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-12-18T15:17:02.997607+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             15,
             14,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 14时21分]"
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 15时17分]"
         },
         {
           "title": "隆基绿能钟宝申：超越竞争思维 共同应对光伏行业挑战",
@@ -30,7 +31,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -119,11 +120,12 @@
           "ranks": [
             8,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 15时17分]"
         },
         {
           "title": "国家发改委：实施一批具有战略性引领性突破性的重大标志性工程项目",
