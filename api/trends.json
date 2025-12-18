@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T08:58:03.165144+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-12-18T10:48:20.971590+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "福特汽车取消与韩国LG新能源65亿美元的电动汽车电池合同",
@@ -14,9 +14,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "炒作新能源汽车负面信息团伙被打掉",
+          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 10时48分]"
         },
         {
           "title": "达拉斯联储能源调查：第四季度石油和天然气产量变化不大。",
@@ -31,15 +43,15 @@
           "time_info": "[04时16分 ~ 05时13分]"
         },
         {
-          "title": "炒作新能源汽车负面信息团伙被打掉",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
-          "source": "百度热搜",
+          "title": "工信部：2026年将敦促光伏行业进一步加强行业自律",
+          "url": "https://wallstreetcn.com/livenews/3022744",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     }
