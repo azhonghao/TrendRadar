@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T17:19:46.754733+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2025-12-18T18:15:30.608052+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "炒作新能源汽车负面信息团伙被打掉",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "山东破获炒作新能源汽车网络水军案",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%A0%B4%E8%8E%B7%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -126,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 18时15分]"
         },
         {
           "title": "国家发改委：实施一批具有战略性引领性突破性的重大标志性工程项目",
