@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T16:19:20.373717+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2025-12-19T17:17:25.193804+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国光伏行业协会罕见未预测下一年度新增装机 业内关注组件何时重回“1元”时代",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[03时13分 ~ 10时54分]"
+        },
+        {
+          "title": "沈阳：大力发展电化学储能 建设高标准新型电网和储能设施",
+          "url": "https://wallstreetcn.com/livenews/3023806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
