@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-20T07:13:44.017459+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-20T08:57:47.899424+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
           "url": "https://www.zhihu.com/question/1984644910364774911",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时57分]"
+        },
+        {
+          "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
+          "url": "https://wallstreetcn.com/articles/3761702",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "08时57分"
         }
       ]
     }
