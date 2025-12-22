@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T14:22:48.584489+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-12-22T15:19:11.375623+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 15时19分]"
         },
         {
           "title": "2025年光伏行业攻坚战：从价格厮杀到价值重构",
