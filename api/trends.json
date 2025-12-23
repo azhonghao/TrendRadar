@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:18:37.334438+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2025-12-23T18:15:35.733017+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "恒生指数转跌，恒生科技指数现跌0.62%，手游、新消费、互联网医疗、新能源车企、电池等概念股跌幅居前。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时21分]"
+        },
+        {
+          "title": "阿联酋国有可再生能源公司马斯达尔（Masdar）：由马斯达尔牵头的财团在切雷水坝签署200兆瓦漂浮式光伏项目购电协议。该项目预计投资超过8.5亿马来西亚林吉特。",
+          "url": "https://flash.jin10.com/detail/20251223171321942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "中信建投：P型HJT和钙钛矿叠层有望成为短中期太空光伏的主流技术路线",
