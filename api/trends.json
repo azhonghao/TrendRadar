@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T22:14:02.907253+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-12-26T23:14:14.096006+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时55分 ~ 22时14分]"
+          "appearance_count": 20,
+          "time_info": "[11时55分 ~ 23时14分]"
         },
         {
           "title": "国家发改委：加快完善港口集疏运体系和铁海联运衔接设施建设",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时14分]"
         },
         {
           "title": "国家发改委：引导基金对种子期、初创期企业投资规模不低于基金总规模70%",
