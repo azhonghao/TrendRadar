@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:16:13.808615+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-26T14:21:09.488145+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 14时21分]"
+        },
+        {
+          "title": "国家发改委称 2026 年春节放假 9 天并减少调休，回应了社会期待，有哪些利好？你会选择怎样安排？",
+          "url": "https://www.zhihu.com/question/1987509519425762998",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 14时21分]"
         },
         {
           "title": "国家发改委：引导基金对种子期、初创期企业投资规模不低于基金总规模70%",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时55分 ~ 12时31分]"
-        },
-        {
-          "title": "国家发改委称 2026 年春节放假 9 天并减少调休，回应了社会期待，有哪些利好？你会选择怎样安排？",
-          "url": "https://www.zhihu.com/question/1987509519425762998",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 13时16分]"
         },
         {
           "title": "国家能源局：截至11月底，全国累计发电装机容量37.9亿千瓦，同比增长17.1%",
