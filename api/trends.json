@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:15:09.983738+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2025-12-26T19:13:05.981915+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "市场监管总局：发电企业要切实承担起应负责任 光伏招标坚持优质优价",
+          "url": "https://www.cls.cn/detail/2240926",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 19时13分]"
         },
         {
           "title": "LG新能源：弗雷德里希斯贝格电池动力系统（Freudenberg Battery Power Systems）取消电动汽车电池供应协议，原因系该公司已放弃电池业务计划。被取消的合同预计金额约为3.92万亿韩元。",
@@ -43,18 +56,6 @@
           "time_info": "[11时55分 ~ 13时16分]"
         },
         {
-          "title": "市场监管总局：发电企业要切实承担起应负责任 光伏招标坚持优质优价",
-          "url": "https://www.cls.cn/detail/2240926",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时15分]"
-        },
-        {
           "title": "深成指涨超1%，沪指涨0.41%，创业板指涨0.89%，海南自贸区、光伏、锂电池、商业航天等方向领涨，沪深京三市上涨个股近2900只。",
           "url": "https://wallstreetcn.com/livenews/3027008",
           "source": "华尔街见闻-快讯",
@@ -74,7 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -128,8 +129,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 19时13分]"
         },
         {
           "title": "国家发改委称 2026 年春节放假 9 天并减少调休，回应了社会期待，有哪些利好？你会选择怎样安排？",
@@ -139,8 +140,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 19时13分]"
         },
         {
           "title": "国家发改委：引导基金对种子期、初创期企业投资规模不低于基金总规模70%",
