@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T19:11:09.700020+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2025-12-27T20:23:40.815713+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球最大！我国首个百万千瓦级海上光伏项目全容量并网",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
+          "url": "https://news.ifeng.com/c/8pQgfOmDcWs",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
