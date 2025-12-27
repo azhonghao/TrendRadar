@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T05:11:41.991530+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-12-28T06:12:43.264114+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -28,8 +28,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -41,8 +41,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 06时12分]"
         }
       ]
     }
