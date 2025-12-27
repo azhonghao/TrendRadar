@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T17:14:21.565399+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-27T18:13:47.257887+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全球最大！我国首个百万千瓦级海上光伏项目全容量并网",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "新能源车高速没电2人推车被撞身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%AB%98%E9%80%9F%E6%B2%A1%E7%94%B52%E4%BA%BA%E6%8E%A8%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
