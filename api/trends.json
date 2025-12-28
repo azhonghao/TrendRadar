@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T21:25:13.490865+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2025-12-28T22:12:57.169303+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
@@ -90,6 +90,19 @@
           "time_info": "[17时14分 ~ 19时11分]"
         },
         {
+          "title": "宁德举办锂电新能源产业专题推介会 签约项目总投资74.7亿元",
+          "url": "https://flash.jin10.com/detail/20251228193814473800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时12分]"
+        },
+        {
           "title": "宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用",
           "url": "https://flash.jin10.com/detail/20251228181644467800",
           "source": "金十数据",
@@ -100,18 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时11分 ~ 20时23分]"
-        },
-        {
-          "title": "宁德举办锂电新能源产业专题推介会 签约项目总投资74.7亿元",
-          "url": "https://flash.jin10.com/detail/20251228193814473800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时25分]"
         },
         {
           "title": "女子开新能源车意外冲进河里遇难",
