@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T18:13:34.281413+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-28T19:11:48.793482+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
@@ -65,16 +65,28 @@
           "time_info": "[02时18分 ~ 07时13分]"
         },
         {
+          "title": "宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用",
+          "url": "https://flash.jin10.com/detail/20251228181644467800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
           "url": "https://flash.jin10.com/detail/20251228164627469800",
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "女子开新能源车意外冲进河里遇难",
@@ -88,6 +100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时14分]"
+        },
+        {
+          "title": "女子开新能源车意外冲进河里遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%A4%96%E5%86%B2%E8%BF%9B%E6%B2%B3%E9%87%8C%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         }
       ]
     }
