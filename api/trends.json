@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:23:56.319595+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-28T21:25:13.490865+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -65,15 +65,16 @@
           "time_info": "[02时18分 ~ 07时13分]"
         },
         {
-          "title": "宁德举办锂电新能源产业专题推介会 签约项目总投资74.7亿元",
-          "url": "https://flash.jin10.com/detail/20251228193814473800",
-          "source": "金十数据",
+          "title": "女子开新能源车意外冲进河里遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%A4%96%E5%86%B2%E8%BF%9B%E6%B2%B3%E9%87%8C%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
-            7
+            17,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时25分]"
         },
         {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
@@ -101,16 +102,16 @@
           "time_info": "[19时11分 ~ 20时23分]"
         },
         {
-          "title": "女子开新能源车意外冲进河里遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%A4%96%E5%86%B2%E8%BF%9B%E6%B2%B3%E9%87%8C%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
+          "title": "宁德举办锂电新能源产业专题推介会 签约项目总投资74.7亿元",
+          "url": "https://flash.jin10.com/detail/20251228193814473800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            8
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时23分]"
+          "time_info": "[20时23分 ~ 21时25分]"
         },
         {
           "title": "女子开新能源车意外冲进河里遇难",
