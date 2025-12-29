@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:27:37.585988+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2025-12-29T21:32:59.082786+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3028151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时32分]"
         },
         {
           "title": "中金：明年或是光伏主产业链逆转之年",
