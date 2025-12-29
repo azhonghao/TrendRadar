@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T21:32:59.082786+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2025-12-29T22:15:31.225659+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时15分]"
         },
         {
           "title": "中金：明年或是光伏主产业链逆转之年",
