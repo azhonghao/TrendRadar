@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T06:13:49.101131+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2025-12-31T07:12:51.020672+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
