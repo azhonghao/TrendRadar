@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T15:17:49.944785+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-31T16:19:50.022534+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 16时19分]"
         },
         {
           "title": "国家发改委就业收入分配和消费司：着力解决结构性就业矛盾",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "国家发改委：近日下达了2026年提前批两重建设项目清单和中央预算内投资计划 共计约2950亿元",
+          "url": "https://www.cls.cn/detail/2244963",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "发改委：将推动出台妨碍建设全国统一大市场的事项清单",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 12时33分]"
-        },
-        {
-          "title": "国家发改委：近日下达了2026年提前批两重建设项目清单和中央预算内投资计划 共计约2950亿元",
-          "url": "https://www.cls.cn/detail/2244963",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时17分]"
         },
         {
           "title": "发改委：近期批复广州新机场等项目 总投资超4000亿元",
@@ -150,8 +151,20 @@
     },
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 16时19分]"
+        },
         {
           "title": "澎湃漫评｜新能源车禁入地库是刻舟求剑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32282577",
@@ -168,31 +181,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 15时17分]"
-        },
-        {
-          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "12.8GWh全球最大储能群项目并网",
           "url": "https://wallstreetcn.com/livenews/3029153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时19分]"
+        },
+        {
+          "title": "两部门：支持建设分布式独立储能和电网替代型储能",
+          "url": "https://wallstreetcn.com/livenews/3029178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "16时19分"
+        },
+        {
+          "title": "两部门：到2030年“西电东送”规模超过4.2亿千瓦 支撑新能源发电量占比达到30%左右",
+          "url": "https://wallstreetcn.com/livenews/3029175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
