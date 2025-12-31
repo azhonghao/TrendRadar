@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T13:24:39.460909+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2025-12-31T14:21:58.227452+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "国家发改委答财联社：将按照先载货后载人等原则 有序拓展低空经济应用场景",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时21分]"
         },
         {
           "title": "国家发改委就业收入分配和消费司：着力解决结构性就业矛盾",
@@ -97,9 +97,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "国家发改委：近日下达了2026年提前批两重建设项目清单和中央预算内投资计划 共计约2950亿元",
+          "url": "https://www.cls.cn/detail/2244963",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "发改委：2026年提前批“两重”项目安排约2200亿元支持城市地下管网等281个项目",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "国家发改委提前下达约2950亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E6%8F%90%E5%89%8D%E4%B8%8B%E8%BE%BE%E7%BA%A62950%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -140,11 +162,12 @@
             16,
             13,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
@@ -154,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时21分]"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
