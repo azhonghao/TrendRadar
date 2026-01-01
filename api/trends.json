@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:29:42.978515+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-01-01T22:13:35.032968+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
@@ -98,11 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 22时13分]"
         },
         {
           "title": "上汽通用五菱2025年全年销量163.51万辆，同比增长6.2%。新能源年销量首次超过100万辆。",
