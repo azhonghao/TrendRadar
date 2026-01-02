@@ -1,81 +1,22 @@
 {
-  "generated_at": "2026-01-02T23:14:30.384854+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-01-03T00:16:28.840940+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
           "url": "https://www.zhihu.com/question/1990172846333325720",
           "source": "知乎",
           "ranks": [
-            7,
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时33分 ~ 23时14分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：特斯拉在第四季度部署了14.2吉瓦时的储能产品。",
-          "url": "https://flash.jin10.com/detail/20260102220403418800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "全国最大电网侧独立储能示范项目全容量投运",
-          "url": "https://wallstreetcn.com/livenews/3029677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3029761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "总装机容量100万千瓦，年均发电20亿度，索绒光伏电站投产",
-          "url": "https://wallstreetcn.com/livenews/3029695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "比亚迪：12月新能源汽车销量42.04万辆",
-          "url": "https://wallstreetcn.com/livenews/3029608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "00时16分"
         }
       ]
     }
