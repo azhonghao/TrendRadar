@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-02T11:24:34.098172+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-02T12:34:15.507981+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
+          "url": "https://www.zhihu.com/question/1990172846333325720",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
         {
           "title": "全国最大电网侧独立储能示范项目全容量投运",
           "url": "https://wallstreetcn.com/livenews/3029677",
@@ -25,7 +36,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
