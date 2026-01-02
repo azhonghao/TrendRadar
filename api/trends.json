@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T22:14:24.094563+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-01-02T23:14:30.384854+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时33分 ~ 22时14分]"
+          "appearance_count": 14,
+          "time_info": "[12时33分 ~ 23时14分]"
         },
         {
           "title": "特斯拉(TSLA.O)：特斯拉在第四季度部署了14.2吉瓦时的储能产品。",
@@ -29,7 +29,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
