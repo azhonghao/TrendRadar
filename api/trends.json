@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T16:19:48.188524+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-01-02T17:18:38.317432+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 17时18分]"
         },
         {
           "title": "全国最大电网侧独立储能示范项目全容量投运",
@@ -39,7 +39,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
