@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-01-04T23:12:46.854132+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-01-05T00:15:44.926906+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
-          "url": "https://flash.jin10.com/detail/20260104151614055800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 19时11分]"
-        },
-        {
-          "title": "比亚迪：2025年新能源汽车销量累计同比增长7.73%",
-          "url": "https://wallstreetcn.com/livenews/3030275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
