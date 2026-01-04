@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-04T15:16:24.497346+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-01-04T16:18:00.886607+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
+          "url": "https://flash.jin10.com/detail/20260104151614055800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
