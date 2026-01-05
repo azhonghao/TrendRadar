@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T14:27:25.043643+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-01-05T15:23:08.647915+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时23分]"
         },
         {
           "title": "国家发改委：统筹安排超长期特别国债等资金超1000亿元 支持长江大保护项目建设",
@@ -58,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 15时23分]"
         },
         {
           "title": "从AI新能源与游戏看中国式现代化",
@@ -68,11 +68,12 @@
           "ranks": [
             22,
             21,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 15时23分]"
         }
       ]
     }
