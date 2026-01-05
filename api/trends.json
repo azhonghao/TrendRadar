@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T19:13:24.320738+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-01-05T20:28:27.550103+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -37,17 +37,6 @@
           "time_info": "[12时50分 ~ 18时17分]"
         },
         {
-          "title": "中天火箭：公司炭/炭热场材料业务受光伏行业竞争加剧影响，市场不及预期，产品销售价格下降，导致该业务板块出现亏损，对上市公司合并报表影响较大，敬请广大投资者注意风险。",
-          "url": "https://wallstreetcn.com/livenews/3030827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "富临精工：子公司江西升华拟投资60亿元建设年产50万吨高端储能用磷酸铁锂项目",
           "url": "https://wallstreetcn.com/livenews/3030764",
           "source": "华尔街见闻-快讯",
@@ -57,6 +46,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "中天火箭：公司炭/炭热场材料业务受光伏行业竞争加剧影响，市场不及预期，产品销售价格下降，导致该业务板块出现亏损，对上市公司合并报表影响较大，敬请广大投资者注意风险。",
+          "url": "https://wallstreetcn.com/livenews/3030827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时28分]"
         },
         {
           "title": "从过剩到短缺？储能成为锂业“游戏规则改变者” 大摩预警8万吨缺口",
@@ -113,7 +114,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
