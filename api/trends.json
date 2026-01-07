@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T18:16:41.861616+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-01-07T19:14:24.665787+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）富时中国A50指数成分股今日收盘行情一览：银行、石油、证券等板块全线下跌，煤炭、通信、光伏等板块上涨",
