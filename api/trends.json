@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:19:16.183023+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-01-08T16:20:27.839338+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 16时20分]"
         },
         {
           "title": "《储能用钠离子电池技术要求》团体标准获准发布",
