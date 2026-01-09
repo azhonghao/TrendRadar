@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T04:16:39.243697+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-10T05:14:17.659633+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "光伏等产品增值税出口退税将取消",
@@ -53,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
@@ -66,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "国家为何取消光伏等产品出口退税",
@@ -75,11 +75,23 @@
           "source": "今日头条",
           "ranks": [
             17,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 05时14分]"
+        },
+        {
+          "title": "4月1日起取消光伏等产品出口退税",
+          "url": "https://www.baidu.com/s?wd=4%E6%9C%881%E6%97%A5%E8%B5%B7%E5%8F%96%E6%B6%88%E5%85%89%E4%BC%8F%E7%AD%89%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     }
