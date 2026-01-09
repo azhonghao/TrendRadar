@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T22:17:19.603592+08:00",
-  "total_titles_processed": 2130,
+  "generated_at": "2026-01-09T23:15:30.418856+08:00",
+  "total_titles_processed": 2235,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 22时17分]"
+          "appearance_count": 6,
+          "time_info": "[19时13分 ~ 23时15分]"
         },
         {
           "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
@@ -29,8 +29,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时15分]"
+        },
+        {
+          "title": "光伏等产品增值税出口退税将取消",
+          "url": "https://www.douyin.com/hot/2362382",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 23时15分]"
         },
         {
           "title": "取消光伏等产品增值税出口退税",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时13分 ~ 21时33分]"
-        },
-        {
-          "title": "光伏等产品增值税出口退税将取消",
-          "url": "https://www.douyin.com/hot/2362382",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 22时17分]"
         },
         {
           "title": "知情人士称，随着储能需求的增长，澳大利亚Akaysha Energy公司正在考虑多种融资方案，包括出售当比例的少数股权。",
@@ -76,9 +77,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/1993018387933176061",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时15分]"
         },
         {
           "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
@@ -105,18 +119,6 @@
           "time_info": "[12时33分 ~ 13时19分]"
         },
         {
-          "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/1993018387933176061",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时17分]"
-        },
-        {
           "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
           "source": "澎湃新闻",
@@ -127,6 +129,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时15分]"
+        },
+        {
+          "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351791",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时15分]"
         },
         {
           "title": "财政部、税务总局：自2026年4月1日起，取消光伏等产品增值税出口退税",
@@ -173,24 +187,13 @@
           "time_info": "11时24分"
         },
         {
-          "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351791",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "中国光伏行业协会：适时降低或取消光伏产品出口退税，有助于推动国外市场价格理性回归",
           "url": "https://wallstreetcn.com/livenews/3034197",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
