@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T00:17:40.019838+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:18:09.663573+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -26,41 +26,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
           "url": "https://wallstreetcn.com/articles/3762967",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "光伏等产品增值税出口退税将取消",
           "url": "https://www.douyin.com/hot/2362382",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32351791",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         }
       ]
     }
