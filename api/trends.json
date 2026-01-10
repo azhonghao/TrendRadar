@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:14:09.690762+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-01-10T19:11:27.998318+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 18时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 19时11分]"
         },
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -140,11 +140,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "4月1日起取消光伏等产品出口退税",
