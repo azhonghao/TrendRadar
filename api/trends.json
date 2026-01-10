@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:13:46.824931+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-01-10T16:17:38.931523+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时13分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 16时17分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 16时17分]"
         },
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -91,8 +91,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时13分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 16时17分]"
         },
         {
           "title": "国家为何取消光伏等产品出口退税",
@@ -115,11 +115,12 @@
           "ranks": [
             2,
             7,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时17分]"
         },
         {
           "title": "光伏等产品增值税出口退税将取消",
