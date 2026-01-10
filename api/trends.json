@@ -1,186 +1,33 @@
 {
-  "generated_at": "2026-01-10T23:13:00.652116+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-01-11T00:15:50.732193+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
-          "url": "https://www.cls.cn/detail/2253250",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时15分]"
-        },
-        {
-          "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
-          "url": "https://wallstreetcn.com/articles/3762967",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 17时14分]"
-        },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
           "url": "https://www.cls.cn/detail/2253721",
           "source": "财联社热门",
           "ranks": [
-            7,
-            4,
-            3,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时01分 ~ 23时13分]"
-        },
-        {
-          "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/1993018387933176061",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            10,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时15分]"
-        },
-        {
-          "title": "光伏等产品增值税出口退税将取消",
-          "url": "https://www.douyin.com/hot/2362382",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            11,
-            16,
-            14,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 10时54分]"
-        },
-        {
-          "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351791",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 18时14分]"
-        },
-        {
-          "title": "国家为何取消光伏等产品出口退税",
-          "url": "https://www.toutiao.com/trending/7593358634000584255/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时21分 ~ 07时13分]"
-        },
-        {
-          "title": "北汽新能源与小马智行开启战略合作2.0阶段，L4级Robotaxi将出海中东、欧洲",
-          "url": "https://wallstreetcn.com/livenews/3034497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            11,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时14分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "我国首个沙地柔性支架光伏项目并网发电",
           "url": "https://flash.jin10.com/detail/20260110222630198800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "光伏等产品增值税出口退税将取消",
-          "url": "https://www.toutiao.com/trending/7593297523075956799/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "北汽新能源L3车型开启规模化上路通行试点运营 拟二季度起逐步向个人用户开放",
-          "url": "https://flash.jin10.com/detail/20260110162649698800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
-        },
-        {
-          "title": "4月1日起取消光伏等产品出口退税",
-          "url": "https://www.baidu.com/s?wd=4%E6%9C%881%E6%97%A5%E8%B5%B7%E5%8F%96%E6%B6%88%E5%85%89%E4%BC%8F%E7%AD%89%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时13分]"
-        },
-        {
-          "title": "三大利空突袭 光伏行业能否挺住",
-          "url": "https://www.toutiao.com/trending/7593625442578337307/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "time_info": "00时15分"
         },
         {
           "title": "我国首个沙地柔性支架光伏项目并网发电",
@@ -189,9 +36,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
+        },
+        {
+          "title": "光伏取消出口退税会有何影响",
+          "url": "https://www.toutiao.com/trending/7593614712340745738/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         }
       ]
     }
