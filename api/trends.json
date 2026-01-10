@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T10:54:06.564311+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-01-10T11:54:43.262907+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 10时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时54分]"
         },
         {
           "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 10时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时54分]"
         },
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -40,11 +40,12 @@
           "ranks": [
             2,
             1,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 10时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时54分]"
         },
         {
           "title": "光伏等产品增值税出口退税将取消",
@@ -70,11 +71,12 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 10时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时54分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -82,11 +84,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时54分]"
         },
         {
           "title": "国家为何取消光伏等产品出口退税",
