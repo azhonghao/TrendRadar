@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:13:59.710992+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-01-11T19:11:29.127655+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,20 @@
           "time_info": "[00时15分 ~ 09时09分]"
         },
         {
+          "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
+          "url": "https://wallstreetcn.com/articles/3763035",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 19时11分]"
+        },
+        {
           "title": "我国首个沙地柔性支架光伏项目并网发电",
           "url": "https://wallstreetcn.com/livenews/3034559",
           "source": "华尔街见闻-快讯",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
-          "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
-          "url": "https://wallstreetcn.com/articles/3763035",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 18时13分]"
         },
         {
           "title": "沙特官员：欢迎中国新能源企业投资沙特",
