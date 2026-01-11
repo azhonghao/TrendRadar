@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T20:24:34.953307+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-01-11T21:25:58.434940+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 20时24分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 21时25分]"
         },
         {
           "title": "我国首个沙地柔性支架光伏项目并网发电",
