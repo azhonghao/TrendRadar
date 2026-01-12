@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T11:42:52.694515+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-01-12T12:44:17.150097+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 11时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 12时44分]"
         },
         {
           "title": "国家推动新能源电量全量入市，20 余省份机制电价揭晓，南北价差超一倍，如何解读？对行业有何影响？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时44分]"
         }
       ]
     }
