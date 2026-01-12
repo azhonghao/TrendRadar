@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T15:21:45.965100+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-01-12T16:21:44.882537+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             19,
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时05分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时05分 ~ 16时21分]"
         },
         {
           "title": "信实工业：从电芯到集装箱式储能系统的电池储能制造生态系统建设计划未作任何变更。",
@@ -39,7 +40,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
