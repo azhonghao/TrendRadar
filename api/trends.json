@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T07:13:14.187372+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-12T09:06:12.785041+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 09时06分]"
+        },
+        {
+          "title": "国家推动新能源电量全量入市，20 余省份机制电价揭晓，南北价差超一倍，如何解读？对行业有何影响？",
+          "url": "https://www.zhihu.com/question/1993051559572025654",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     }
