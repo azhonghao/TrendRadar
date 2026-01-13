@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:01:51.141888+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-13T12:42:12.929161+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 12时42分]"
         },
         {
           "title": "中信证券：光伏出口退税将取消，行业有望迈入高质量发展",
@@ -52,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 12时42分]"
         },
         {
           "title": "发改委：将指导地方安排不少于1%的产业用地支持资源循环利用设施建设",
@@ -64,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 12时42分]"
         }
       ]
     }
