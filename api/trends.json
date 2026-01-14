@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T23:18:24.849585+08:00",
-  "total_titles_processed": 2225,
+  "generated_at": "2026-01-15T00:20:32.182866+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "新能源汽车产销量双超1600万辆",
@@ -15,124 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3036701",
-          "source": "华尔街见闻-快讯",
+          "title": "太空光伏：被低估的商业航天赛道",
+          "url": "https://www.toutiao.com/trending/7595193451780509226/",
+          "source": "今日头条",
           "ranks": [
-            7
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "钧达股份：公司拟以现金出资人民币3,000万元认购上海星翼芯能科技有限公司新增注册资本人民币46.1539万元，获得星翼芯能16.6667%的股权。星翼芯能系由杭州尚翼光电科技有限公司团队创始人及创始股东新设的项目公司，用于承接尚翼光电的全部资产、人员及业务，并且后续尚翼光电将调整为星翼芯能的全资子公司。本次合作助力公司从地面光伏领域向太空光伏领域的战略延伸。",
-          "url": "https://wallstreetcn.com/livenews/3037016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "国金证券：太空光伏将是2026年电新板块最强主线",
-          "url": "https://wallstreetcn.com/livenews/3036500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "中汽协：2025年12月新能源汽车产销同比分别增长12.3%和7.2%",
-          "url": "https://wallstreetcn.com/livenews/3036736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "中汽协：预计2026年新能源汽车销量有望达1900万辆，同比增长15.2%",
-          "url": "https://wallstreetcn.com/livenews/3036730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "中汽协：中国2025新能源汽车销量同比增长28.2%。",
-          "url": "https://flash.jin10.com/detail/20260114142209223800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "中汽协：中国12月新能源汽车销量同比增长7.2%。",
-          "url": "https://flash.jin10.com/detail/20260114142153016800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "光伏组件成交价格开始上调",
-          "url": "https://wallstreetcn.com/livenews/3036826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "三部门召开新能源汽车行业企业座谈会：坚决抵制无序“价格战”",
-          "url": "https://wallstreetcn.com/livenews/3036990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI热潮推高美国电价 美国电价或持续上涨",
-          "url": "https://flash.jin10.com/detail/20260114211742495800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "00时20分"
         }
       ]
     }
