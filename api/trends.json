@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T02:22:46.356890+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-01-15T03:15:01.889967+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "太空光伏：被低估的商业航天赛道",
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "冰火两重天：美国电价要爆了，中国电价开跌了",
+          "url": "https://wallstreetcn.com/articles/3763238",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时15分]"
         }
       ]
     }
