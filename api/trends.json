@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:14:45.753264+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-01-15T20:28:09.988053+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 20时28分]"
         },
         {
           "title": "太空光伏：被低估的商业航天赛道",
