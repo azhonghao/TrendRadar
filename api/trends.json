@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-16T11:24:21.019321+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-01-16T12:34:03.538688+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "六部门：报废新能源汽车时必须“车电一体”",
+          "url": "https://www.cls.cn/detail/2259891",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
         {
           "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
           "url": "https://www.cls.cn/detail/2259692",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时34分]"
         },
         {
           "title": "为何新能源车满6年就能享受换新优惠",
@@ -35,11 +47,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时34分]"
+        },
+        {
+          "title": "新能源汽车上面什么零部件是最容易老化的？",
+          "url": "https://www.zhihu.com/question/630198884",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）富时中国A50指数成分股午盘收盘行情一览：小金属、光伏股票上涨，银行、保险股全面走低",
+          "url": "https://flash.jin10.com/detail/20260116113423989800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "12时34分"
         },
         {
           "title": "建立数字身份证溯源 新能源车废旧动力电池回收利用新规发布",
@@ -48,7 +83,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
