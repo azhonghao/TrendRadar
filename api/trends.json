@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T22:17:11.655273+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-01-16T23:16:26.330051+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             10,
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时24分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[11时24分 ~ 23时16分]"
         },
         {
           "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
@@ -202,7 +203,7 @@
     },
     {
       "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
@@ -248,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
