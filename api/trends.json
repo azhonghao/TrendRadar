@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T17:19:47.528696+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-01-16T18:16:07.228752+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 17时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 18时16分]"
         },
         {
           "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
@@ -29,11 +29,12 @@
             15,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 18时16分]"
         },
         {
           "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
