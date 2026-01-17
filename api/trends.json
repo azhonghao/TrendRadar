@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T06:12:53.545800+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-18T07:13:01.651708+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "报废新能源车为何必须“车电一体”",
@@ -30,11 +30,12 @@
           "ranks": [
             26,
             28,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 07时13分]"
         }
       ]
     }
