@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:13:56.932130+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-01-17T09:01:19.961608+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时01分]"
+        },
+        {
+          "title": "白银暴涨，光伏流泪",
+          "url": "https://wallstreetcn.com/articles/3763442",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }
