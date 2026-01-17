@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-18T03:10:56.523108+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-01-18T04:14:19.846683+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 2,
       "titles": [
+        {
+          "title": "全球首个电动车电耗强制新国标实施，媒体称部分电车重达 3 吨，新能源车该减肥了，行业会否转向能效技术竞赛？",
+          "url": "https://www.zhihu.com/question/1995807702694269078",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时14分]"
+        },
         {
           "title": "报废新能源车为何必须“车电一体”",
           "url": "https://www.toutiao.com/trending/7596288943369227818/",
@@ -19,20 +34,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时18分]"
-        },
-        {
-          "title": "全球首个电动车电耗强制新国标实施，媒体称部分电车重达 3 吨，新能源车该减肥了，行业会否转向能效技术竞赛？",
-          "url": "https://www.zhihu.com/question/1995807702694269078",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     }
