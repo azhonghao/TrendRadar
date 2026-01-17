@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T20:23:58.729774+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-01-17T21:24:36.692744+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "全球首个电动车电耗强制新国标实施，媒体称部分电车重达 3 吨，新能源车该减肥了，行业会否转向能效技术竞赛？",
+          "url": "https://www.zhihu.com/question/1995807702694269078",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     }
