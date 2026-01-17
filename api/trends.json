@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T13:14:54.628671+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-01-17T14:20:03.035303+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时20分]"
         },
         {
           "title": "白银暴涨，光伏流泪",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时20分]"
         }
       ]
     }
