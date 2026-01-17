@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:17:37.508051+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-01-17T17:13:42.592156+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,22 @@
           "time_info": "[11时53分 ~ 16时17分]"
         },
         {
+          "title": "山西2025年新能源发电量首次突破1000亿度",
+          "url": "https://wallstreetcn.com/livenews/3039077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16,
+            19,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 17时13分]"
+        },
+        {
           "title": "白银暴涨，光伏流泪",
           "url": "https://wallstreetcn.com/articles/3763442",
           "source": "华尔街见闻",
@@ -46,21 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时00分 ~ 13时14分]"
-        },
-        {
-          "title": "山西2025年新能源发电量首次突破1000亿度",
-          "url": "https://wallstreetcn.com/livenews/3039077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            16,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 16时17分]"
         }
       ]
     }
