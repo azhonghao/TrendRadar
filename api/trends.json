@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-19T05:12:26.899298+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-01-19T06:13:36.001791+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国内最大规模新能源拖轮船队投用",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%96%B0%E8%83%BD%E6%BA%90%E6%8B%96%E8%BD%AE%E8%88%B9%E9%98%9F%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
