@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-01-18T23:13:07.463484+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-01-19T00:15:34.974515+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球首个电动车电耗强制新国标实施，媒体称部分电车重达 3 吨，新能源车该减肥了，行业会否转向能效技术竞赛？",
-          "url": "https://www.zhihu.com/question/1995807702694269078",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            13,
-            10,
-            7,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 09时08分]"
-        },
-        {
-          "title": "报废新能源车为何必须“车电一体”",
-          "url": "https://www.toutiao.com/trending/7596288943369227818/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
