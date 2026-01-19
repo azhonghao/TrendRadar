@@ -1,106 +1,22 @@
 {
-  "generated_at": "2026-01-19T23:19:04.120461+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2026-01-20T00:19:42.801271+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "5 家光伏龙头合计预亏超 289 亿元，光伏产业为什么大面积亏损？接下来可能如何发展？",
           "url": "https://www.zhihu.com/question/1996138212092052901",
           "source": "知乎",
           "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时39分 ~ 23时19分]"
-        },
-        {
-          "title": "最高亏损达百亿元 九家光伏龙头齐发预亏公告 哪家“减亏”更胜一筹？",
-          "url": "https://www.cls.cn/detail/2261449",
-          "source": "财联社热门",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "光伏行业为何大面积亏损",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E4%BC%8F%E8%A1%8C%E4%B8%9A%E4%B8%BA%E4%BD%95%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%BA%8F%E6%8D%9F%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "工信部等五部门：分阶段梯度培育建设零碳工厂，到2027年推进至汽车、光伏等行业",
-          "url": "https://wallstreetcn.com/livenews/3039482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "长源电力：拟以现金方式增加公司全资子公司青山公司资本金8842.2万元，并由青山公司设立的分公司为主体投资建设国能长源武汉江夏湖泗120MW渔光互补光伏发电项目（一期80MW），静态总投资2.92亿。",
-          "url": "https://wallstreetcn.com/livenews/3039706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "A股储能概念股持续反弹，海博思创涨超10%，华自科技、艾罗能源、阿特斯、锦浪科技、阳光电源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3039578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "国内最大规模新能源拖轮船队投用",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%96%B0%E8%83%BD%E6%BA%90%E6%8B%96%E8%BD%AE%E8%88%B9%E9%98%9F%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国国际经济交流中心已由国家发改委划转到中国社科院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411945",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "00时19分"
         }
       ]
     }
