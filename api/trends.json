@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-19T22:20:46.691664+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-01-19T23:19:04.120461+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 7,
       "titles": [
+        {
+          "title": "5 家光伏龙头合计预亏超 289 亿元，光伏产业为什么大面积亏损？接下来可能如何发展？",
+          "url": "https://www.zhihu.com/question/1996138212092052901",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时19分]"
+        },
         {
           "title": "最高亏损达百亿元 九家光伏龙头齐发预亏公告 哪家“减亏”更胜一筹？",
           "url": "https://www.cls.cn/detail/2261449",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "5 家光伏龙头合计预亏超 289 亿元，光伏产业为什么大面积亏损？接下来可能如何发展？",
-          "url": "https://www.zhihu.com/question/1996138212092052901",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时20分]"
         },
         {
           "title": "光伏行业为何大面积亏损",
