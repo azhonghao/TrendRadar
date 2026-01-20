@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:24:03.550407+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-01-20T15:22:00.005034+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "事关货币政策、扩大内需！国家发改委最新发声",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 15时21分]"
         },
         {
           "title": "发改委：春节放假9天增强了幸福感",
@@ -29,19 +29,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 15时21分]"
         },
         {
           "title": "发改委：将统一“两新”补贴标准",
           "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E5%B0%86%E7%BB%9F%E4%B8%80%E2%80%9C%E4%B8%A4%E6%96%B0%E2%80%9D%E8%A1%A5%E8%B4%B4%E6%A0%87%E5%87%86",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 15时21分]"
         },
         {
           "title": "发改委：深入推进西部大开发、中部地区崛起等战略",
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "国家发改委推动优化节假日安排",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E6%8E%A8%E5%8A%A8%E4%BC%98%E5%8C%96%E8%8A%82%E5%81%87%E6%97%A5%E5%AE%89%E6%8E%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "【国家发改委：研究设立国家级并购基金 加强政府投资、基金布局规划】国新办举行新闻发布会，介绍落实中央经济工作会议精神，推动“十五五”实现良好开局有关情况。发布会上介绍，要发挥好国家创业投资基金行业标杆作用，研究设立国家级并购基金，加强政府投资、基金布局规划等，促进创新创业创造，加快培育和发展新质生产力。",
