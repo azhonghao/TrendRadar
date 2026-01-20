@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:28:00.183220+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-20T12:39:03.602793+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "发改委：深入推进西部大开发、中部地区崛起等战略",
-          "url": "https://wallstreetcn.com/livenews/3040097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "事关货币政策、扩大内需！国家发改委最新发声",
           "url": "https://www.cls.cn/detail/2262911",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 12时39分]"
         },
         {
           "title": "发改委：春节放假9天增强了幸福感",
@@ -37,19 +27,32 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 12时39分]"
+        },
+        {
+          "title": "发改委：深入推进西部大开发、中部地区崛起等战略",
+          "url": "https://wallstreetcn.com/livenews/3040097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
+          "time_info": "[11时28分 ~ 12时39分]"
         },
         {
           "title": "发改委：要增强改革与财政金融政策、消费投资政策、产业政策及创新政策的协同",
           "url": "https://wallstreetcn.com/livenews/3040096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时39分]"
         },
         {
           "title": "发改委：有关方面正在研究制定稳岗扩容提质行动和城乡居民增收计划",
@@ -58,7 +61,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -69,7 +72,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -80,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -91,7 +94,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -102,7 +105,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -113,7 +116,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -124,7 +127,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -135,7 +138,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -146,7 +149,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
