@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:39:03.602793+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-01-20T13:23:39.256509+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时23分]"
         },
         {
           "title": "发改委：春节放假9天增强了幸福感",
           "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%879%E5%A4%A9%E5%A2%9E%E5%BC%BA%E4%BA%86%E5%B9%B8%E7%A6%8F%E6%84%9F",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时23分]"
         },
         {
           "title": "发改委：深入推进西部大开发、中部地区崛起等战略",
