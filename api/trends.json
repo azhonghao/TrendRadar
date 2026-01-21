@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-01-21T23:23:14.406085+08:00",
-  "total_titles_processed": 2172,
+  "generated_at": "2026-01-22T00:28:56.369474+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两国为中国新能源车出海开政策绿灯",
-          "url": "https://www.toutiao.com/trending/7597626640549547561/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国总统特朗普：英国在北海拥有资源，但却没有加以利用，那里的能源供应水平已经达到了灾难性的程度。英国国电价飙升了139%。",
-          "url": "https://flash.jin10.com/detail/20260121215650847800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
