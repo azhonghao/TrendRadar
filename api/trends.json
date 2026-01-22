@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-01-22T23:22:27.464690+08:00",
-  "total_titles_processed": 2170,
+  "generated_at": "2026-01-23T00:24:00.779160+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析人士：商业航天产业趋势已来，太空光伏或成下一个增长蓝海",
-          "url": "https://wallstreetcn.com/livenews/3041558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "发改委：正研究制定城乡居民增收计划",
-          "url": "https://www.toutiao.com/trending/7596896895492538404/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
