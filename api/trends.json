@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-23T09:04:30.102455+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-01-23T11:27:07.081777+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
         {
           "title": "中信建投：银价高企倒逼产业变革 光伏金属化革命的“铜”时代开启",
           "url": "https://wallstreetcn.com/livenews/3042399",
@@ -14,7 +25,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
