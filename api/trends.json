@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T16:19:55.049979+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-23T17:22:56.514228+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 17时22分]"
         },
         {
           "title": "A股收盘：创业板指放量涨0.63%，光伏、商业航天概念集体爆发",
@@ -55,6 +55,17 @@
           "time_info": "[12时36分 ~ 13时22分]"
         },
         {
+          "title": "【每日收评】三大指数全线收红，两市成交额重回3万亿，商业航天与太空光伏概念双双爆发",
+          "url": "https://www.cls.cn/detail/2267863",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "生态环境部部长黄润秋：大力发展新型储能，加快智能电网和微电网建设",
           "url": "https://wallstreetcn.com/livenews/3042569",
           "source": "华尔街见闻-快讯",
@@ -86,6 +97,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家能源局 发改委 湖南发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委印发《中央预算内资计划管理办法》，自2026年2月1日起施行，有效期5年。",
+          "url": "https://wallstreetcn.com/livenews/3042763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     }
