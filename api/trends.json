@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T05:14:14.699266+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-01-24T06:12:42.987369+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时12分]"
         },
         {
           "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时12分]"
         },
         {
           "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时12分]"
         },
         {
           "title": "有人从东北打新能源出租车去三亚",
@@ -53,8 +53,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时12分]"
+        },
+        {
+          "title": "男子打新能源出租车从东北去三亚",
+          "url": "https://www.toutiao.com/trending/7598471704026202163/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 06时12分]"
         },
         {
           "title": "马来西亚工程公司Solarvest Holdings Bhd.（SOLAR.MK）收跌4.27%，报2.69，今年迄今累计下跌18.48%。 Maybank分析师Thong Kei Jun警告称，白银价格飙涨恐怕会推高该公司的光伏面板成本。",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "男子打新能源出租车从东北去三亚",
-          "url": "https://www.toutiao.com/trending/7598471704026202163/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
         }
       ]
     },
