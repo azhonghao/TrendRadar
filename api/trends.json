@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T17:14:12.358175+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-01-24T18:14:27.137898+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,18 @@
           "time_info": "[00时19分 ~ 09时01分]"
         },
         {
+          "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
+          "url": "https://www.cls.cn/detail/2268624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 18时14分]"
+        },
+        {
           "title": "晶科储能落地邯郸10MWh储能项目",
           "url": "https://wallstreetcn.com/livenews/3043228",
           "source": "华尔街见闻-快讯",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 16时18分]"
-        },
-        {
-          "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
-          "url": "https://www.cls.cn/detail/2268624",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
