@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T12:32:51.253780+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-24T13:16:05.124062+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 12时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
@@ -44,6 +44,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 07时14分]"
+        },
+        {
+          "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
+          "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 13时16分]"
         },
         {
           "title": "有人从东北打新能源出租车去三亚",
@@ -60,18 +74,15 @@
           "time_info": "[00时19分 ~ 09时01分]"
         },
         {
-          "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
-          "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "晶科储能落地邯郸10MWh储能项目",
+          "url": "https://wallstreetcn.com/livenews/3043228",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            7,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 12时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
