@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:13:11.964636+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-24T23:13:21.575485+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -34,19 +34,6 @@
           "time_info": "[00时19分 ~ 16时18分]"
         },
         {
-          "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
-          "url": "https://www.cls.cn/detail/2267978",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
           "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
           "url": "https://www.cls.cn/detail/2268624",
           "source": "财联社热门",
@@ -58,8 +45,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时13分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[17时13分 ~ 23时13分]"
+        },
+        {
+          "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
+          "url": "https://www.cls.cn/detail/2267978",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
