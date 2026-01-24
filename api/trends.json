@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T15:15:00.293421+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-01-24T16:18:04.602654+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             8,
             7,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 15时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 16时18分]"
         },
         {
           "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
@@ -53,11 +54,12 @@
             10,
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时01分 ~ 16时18分]"
         },
         {
           "title": "有人从东北打新能源出租车去三亚",
@@ -80,11 +82,12 @@
           "ranks": [
             2,
             7,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
