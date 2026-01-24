@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T10:57:11.856521+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-01-24T11:58:08.410172+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 10时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 11时58分]"
         },
         {
           "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
@@ -57,6 +57,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时19分 ~ 09时01分]"
+        },
+        {
+          "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
+          "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 11时58分]"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
@@ -94,18 +107,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 10时57分]"
-        },
-        {
-          "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
-          "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[09时01分 ~ 10时57分]"
         }
       ]
