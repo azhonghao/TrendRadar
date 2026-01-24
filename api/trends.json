@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:26:41.961082+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-01-24T22:13:11.964636+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,21 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
+          "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
+          "url": "https://www.cls.cn/detail/2268624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时13分 ~ 22时13分]"
+        },
+        {
           "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
           "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -60,20 +75,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[09时01分 ~ 17时14分]"
-        },
-        {
-          "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
-          "url": "https://www.cls.cn/detail/2268624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 21时26分]"
         },
         {
           "title": "有人从东北打新能源出租车去三亚",
@@ -123,11 +124,12 @@
           "ranks": [
             3,
             11,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "马来西亚工程公司Solarvest Holdings Bhd.（SOLAR.MK）收跌4.27%，报2.69，今年迄今累计下跌18.48%。 Maybank分析师Thong Kei Jun警告称，白银价格飙涨恐怕会推高该公司的光伏面板成本。",
