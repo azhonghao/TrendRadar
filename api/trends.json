@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:22:31.915203+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-01-26T16:22:09.476279+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
+          "url": "https://www.zhihu.com/question/1914725893487689909",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "我国光伏核心材料获关键突破，气相法聚烯烃弹性体实现规模化生产",
@@ -42,16 +56,15 @@
           "time_info": "[11时51分 ~ 12时50分]"
         },
         {
-          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
-          "url": "https://www.zhihu.com/question/1914725893487689909",
-          "source": "知乎",
+          "title": "机构称“算力上天”已成共识 太空光伏有望持续站上风口",
+          "url": "https://www.cls.cn/detail/2269056",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时22分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "中国光伏组件、精细陶瓷等23项团体标准被确认为国际标准提案",
@@ -60,7 +73,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -80,8 +93,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时50分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 16时22分]"
         },
         {
           "title": "国家发改委发文规范城际铁路发展：严禁变相建高铁，明确客流密度等指标",
