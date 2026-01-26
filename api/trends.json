@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:28:14.381383+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-01-26T14:26:20.341097+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 12时50分]"
+        },
+        {
+          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
+          "url": "https://www.zhihu.com/question/1914725893487689909",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
@@ -56,8 +67,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 14时26分]"
         },
         {
           "title": "国家发改委发文规范城际铁路发展：严禁变相建高铁，明确客流密度等指标",
