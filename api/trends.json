@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T22:22:11.976851+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-01-26T23:21:41.761516+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "市场监管总局：在新能源、新材料等新兴产业领域鼓励基于创新技术制定团体标准",
+          "url": "https://wallstreetcn.com/livenews/3044082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "东方日升：公司光伏产品未直接向商业航天卫星公司供货",
