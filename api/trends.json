@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:27:18.934722+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-01-26T18:19:29.838198+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             12,
             3,
             4,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 18时19分]"
         },
         {
           "title": "我国光伏核心材料获关键突破，气相法聚烯烃弹性体实现规模化生产",
