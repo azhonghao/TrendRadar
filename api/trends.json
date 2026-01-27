@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:41:40.429135+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-01-27T12:41:04.938142+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 12时41分]"
         },
         {
           "title": "市场监管总局：在新能源、新材料等新兴产业领域鼓励基于创新技术制定团体标准",
