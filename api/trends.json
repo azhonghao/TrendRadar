@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T09:07:14.656231+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-01-27T11:41:40.429135+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2270555",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 11时41分]"
         },
         {
           "title": "市场监管总局：在新能源、新材料等新兴产业领域鼓励基于创新技术制定团体标准",
