@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:22:05.197521+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-01-27T16:21:34.929439+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             6,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 16时21分]"
         },
         {
           "title": "A股光伏设备板块午后回暖，拉普拉斯涨超15%，中来股份涨超14%，赛伍技术、正泰电源、帝科股份、迈为股份纷纷上扬。",
