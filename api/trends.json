@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-27T07:15:03.849047+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-27T09:07:14.656231+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "1月27日投资避雷针：太空光伏人气股提示风险 预计25年亏损23-29亿且光伏产品未直接供货卫星公司",
+          "url": "https://www.cls.cn/detail/2270555",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
+        },
         {
           "title": "市场监管总局：在新能源、新材料等新兴产业领域鼓励基于创新技术制定团体标准",
           "url": "https://wallstreetcn.com/livenews/3044082",
