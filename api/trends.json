@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:15:58.782603+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-01-28T07:14:57.741304+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "美国纽约市周三（1月28日）电价飙涨31%，至历史新高。",
@@ -78,7 +78,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
