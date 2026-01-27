@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T04:15:32.316597+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-01-28T05:12:22.517077+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时12分]"
         },
         {
           "title": "福特汽车将推出新的电池储能业务。",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时12分]"
         },
         {
           "title": "美国纽约市周三（1月28日）电价飙涨31%，至历史新高。",
