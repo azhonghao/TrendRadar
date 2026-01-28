@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:22:31.519653+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-01-28T14:25:03.002256+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "url": "https://www.toutiao.com/trending/7599132405224489023/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时25分]"
         },
         {
           "title": "美国纽约市周三（1月28日）电价飙涨31%，至历史新高。",
