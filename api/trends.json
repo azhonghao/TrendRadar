@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:31:47.660091+08:00",
-  "total_titles_processed": 1894,
+  "generated_at": "2026-01-28T21:42:38.561161+08:00",
+  "total_titles_processed": 2008,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 20时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 21时42分]"
         },
         {
           "title": "税收数据显示：“十四五”期间新能源车制造销售收入年均增长49.5%",
@@ -140,11 +140,12 @@
           "ranks": [
             19,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时42分]"
         },
         {
           "title": "暴风雪致美国电价飙升1400%",
