@@ -1,228 +1,39 @@
 {
-  "generated_at": "2026-01-28T23:25:39.220035+08:00",
-  "total_titles_processed": 2184,
+  "generated_at": "2026-01-29T00:26:58.707883+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
           "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时20分 ~ 23时25分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时12分]"
-        },
-        {
-          "title": "税收数据显示：“十四五”期间新能源车制造销售收入年均增长49.5%",
-          "url": "https://wallstreetcn.com/livenews/3045408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "福特汽车将推出新的电池储能业务。",
-          "url": "https://wallstreetcn.com/livenews/3044863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
-          "url": "https://wallstreetcn.com/livenews/3045196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "市场消息：福特将推出新的电池储能业务。",
-          "url": "https://flash.jin10.com/detail/20260127231841170800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "德国大型能源公司莱茵集团（RWE）CEO：产能、电网和储能投资亟需大幅增加。",
-          "url": "https://flash.jin10.com/detail/20260128180253851800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "华泰证券：看好各技术路线设备在海外光伏产能大规模建设背景下的发展潜力",
-          "url": "https://wallstreetcn.com/livenews/3045067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
-          "url": "https://wallstreetcn.com/livenews/3045639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "全国多地取消固定分时电价",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E5%9B%BA%E5%AE%9A%E5%88%86%E6%97%B6%E7%94%B5%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 13时22分]"
-        },
         {
           "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
           "url": "https://www.zhihu.com/question/1999744090351296730",
           "source": "知乎",
           "ranks": [
-            19,
-            18,
-            20,
-            17,
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时27分 ~ 23时25分]"
-        },
-        {
-          "title": "暴风雪致美国电价飙升1400%",
-          "url": "https://www.toutiao.com/trending/7599132405224489023/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时20分]"
-        },
-        {
-          "title": "暴风雪致美国电价飙升1400%",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%A3%8E%E9%9B%AA%E8%87%B4%E7%BE%8E%E5%9B%BD%E7%94%B5%E4%BB%B7%E9%A3%99%E5%8D%871400%25",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 18时20分]"
-        },
-        {
-          "title": "美国纽约市周三（1月28日）电价飙涨31%，至历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3044955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时15分]"
-        },
-        {
-          "title": "如何看待美国电价因寒潮暴涨",
-          "url": "https://www.toutiao.com/trending/7600295515535707694/",
-          "source": "今日头条",
-          "ranks": [
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "全国9地取消固定分时电价",
-          "url": "https://www.toutiao.com/trending/7599916753270869530/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家能源局：截至2025年底，全国累计发电装机容量38.9亿千瓦，同比增长16.1％",
-          "url": "https://wallstreetcn.com/livenews/3045208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "00时26分"
         }
       ]
     }
