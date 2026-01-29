@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-29T21:54:19.517408+08:00",
-  "total_titles_processed": 2079,
+  "generated_at": "2026-01-29T22:34:28.408052+08:00",
+  "total_titles_processed": 2147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 9,
       "titles": [
+        {
+          "title": "中国新能源汽车持续领跑全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时34分]"
+        },
         {
           "title": "工信部召开光伏行业企业家座谈会：坚决破除行业“内卷式”竞争",
           "url": "https://www.cls.cn/detail/2273449",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 15时35分]"
-        },
-        {
-          "title": "中国新能源汽车持续领跑全球",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "北京利尔：拟向特定对象发行A股募集资金不超过10.34亿元 用于年产3万吨复合氧化锆及新能源与航空航天用锆基材料项目等",
