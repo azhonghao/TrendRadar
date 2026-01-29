@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T17:34:16.392338+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-01-29T18:28:40.835813+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "工信部召开光伏行业企业家座谈会：坚决破除行业“内卷式”竞争",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "英国今年负电价时间料激增 储能电池迎来发展良机",
+          "url": "https://flash.jin10.com/detail/20260129175957784800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "云南：到2028年力争全省有色金属产业产值突破6000亿元 新能源电池和磷产业成为新的千亿级产业",
