@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:37:58.459098+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-01-29T14:36:26.745044+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时36分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -37,7 +38,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
