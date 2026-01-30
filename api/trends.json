@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:02:11.433699+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-30T13:41:11.668882+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -19,15 +19,27 @@
           "time_info": "[00时33分 ~ 09时12分]"
         },
         {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "女子买新能源车频繁充电还卡在高速",
           "url": "https://www.toutiao.com/trending/7600566234107363334/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时41分]"
         },
         {
           "title": "小作坊拆1辆新能源车赚1万",
@@ -47,7 +59,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
