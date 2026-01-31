@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T15:23:01.647294+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-01-31T16:19:49.886906+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时19分]"
         },
         {
           "title": "美联储理事米兰：放松管制将使美联储能够缩减其资产负债表。",
