@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:15:54.127085+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-02-02T07:17:17.135197+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时17分]"
         },
         {
           "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
           "url": "https://www.cls.cn/detail/2276702",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时17分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
