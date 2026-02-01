@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T21:38:12.857080+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-02-01T22:19:13.570544+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
@@ -17,19 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 21时38分]"
-        },
-        {
-          "title": "比亚迪1月新能源汽车销量210051辆",
-          "url": "https://www.toutiao.com/trending/7601040531561660454/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 22时19分]"
         },
         {
           "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
@@ -40,11 +29,35 @@
             9,
             14,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时19分]"
+        },
+        {
+          "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
+          "url": "https://www.zhihu.com/question/2001369753546139136",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
+          "title": "比亚迪1月新能源汽车销量210051辆",
+          "url": "https://www.toutiao.com/trending/7601040531561660454/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 22时19分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -53,11 +66,12 @@
           "ranks": [
             4,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "长城汽车：1月新能源车销售18,029台。",
