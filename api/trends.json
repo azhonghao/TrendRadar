@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T04:17:09.131303+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-02-02T05:16:21.268629+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时16分]"
+        },
+        {
+          "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
+          "url": "https://www.cls.cn/detail/2276702",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时16分]"
         },
         {
           "title": "多家新能源车企1月销量公布",
@@ -33,17 +44,6 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
-          "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
-          "url": "https://www.cls.cn/detail/2276702",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
           "url": "https://wallstreetcn.com/livenews/3047810",
           "source": "华尔街见闻-快讯",
@@ -51,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时16分]"
         },
         {
           "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
@@ -62,8 +62,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时16分]"
         }
       ]
     }
