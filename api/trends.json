@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T17:38:23.372477+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-02-02T18:36:46.723071+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,21 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "太空算力的尽头是光伏？产业链公司忙布局 但前景仍受多重因素制约",
+          "url": "https://www.cls.cn/detail/2277288",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 18时36分]"
+        },
+        {
           "title": "我国新能源新增发电量占全社会新增用电量97.1%",
           "url": "https://wallstreetcn.com/livenews/3048211",
           "source": "华尔街见闻-快讯",
@@ -101,20 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "太空算力的尽头是光伏？产业链公司忙布局 但前景仍受多重因素制约",
-          "url": "https://www.cls.cn/detail/2277288",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 17时38分]"
         },
         {
           "title": "新能源重卡月度渗透率突破50%创下行业新纪录",
