@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T12:15:48.371877+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-02-02T13:58:38.313122+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "太空算力的尽头是光伏？产业链公司忙布局 但前景仍受多重因素制约",
+          "url": "https://www.cls.cn/detail/2277288",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
