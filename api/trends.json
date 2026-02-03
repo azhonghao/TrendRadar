@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T20:38:20.718040+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-02-03T21:59:14.363003+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时59分]"
         },
         {
           "title": "A股光伏设备板块午后进一步走强，帝科股份20cm涨停，晶盛机电、海优新材、拉普拉斯涨超10%，奥特维、双良节能、钧达股份此前封板。",
