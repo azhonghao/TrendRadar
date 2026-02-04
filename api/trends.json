@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:28:02.997237+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2026-02-04T20:38:26.109345+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -31,19 +31,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 20时38分]"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
           "url": "https://www.cls.cn/detail/2280542",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时38分]"
         },
         {
           "title": "曝马斯克团队“摸底”中国光伏产业链",
@@ -57,6 +58,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时35分 ~ 19时28分]"
+        },
+        {
+          "title": "光伏“上天”？多只热门概念股密集回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2280635",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
+          "url": "https://www.zhihu.com/question/2002346311593264005",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 20时38分]"
         },
         {
           "title": "中央一号文件“点名”新能源汽车",
@@ -107,18 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 14时39分]"
-        },
-        {
-          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
-          "url": "https://www.zhihu.com/question/2002346311593264005",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时28分]"
         },
         {
           "title": "A股光伏设备板块午后涨幅扩大",
@@ -208,7 +220,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
