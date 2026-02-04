@@ -1,324 +1,66 @@
 {
-  "generated_at": "2026-02-04T23:35:22.176900+08:00",
-  "total_titles_processed": 2136,
+  "generated_at": "2026-02-05T00:36:39.147776+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 26,
+      "match_count": 5,
       "titles": [
         {
-          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
-          "url": "https://wallstreetcn.com/articles/3764803",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 16时31分]"
-        },
-        {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            8,
-            9
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
           "url": "https://www.cls.cn/detail/2280542",
           "source": "财联社热门",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
           "url": "https://www.zhihu.com/question/2002346311593264005",
           "source": "知乎",
           "ranks": [
-            12,
-            9,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "光伏“上天”？多只热门概念股密集回应相关业务情况",
           "url": "https://www.cls.cn/detail/2280635",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 23时35分]"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 23时35分]"
-        },
-        {
-          "title": "曝马斯克团队“摸底”中国光伏产业链",
-          "url": "https://www.toutiao.com/trending/7602056837328371731/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时28分]"
-        },
-        {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时42分]"
-        },
-        {
-          "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
-          "url": "https://wallstreetcn.com/livenews/3049557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时42分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
-          "url": "https://wallstreetcn.com/livenews/3049276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 04时27分]"
-        },
-        {
-          "title": "A股太空光伏概念再度拉升，晶科能源20cm涨停，双良节能、国晟科技、泽润新能、中来股份等多股此前封板，时创能源、晶盛机电、海泰新能等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3049579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时39分]"
-        },
-        {
-          "title": "A股光伏设备板块午后涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3049575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时39分]"
-        },
-        {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时31分]"
-        },
-        {
-          "title": "陕西印发小型地面光伏、分散式风电申报通知",
-          "url": "https://wallstreetcn.com/livenews/3049920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时38分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
           "url": "https://www.cls.cn/detail/2280775",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 23时35分]"
-        },
-        {
-          "title": "2月4日午间收评：创业板指半日跌1.74%，煤炭、太空光伏概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3049538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时42分]"
-        },
-        {
-          "title": "TCL中环直线拉升触达涨停，晶盛机电涨超15%。报道称马斯克团队上周调研的光伏企业包括TCL中环、晶科能源、晶盛机电等。",
-          "url": "https://wallstreetcn.com/livenews/3049597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "业内人士：马斯克团队上周调研的光伏企业包括TCL中环、晶科能源、晶盛机电等",
-          "url": "https://wallstreetcn.com/livenews/3049596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "晶盛机电：目前，“太空光伏”应用场景尚处于探索阶段，产业化进程仍面临不确定性",
-          "url": "https://wallstreetcn.com/livenews/3049789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "光伏逆变器供应商Enphase Energy Inc.四季度营收3.433亿美元，分析师预期3.365亿美元。 四季度电池发货量150.1 MWH，分析师预期151.08 MWH。 一季度为APP推出AI助理。 一季度是2026年需求的“低点”。 预计将在荷兰获得20亿美元电池机会。 预计将在2026年四季度启动新款电池的发货。 公司接近发布第五代电池。",
-          "url": "https://wallstreetcn.com/livenews/3049344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "双良节能：当前“太空光伏”仍处于技术探索与地面验证阶段，对公司当前业绩尚无实质性贡献",
-          "url": "https://wallstreetcn.com/livenews/3049818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
-          "url": "https://wallstreetcn.com/livenews/3049906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "沪指涨0.85%重返4100点，煤炭、太空光伏概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3049648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "高测股份：目前尚未开展太空光伏相关业务，未与马斯克团队开展合作",
-          "url": "https://wallstreetcn.com/livenews/3049964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "新能源汽车行驶中底盘着火 2分钟爆燃",
-          "url": "https://www.toutiao.com/trending/7601536947350814739/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "乘联分会：1月全国乘用车厂商新能源批发预估90万辆 同比增长1%",
-          "url": "https://wallstreetcn.com/livenews/3049733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "00时36分"
         }
       ]
     }
