@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T15:44:37.151204+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-02-05T16:33:06.560577+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -96,28 +96,30 @@
           "time_info": "[00时36分 ~ 09时13分]"
         },
         {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.toutiao.com/trending/7603022074356957235/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时44分]"
-        },
-        {
           "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
           "url": "https://www.cls.cn/detail/2281035",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 16时33分]"
+        },
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.toutiao.com/trending/7603022074356957235/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 16时33分]"
         },
         {
           "title": "恒生科技指数涨超1%，此前一度跌超1.8%，消费、新能源汽车等板块涨幅居前，小米集团、联想集团均涨超3%。",
@@ -126,7 +128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -137,9 +139,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "新能源车侧滑起火 路人砸窗救3人",
+          "url": "https://www.toutiao.com/trending/7602805701480628262/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 16时33分]"
         },
         {
           "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
@@ -163,18 +177,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时37分 ~ 04时25分]"
-        },
-        {
-          "title": "新能源车侧滑起火 路人砸窗救3人",
-          "url": "https://www.toutiao.com/trending/7602805701480628262/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时44分]"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -222,7 +224,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
