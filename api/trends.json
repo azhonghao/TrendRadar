@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T13:49:12.658505+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-02-05T14:47:01.885879+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -67,8 +67,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 13时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 14时47分]"
+        },
+        {
+          "title": "【早报】央行部署2026年信贷市场工作；多只光伏概念股密集回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2280981",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 14时47分]"
         },
         {
           "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
@@ -84,16 +96,26 @@
           "time_info": "[00时36分 ~ 09时13分]"
         },
         {
-          "title": "【早报】央行部署2026年信贷市场工作；多只光伏概念股密集回应相关业务情况",
-          "url": "https://www.cls.cn/detail/2280981",
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.toutiao.com/trending/7603022074356957235/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
+          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
+          "url": "https://www.cls.cn/detail/2281035",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时12分 ~ 13时49分]"
+          "time_info": "[12时06分 ~ 14时47分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -119,15 +141,15 @@
           "time_info": "[09时12分 ~ 13时49分]"
         },
         {
-          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
-          "url": "https://www.cls.cn/detail/2281035",
-          "source": "财联社热门",
+          "title": "新能源车侧滑起火 路人砸窗救3人",
+          "url": "https://www.toutiao.com/trending/7602805701480628262/",
+          "source": "今日头条",
           "ranks": [
-            11
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时49分]"
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -147,7 +169,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
