@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T02:38:19.862410+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-06T03:33:17.232109+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时33分]"
         },
         {
           "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时33分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -36,11 +36,12 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时33分]"
         },
         {
           "title": "你如何看新能源车起火路人砸窗救3人",
@@ -50,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时33分]"
         },
         {
           "title": "中国压缩空气储能技术研发获突破",
@@ -60,11 +61,12 @@
           "ranks": [
             25,
             26,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时33分]"
         }
       ]
     }
