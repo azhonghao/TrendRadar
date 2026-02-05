@@ -1,36 +1,23 @@
 {
-  "generated_at": "2026-02-05T07:19:35.934271+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-02-05T09:13:07.490111+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
           "url": "https://www.cls.cn/detail/2280661",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时19分]"
-        },
-        {
-          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
-          "url": "https://www.zhihu.com/question/2002346311593264005",
-          "source": "知乎",
-          "ranks": [
-            2,
             1,
-            3,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时13分]"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
@@ -50,11 +37,27 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时13分]"
+        },
+        {
+          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
+          "url": "https://www.zhihu.com/question/2002346311593264005",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3,
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时13分]"
         },
         {
           "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
@@ -62,11 +65,34 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时13分]"
+        },
+        {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "【早报】央行部署2026年信贷市场工作；多只光伏概念股密集回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2280981",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -81,13 +107,24 @@
           "time_info": "[02时37分 ~ 04时25分]"
         },
         {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
           "title": "A股光伏板块爆发，马斯克下单了？",
           "url": "https://wallstreetcn.com/articles/3764920",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
