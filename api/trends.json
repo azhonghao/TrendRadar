@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-06T06:19:14.823055+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-06T07:17:35.429859+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 5,
       "titles": [
+        {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时17分]"
+        },
         {
           "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
           "url": "https://www.cls.cn/detail/2281691",
@@ -15,20 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时19分]"
-        },
-        {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时17分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -43,19 +44,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时17分]"
         },
         {
           "title": "你如何看新能源车起火路人砸窗救3人",
           "url": "https://www.toutiao.com/trending/7603266942372544518/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时17分]"
         },
         {
           "title": "中国压缩空气储能技术研发获突破",
@@ -71,8 +73,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时17分]"
         }
       ]
     }
