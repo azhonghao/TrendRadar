@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T01:20:16.506405+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2026-02-08T02:22:47.251883+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -27,19 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
           "url": "https://www.cls.cn/detail/2283596",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }
