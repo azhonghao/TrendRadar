@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:28:43.407973+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-02-07T21:38:54.794180+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时11分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 21时38分]"
         },
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -40,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时38分]"
         }
       ]
     },
@@ -60,11 +62,12 @@
             1,
             3,
             11,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时38分]"
         }
       ]
     }
