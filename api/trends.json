@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:25:05.766867+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-02-09T03:19:39.394763+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "经济日报问答：春节开新能源车出行有保障吗？",
@@ -27,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 03时19分]"
         }
       ]
     }
