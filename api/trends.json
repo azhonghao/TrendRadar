@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T06:27:51.284791+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-02-10T07:31:01.204049+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 07时31分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
           "url": "https://wallstreetcn.com/articles/3765271",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 07时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.12%，报7817.64点。 热门中概股里，世纪互联初步收涨5.8%，大全新能源涨5.8%，阿特斯太阳能涨5.7%，亚朵涨5.6%，B站则跌2.4%，蔚来跌3.1%，理想跌3.1%，新东方跌4.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.72%，德银嘉实沪深300指数ETF（ASHR）收涨1.25%。 中国科技指数ETF（CQQQ）收涨0.54%，中概互联网指数ETF（KWEB）收涨0.09%。",
