@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:51:29.323100+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-02-09T16:40:10.905440+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时22分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "阳光电源在互动平台表示，公司暂不涉及太空光伏产品。",
@@ -53,6 +64,17 @@
           "time_info": "[14时02分 ~ 15时51分]"
         },
         {
+          "title": "特斯拉拟扩大光伏电池制造业务 或成中国光伏产业增长新机遇",
+          "url": "https://www.cls.cn/detail/2284071",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
           "title": "2月9日午间收评：创业板指半日涨超3%，算力硬件、光伏板块集体爆发",
           "url": "https://wallstreetcn.com/livenews/3052037",
           "source": "华尔街见闻-快讯",
@@ -81,7 +103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
