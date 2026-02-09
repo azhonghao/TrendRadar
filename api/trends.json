@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T03:58:25.051707+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-02-10T04:35:34.247372+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 04时35分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 04时35分]"
         }
       ]
     }
