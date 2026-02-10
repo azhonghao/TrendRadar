@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T19:44:19.030041+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2026-02-10T20:52:26.948486+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -48,17 +48,6 @@
           "time_info": "[09时27分 ~ 16时41分]"
         },
         {
-          "title": "协鑫集成：截至目前，公司主营业务及产品主要集中于地面光伏领域，公司尚不具备“太空光伏”领域相关产品的生产能力，尚未获得相关订单。因此，该概念目前未对公司经营业绩产生影响，公司特此提醒广大投资者，应充分认识股票市场的风险，切勿盲目追逐市场热点，审慎作出决策、理性开展投资，避免因概念炒作而引发投资风险。",
-          "url": "https://wallstreetcn.com/livenews/3053014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "新能源车主称电量27%行驶十多公里变0",
           "url": "https://www.toutiao.com/trending/7604333466142294022/",
           "source": "今日头条",
@@ -69,6 +58,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 14时07分]"
+        },
+        {
+          "title": "协鑫集成：截至目前，公司主营业务及产品主要集中于地面光伏领域，公司尚不具备“太空光伏”领域相关产品的生产能力，尚未获得相关订单。因此，该概念目前未对公司经营业绩产生影响，公司特此提醒广大投资者，应充分认识股票市场的风险，切勿盲目追逐市场热点，审慎作出决策、理性开展投资，避免因概念炒作而引发投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3053014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 20时52分]"
         },
         {
           "title": "突发！4连板光伏概念牛股股东拟减持不超1%股份|盘后公告集锦",
@@ -99,7 +100,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
@@ -114,11 +115,12 @@
           "url": "https://www.cls.cn/detail/2286121",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 20时52分]"
         },
         {
           "title": "深圳市发改委朱云：力争到2030年战略性新兴产业增加值占深圳GDP比重达45%",
