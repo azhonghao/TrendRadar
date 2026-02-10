@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T22:18:31.887149+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-02-10T23:58:48.884969+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
@@ -89,7 +89,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -131,8 +131,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 23时58分]"
         },
         {
           "title": "深圳市发改委朱云：力争到2030年战略性新兴产业增加值占深圳GDP比重达45%",
