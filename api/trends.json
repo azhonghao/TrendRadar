@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T15:54:33.248516+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-02-10T16:41:46.168475+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 16时41分]"
         },
         {
           "title": "新能源车主称电量27%行驶十多公里变0",
@@ -94,7 +94,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
