@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-14T03:37:04.115535+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-02-14T04:28:21.921103+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际货币基金组织：巴基斯坦拟议的电价调整仍至关重要，应避免对中低收入家庭造成不成比例的负担。",
+          "url": "https://flash.jin10.com/detail/20260214034728346800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
