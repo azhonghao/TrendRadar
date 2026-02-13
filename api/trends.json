@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-02-13T14:49:36.974441+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-02-13T15:44:36.930880+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "A股三大指数均跌超1%，CPO、小金属、光伏设备、航运港口等方向跌幅居前，沪深京三市下跌个股超3400只。",
-          "url": "https://wallstreetcn.com/livenews/3054951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
         {
           "title": "2月13日投资避雷针：信息披露可能误导投资者 这只太空光伏人气股遭上交所监管警示",
           "url": "https://www.cls.cn/detail/2289110",
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时44分]"
+        },
+        {
+          "title": "A股三大指数均跌超1%，CPO、小金属、光伏设备、航运港口等方向跌幅居前，沪深京三市下跌个股超3400只。",
+          "url": "https://wallstreetcn.com/livenews/3054951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时44分]"
         },
         {
           "title": "多位光伏业权威人士：中国光伏企业真正的机会是服务好中国的太空战略",
@@ -40,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）富时中国A50指数成分股今日收盘行情一览：成分股多数下跌，保险、石油、煤炭、电池、有色金属、小金属、光伏等板块午后跌幅仍然居前",
+          "url": "https://flash.jin10.com/detail/20260213150753947800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "金十图示：2026年02月13日（周五）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒行业逆势走高，保险、石油、煤炭电池、小金属、光伏跌幅居前",
