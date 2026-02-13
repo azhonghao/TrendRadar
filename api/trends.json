@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-02-13T09:21:14.199595+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-02-13T12:12:58.527066+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "2月13日投资避雷针：信息披露可能误导投资者 这只太空光伏人气股遭上交所监管警示",
+          "url": "https://www.cls.cn/detail/2289110",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "多位光伏业权威人士：中国光伏企业真正的机会是服务好中国的太空战略",
+          "url": "https://wallstreetcn.com/livenews/3054886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒行业逆势走高，保险、石油、煤炭电池、小金属、光伏跌幅居前",
+          "url": "https://flash.jin10.com/detail/20260213113243027800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "吾悦 鑫远 和融 中电软件园",
       "match_count": 1,
@@ -14,7 +53,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
