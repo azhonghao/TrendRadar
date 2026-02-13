@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:12:58.527066+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-02-13T13:54:36.372117+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2289110",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时54分]"
         },
         {
           "title": "多位光伏业权威人士：中国光伏企业真正的机会是服务好中国的太空战略",
@@ -25,7 +26,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
