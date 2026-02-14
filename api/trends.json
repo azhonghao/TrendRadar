@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-02-14T09:14:06.595503+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-02-14T12:02:44.998283+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "国家能源局 发改委 湖南发改委",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家能源局开展2026年春节和全国两会保电工作调研",
+          "url": "https://flash.jin10.com/detail/20260214111410279800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "国家能源局：1月核发绿证1.96亿个 涉及可再生能源发电项目83.20万个",
+          "url": "https://flash.jin10.com/detail/20260214101320381800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "电价 机制电价 分时电价",
       "match_count": 1,
