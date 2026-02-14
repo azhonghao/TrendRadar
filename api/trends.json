@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T12:02:44.998283+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-02-14T13:39:11.251441+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260214111410279800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时39分]"
         },
         {
           "title": "国家能源局：1月核发绿证1.96亿个 涉及可再生能源发电项目83.20万个",
@@ -25,7 +26,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
