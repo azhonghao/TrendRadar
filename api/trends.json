@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T16:21:29.836697+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-02-14T17:23:14.420310+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             13,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时23分]"
         },
         {
           "title": "落地租车火了 新能源车型租车预订量暴增600%",
