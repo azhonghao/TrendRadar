@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:23:46.510695+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-02-15T18:18:48.569605+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             12,
             16,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 18时18分]"
         },
         {
           "title": "崔东树：乘用车1月厂家销量增速相对较好 新能源车走势较平稳",
@@ -44,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时18分]"
         },
         {
           "title": "2026年北京小客车指标配额公布 增发新能源指标8万个",
