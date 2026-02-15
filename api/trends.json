@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T18:18:48.569605+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-02-15T19:16:30.356448+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             12,
             16,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时14分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时14分 ~ 19时16分]"
         },
         {
           "title": "崔东树：乘用车1月厂家销量增速相对较好 新能源车走势较平稳",
