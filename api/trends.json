@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T15:33:33.426330+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-02-15T16:23:34.079589+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小客车指标配额公布，北京今年增发8万个新能源小客车指标",
@@ -15,11 +15,12 @@
             7,
             10,
             11,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时23分]"
         },
         {
           "title": "崔东树：乘用车1月厂家销量增速相对较好 新能源车走势较平稳",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时51分 ~ 15时33分]"
+        },
+        {
+          "title": "北京：增发8万个新能源小客车指标",
+          "url": "https://www.cls.cn/detail/2290518",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "2026年北京小客车指标配额公布 增发新能源指标8万个",
