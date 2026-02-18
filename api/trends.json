@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-02-18T23:43:23.913360+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2026-02-19T00:54:21.713422+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.1%。 热门中概股里，腾讯音乐初步收跌3.2%，大全新能源跌2.6%，金山云、小马智行跌超2%，万国数据跌1.9%，华住则涨2.9%，携程涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3056125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.10%，报7584点。 热门中概股里，腾讯音乐初步收跌3.2%，大全新能源跌2.6%，金山云、小马智行跌超2%，万国数据跌1.9%，华住则涨2.9%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.21%，中国科技指数ETF（CQQQ）收涨0.19%。 德银嘉实沪深300指数ETF（ASHR）收涨0.53%，XtrackersHarvest中证50（ASHS）收涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/3056125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
