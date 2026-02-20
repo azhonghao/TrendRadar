@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T21:55:44.914688+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-02-20T22:35:32.441649+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，晶科能源初步收跌2.4%，携程跌2.2%，百胜中国、奇富科技、文远知行跌超1%，阿里巴巴跌0.9%，百度跌0.7%，万国数据、金山云、大全新能源至少涨0.6%，华住涨1.6%。",
