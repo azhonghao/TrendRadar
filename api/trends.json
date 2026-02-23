@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-24T03:53:30.542090+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-02-24T04:36:25.381203+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "吾悦 鑫远 和融 中电软件园",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉；（置评全球信用风险前景）与美国关税和贸易政策相关的重大不确定性，以及市场和融资状况的可持续性依然存在。",
+          "url": "https://flash.jin10.com/detail/20260224033816418800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
