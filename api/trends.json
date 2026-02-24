@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-24T12:10:49.403603+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-02-24T13:57:18.079238+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "春节期间多省电力交易平台现零电价、负电价时段 电力市场产业链已开始重构",
+          "url": "https://www.cls.cn/detail/2293366",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        }
+      ]
+    },
     {
       "keyword_group": "吾悦 鑫远 和融 中电软件园",
       "match_count": 1,
