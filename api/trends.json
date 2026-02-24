@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T14:50:01.817054+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-02-24T15:45:14.714867+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -41,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 15时45分]"
         },
         {
           "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
@@ -54,7 +55,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
