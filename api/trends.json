@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-02-26T23:45:18.984586+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-02-27T00:47:36.802349+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储施密德：美联储能做的唯一一件事就是遏制通胀。",
-          "url": "https://flash.jin10.com/detail/20260226005527267800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时59分]"
-        },
-        {
-          "title": "新能源车停车充电一车占两位",
-          "url": "https://www.toutiao.com/trending/7610829741871988774/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 15时46分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.47%，报7545.55点。 热门中概股里，阿特斯太阳能初步收跌5.3%，新东方跌5.1%，大全新能源跌2.9%，小鹏跌2.7%，万国数据跌2.4%，网易、理想跌超1%，阿里、腾讯至多跌约0.5%，唯品会涨1.9%，亚朵涨2.5%，贝壳涨3%，老虎证券涨4.2%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨1.26%，XtrackersHarvest中证50（ASHS）收涨2.26%。 中概互联网指数ETF（KWEB）收跌0.03%，中国科技指数ETF（CQQQ）收涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3059051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
