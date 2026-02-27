@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:34:39.728964+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2026-02-27T23:32:01.081055+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "媒体评新能源汽车关灯惊魂",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 18时29分]"
+        },
+        {
+          "title": "新能源汽车开征“里程税”？多地回应",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "印度2025年新能源汽车年销量增长17%至逾240万辆",
