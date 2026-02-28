@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T21:33:09.822368+08:00",
-  "total_titles_processed": 1965,
+  "generated_at": "2026-02-28T22:15:18.063104+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新能源汽车开征“里程税”？多地回应",
@@ -25,6 +25,17 @@
           "time_info": "[00时31分 ~ 09时07分]"
         },
         {
+          "title": "我国最大采煤沉陷区光伏基地投运",
+          "url": "https://www.douyin.com/hot/2414285",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
           "url": "https://wallstreetcn.com/livenews/3060583",
           "source": "华尔街见闻-快讯",
@@ -39,6 +50,28 @@
           "time_info": "[11时47分 ~ 14时27分]"
         },
         {
+          "title": "多地辟谣新能源汽车开征“里程税”",
+          "url": "https://www.toutiao.com/trending/7611466049162919955/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时27分 ~ 22时15分]"
+        },
+        {
+          "title": "多地辟谣新能源汽车开征里程税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时27分 ~ 22时15分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.7%，2月份累计下跌约5.8%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
           "url": "https://wallstreetcn.com/livenews/3060505",
           "source": "华尔街见闻-快讯",
@@ -49,28 +82,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时15分]"
-        },
-        {
-          "title": "多地辟谣新能源汽车开征“里程税”",
-          "url": "https://www.toutiao.com/trending/7611466049162919955/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时27分 ~ 21时33分]"
-        },
-        {
-          "title": "多地辟谣新能源汽车开征里程税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时27分 ~ 21时33分]"
         },
         {
           "title": "新能源汽车靠什么破冰越冬",
