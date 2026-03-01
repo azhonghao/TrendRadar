@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T07:14:36.935782+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-01T09:23:00.168767+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 09时23分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 09时23分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 09时23分]"
         }
       ]
     }
