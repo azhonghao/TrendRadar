@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T12:15:05.159133+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-03-01T13:45:43.029486+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "我国最大采煤沉陷区光伏基地投运",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 09时23分]"
+        },
+        {
+          "title": "新能源车突发爆响 挡风玻璃震裂掉落",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%AA%81%E5%8F%91%E7%88%86%E5%93%8D+%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83%E9%9C%87%E8%A3%82%E6%8E%89%E8%90%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     }
