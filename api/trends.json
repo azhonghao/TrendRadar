@@ -1,54 +1,7 @@
 {
-  "generated_at": "2026-03-02T23:34:24.679603+08:00",
-  "total_titles_processed": 2164,
+  "generated_at": "2026-03-03T00:34:11.048736+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子称买新能源车续航大“跳水”",
-          "url": "https://www.toutiao.com/trending/7611840082525913126/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "赛力斯：2月新能源汽车产量11028辆，同比下降35.06%",
-          "url": "https://wallstreetcn.com/livenews/3061855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】哈梅内伊遇害，外交部发声；国家发改委回应存储芯片价格上涨",
-          "url": "https://www.cls.cn/detail/2299148",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 16时34分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
