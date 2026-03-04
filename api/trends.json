@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-04T21:51:34.268028+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2026-03-04T22:33:47.286088+08:00",
+  "total_titles_processed": 2034,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "钟宝申：建议参考地产“三道红线”，对不达标的光伏企业实施融资约束",
+          "url": "https://wallstreetcn.com/livenews/3063700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "全国政协委员李书福：新能源汽车行业不要内卷式竞争，需要内涵式发展",
+          "url": "https://wallstreetcn.com/livenews/3063456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
     {
       "keyword_group": "电价 机制电价 分时电价",
       "match_count": 2,
@@ -25,26 +53,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全国政协委员李书福：新能源汽车行业不要内卷式竞争，需要内涵式发展",
-          "url": "https://wallstreetcn.com/livenews/3063456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "21时51分"
         }
       ]
     }
