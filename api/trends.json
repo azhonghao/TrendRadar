@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-05T09:15:40.759150+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-03-05T12:05:06.123464+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小浪花跑两会丨李书福委员：新能源汽车行业不要内卷式竞争，需要内涵式发展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698264",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
