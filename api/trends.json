@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:27:03.173924+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-03-06T19:22:29.867570+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "解决充电慢后新能源车还有短板吗",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "能源自给“保护伞” 德国3月光伏出力破纪录",
+          "url": "https://flash.jin10.com/detail/20260306190144241800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     }
