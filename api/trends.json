@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:13:53.845666+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-03-07T20:28:37.609031+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "国家发改委主任郑栅洁称，「十五五」时期支持「双一流」高校本科扩招 10 万人以上，可能有哪些考量？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 20时28分]"
         },
         {
           "title": "国家发改委：统筹建设卫星通信、导航、遥感系统 以场景拓展为牵引建设低空基础设施",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "国家发改委：国家发展规划法草案正同步审议",
+          "url": "https://flash.jin10.com/detail/20260307195818291800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "国家发改委：推动电信、互联网、教育、文化、医疗等领域有序扩大开放",
