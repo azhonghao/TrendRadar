@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T17:21:40.931881+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-03-07T18:15:55.878954+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,52 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 17时21分]"
-        },
-        {
-          "title": "国家发改委：支持社会力量提供多元化普惠托育服务，探索建立育儿补贴动态调整机制",
-          "url": "https://wallstreetcn.com/livenews/3065690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "国家发改委：“十五五”将探索延长义务教育年限",
-          "url": "https://flash.jin10.com/detail/20260307164632300800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "国家发改委：“十五五”我国将建成100个左右国家级零碳园区",
-          "url": "https://flash.jin10.com/detail/20260307164422954800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业",
-          "url": "https://flash.jin10.com/detail/20260307164223046800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 18时15分]"
         },
         {
           "title": "国家发改委：统筹建设卫星通信、导航、遥感系统 以场景拓展为牵引建设低空基础设施",
@@ -69,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -91,18 +47,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
-          "url": "https://wallstreetcn.com/livenews/3065684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -155,6 +100,18 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
+          "title": "国家发改委：支持社会力量提供多元化普惠托育服务，探索建立育儿补贴动态调整机制",
+          "url": "https://wallstreetcn.com/livenews/3065690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "国家发改委陈雷：将持续优化外商投资环境 全面落实外资企业国民待遇",
           "url": "https://flash.jin10.com/detail/20260307160756349800",
           "source": "金十数据",
@@ -167,6 +124,18 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
+          "title": "国家发改委：“十五五”将探索延长义务教育年限",
+          "url": "https://flash.jin10.com/detail/20260307164632300800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "国家发改委：推动3岁以下婴幼儿入托率提高6个百分点",
           "url": "https://wallstreetcn.com/livenews/3065659",
           "source": "华尔街见闻-快讯",
@@ -177,6 +146,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时21分]"
+        },
+        {
+          "title": "国家发改委：“十五五”我国将建成100个左右国家级零碳园区",
+          "url": "https://flash.jin10.com/detail/20260307164422954800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
+          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业",
+          "url": "https://flash.jin10.com/detail/20260307164223046800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
         },
         {
           "title": "国家发改委：梯次布局、厚植生态、数智赋能，培育壮大新兴产业和未来产业",
@@ -203,6 +196,30 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
+          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
+          "url": "https://wallstreetcn.com/livenews/3065684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
+          "title": "国家发改委：“十五五”时期基本建成世界级港口群和机场群",
+          "url": "https://wallstreetcn.com/livenews/3065682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "国家发改委：未来五年推动城镇基本公共服务有效覆盖常住人口",
           "url": "https://flash.jin10.com/detail/20260307155258928800",
           "source": "金十数据",
@@ -227,6 +244,18 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
+          "title": "国家发改委：统筹建设卫星通信、导航、遥感系统，以场景拓展为牵引建设低空基础设施",
+          "url": "https://wallstreetcn.com/livenews/3065676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "国家发改委：扩大国内需求要坚持“三个结合”",
           "url": "https://wallstreetcn.com/livenews/3065652",
           "source": "华尔街见闻-快讯",
@@ -238,24 +267,13 @@
           "time_info": "16时20分"
         },
         {
-          "title": "国家发改委：“十五五”时期基本建成世界级港口群和机场群",
-          "url": "https://wallstreetcn.com/livenews/3065682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "国家发改委：全链条推动集成电路、工业母机、高端仪器等重点领域关键核心技术攻关取得决定性突破",
           "url": "https://flash.jin10.com/detail/20260307162853384800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -288,7 +306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -304,24 +322,13 @@
           "time_info": "16时20分"
         },
         {
-          "title": "国家发改委：统筹建设卫星通信、导航、遥感系统，以场景拓展为牵引建设低空基础设施",
-          "url": "https://wallstreetcn.com/livenews/3065676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "国家发改委：“十五五”规划纲要草案面向中期着力打造集成电路、生物医药、航空航天等新兴支柱产业",
           "url": "https://flash.jin10.com/detail/20260307161952986800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -343,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -365,7 +372,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -387,7 +394,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -398,7 +405,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -420,7 +427,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -431,7 +438,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
