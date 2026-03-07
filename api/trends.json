@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T18:15:55.878954+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-03-07T19:13:53.845666+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时52分 ~ 19时13分]"
         },
         {
           "title": "国家发改委：统筹建设卫星通信、导航、遥感系统 以场景拓展为牵引建设低空基础设施",
@@ -50,6 +50,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "国家发改委：支持社会力量提供多元化普惠托育服务，探索建立育儿补贴动态调整机制",
+          "url": "https://wallstreetcn.com/livenews/3065690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时13分]"
         },
         {
           "title": "国家发改委：推动3岁以下婴幼儿入托率提高6个百分点",
@@ -100,18 +113,6 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
-          "title": "国家发改委：支持社会力量提供多元化普惠托育服务，探索建立育儿补贴动态调整机制",
-          "url": "https://wallstreetcn.com/livenews/3065690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时15分]"
-        },
-        {
           "title": "国家发改委陈雷：将持续优化外商投资环境 全面落实外资企业国民待遇",
           "url": "https://flash.jin10.com/detail/20260307160756349800",
           "source": "金十数据",
@@ -146,6 +147,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时21分]"
+        },
+        {
+          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
+          "url": "https://wallstreetcn.com/livenews/3065684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时13分]"
         },
         {
           "title": "国家发改委：“十五五”我国将建成100个左右国家级零碳园区",
@@ -196,28 +210,17 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
-          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
-          "url": "https://wallstreetcn.com/livenews/3065684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时15分]"
-        },
-        {
           "title": "国家发改委：“十五五”时期基本建成世界级港口群和机场群",
           "url": "https://wallstreetcn.com/livenews/3065682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时13分]"
         },
         {
           "title": "国家发改委：未来五年推动城镇基本公共服务有效覆盖常住人口",
