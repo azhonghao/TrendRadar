@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T17:40:00.383133+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-03-09T18:37:33.591223+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 18时37分]"
         },
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
