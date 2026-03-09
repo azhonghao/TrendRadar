@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T12:09:02.300966+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-03-09T13:52:37.299986+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 13时52分]"
         },
         {
           "title": "女子称新买的新能源车续航严重虚标",
