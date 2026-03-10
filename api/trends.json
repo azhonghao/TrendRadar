@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T22:42:06.821592+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2026-03-10T23:53:15.112237+08:00",
+  "total_titles_processed": 2168,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 22时42分]"
+          "appearance_count": 8,
+          "time_info": "[19时26分 ~ 23时53分]"
         },
         {
           "title": "新能源汽车涨价潮来临",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 22时42分]"
+          "appearance_count": 5,
+          "time_info": "[21时56分 ~ 23时53分]"
         },
         {
           "title": "沙特阿美计划2026年将在液体燃料、下游产业和新能源领域增加支出。",
