@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T17:36:01.524187+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-03-10T18:32:00.314638+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧洲电价在结构上过高。",
+          "url": "https://flash.jin10.com/detail/20260310180748426800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     }
