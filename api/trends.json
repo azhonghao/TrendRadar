@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-10T18:32:00.314638+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2026-03-10T19:27:03.061143+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "新能源汽车“涨价潮”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
         {
           "title": "沙特阿美计划2026年将在液体燃料、下游产业和新能源领域增加支出。",
           "url": "https://wallstreetcn.com/livenews/3067036",
@@ -64,7 +75,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
