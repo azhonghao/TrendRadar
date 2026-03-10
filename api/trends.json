@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-10T20:38:56.594775+08:00",
-  "total_titles_processed": 1859,
+  "generated_at": "2026-03-10T21:56:46.701070+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新能源汽车“涨价潮”来了",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时56分]"
         },
         {
           "title": "沙特阿美计划2026年将在液体燃料、下游产业和新能源领域增加支出。",
@@ -36,9 +37,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "新能源汽车涨价潮来临",
+          "url": "https://www.toutiao.com/trending/7615098898055462954/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "最高补贴30%！北京市新能源供热项目公开征集启动",
@@ -47,7 +59,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
