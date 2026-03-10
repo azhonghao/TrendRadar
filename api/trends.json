@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:23:38.401984+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-03-11T06:19:45.576333+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 06时19分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -25,11 +25,12 @@
           "ranks": [
             20,
             17,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时19分]"
         }
       ]
     }
