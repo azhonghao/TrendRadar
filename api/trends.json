@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T00:48:02.584893+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T01:41:02.112496+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时41分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时41分]"
         }
       ]
     }
