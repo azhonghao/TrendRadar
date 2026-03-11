@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T22:48:22.084069+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2026-03-11T23:39:57.423207+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             10,
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时39分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -59,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时48分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时39分]"
         },
         {
           "title": "A股电力股持续拉升，立新能源触及涨停，节能风电、赣能股份、华电能源、绿发电力此前封板，华银电力、乐山电力等冲高。",
@@ -113,7 +114,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
