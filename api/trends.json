@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T16:32:08.579195+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-03-11T17:34:46.667868+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
+          "url": "https://www.cls.cn/detail/2309697",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "中汽协：2月新能源汽车销量同比下滑14.2%，1-2月新能源汽车销量同比下降6.9%。",
