@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:32:03.988567+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-03-11T19:27:33.523738+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 19时27分]"
         },
         {
           "title": "中汽协：2月新能源汽车产销分别完成69.4万辆和76.5万辆，同比分别下降21.8%和14.2%",
@@ -73,11 +73,12 @@
           "url": "https://www.cls.cn/detail/2309752",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "中汽协：2月新能源汽车销量同比下滑14.2%，1-2月新能源汽车销量同比下降6.9%。",
