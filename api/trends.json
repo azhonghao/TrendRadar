@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T05:25:29.186142+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-03-12T06:20:28.620666+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时20分]"
         },
         {
           "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时20分]"
         },
         {
           "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
@@ -39,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 05时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 06时20分]"
         }
       ]
     }
