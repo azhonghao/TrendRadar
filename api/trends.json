@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T14:35:42.752655+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-03-14T15:31:56.848496+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "家电价格上涨几千 消费者感慨",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E7%94%B5%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%E5%87%A0%E5%8D%83+%E6%B6%88%E8%B4%B9%E8%80%85%E6%84%9F%E6%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     }
