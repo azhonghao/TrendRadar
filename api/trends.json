@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-03-14T23:20:33.051122+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-03-15T00:20:48.986206+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新能源车高速连跳3次空挡瞬间失速",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%AB%98%E9%80%9F%E8%BF%9E%E8%B7%B33%E6%AC%A1%E7%A9%BA%E6%8C%A1%E7%9E%AC%E9%97%B4%E5%A4%B1%E9%80%9F%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "家电价格上涨几千 消费者感慨",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E7%94%B5%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%E5%87%A0%E5%8D%83+%E6%B6%88%E8%B4%B9%E8%80%85%E6%84%9F%E6%85%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
