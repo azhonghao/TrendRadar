@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-14T07:20:17.269855+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-03-14T09:13:24.007718+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源车高速连跳3次空挡瞬间失速",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%AB%98%E9%80%9F%E8%BF%9E%E8%B7%B33%E6%AC%A1%E7%A9%BA%E6%8C%A1%E7%9E%AC%E9%97%B4%E5%A4%B1%E9%80%9F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
