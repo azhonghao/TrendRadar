@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T18:44:20.521719+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2026-03-17T19:38:03.828007+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "8年12万公里成新能源车流通斩杀线",
@@ -45,6 +45,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
+          "url": "https://www.cls.cn/detail/2315651",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
           "title": "云南能投3月17日在互动平台表示，公司主营业务涵盖新能源、盐业两大业务板块，其中涉化工业务主要为盐业板块中工业盐、芒硝等的生产销售，不涉及硫化工相关业务。",
           "url": "https://flash.jin10.com/detail/20260317085913495800",
           "source": "金十数据",
@@ -62,7 +73,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
