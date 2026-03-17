@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:49:44.292970+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-17T16:41:14.493525+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "8年12万公里成新能源车流通斩杀线",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.13%，恒生科技指数收跌0.08%；中资券商、内房、影视、蚂蚁金服、新能源车企等概念走强，光通信、风电、芯片、电池、电力设备等概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260317160858233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "中信证券：油价高位有望加速优质新能源车企出海",
