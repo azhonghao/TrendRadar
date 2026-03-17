@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T22:14:54.200585+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-03-17T23:56:14.411941+08:00",
+  "total_titles_processed": 2100,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时56分 ~ 09时16分]"
         },
         {
+          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
+          "url": "https://www.cls.cn/detail/2315651",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 23时56分]"
+        },
+        {
           "title": "新能源汽车行业开启涨价模式",
           "url": "https://www.toutiao.com/trending/7617085385898852388/",
           "source": "今日头条",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
-          "url": "https://www.cls.cn/detail/2315651",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 22时14分]"
         },
         {
           "title": "云南能投3月17日在互动平台表示，公司主营业务涵盖新能源、盐业两大业务板块，其中涉化工业务主要为盐业板块中工业盐、芒硝等的生产销售，不涉及硫化工相关业务。",
