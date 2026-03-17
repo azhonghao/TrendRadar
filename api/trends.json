@@ -1,132 +1,22 @@
 {
-  "generated_at": "2026-03-17T23:56:14.411941+08:00",
-  "total_titles_processed": 2100,
+  "generated_at": "2026-03-18T00:57:14.651781+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "8年12万公里成新能源车流通斩杀线",
-          "url": "https://www.toutiao.com/trending/7616941842516983814/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            22,
-            30,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 09时16分]"
-        },
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
           "url": "https://www.cls.cn/detail/2315651",
           "source": "财联社热门",
           "ranks": [
-            13,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时37分 ~ 23时56分]"
-        },
-        {
-          "title": "新能源汽车行业开启涨价模式",
-          "url": "https://www.toutiao.com/trending/7617085385898852388/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "美国证实特斯拉与LG新能源达成43亿美元电池交易",
-          "url": "https://wallstreetcn.com/livenews/3071369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "云南能投3月17日在互动平台表示，公司主营业务涵盖新能源、盐业两大业务板块，其中涉化工业务主要为盐业板块中工业盐、芒硝等的生产销售，不涉及硫化工相关业务。",
-          "url": "https://flash.jin10.com/detail/20260317085913495800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "南都电源获澳大利亚储能项目订单",
-          "url": "https://flash.jin10.com/detail/20260317180949995800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "上游成本全面传导，新能源汽车行业开启涨价模式",
-          "url": "https://wallstreetcn.com/livenews/3071202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.13%，恒生科技指数收跌0.08%；中资券商、内房、影视、蚂蚁金服、新能源车企等概念走强，光通信、风电、芯片、电池、电力设备等概念跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260317160858233800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "中信证券：油价高位有望加速优质新能源车企出海",
-          "url": "https://wallstreetcn.com/livenews/3071257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家能源局：2026年1—2月份全社会用电量同比增长6.1%",
-          "url": "https://wallstreetcn.com/livenews/3071351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         }
       ]
     }
