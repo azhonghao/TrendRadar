@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:04:48.509674+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-03-18T15:50:54.418936+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时50分]"
         },
         {
           "title": "国家发改委推出新一批重大外资项目，包括电子制造、化工、汽车、电气机械等",
