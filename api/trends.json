@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:38:15.852636+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-03-18T17:44:09.079844+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -27,7 +27,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -49,7 +49,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -77,11 +77,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 17时44分]"
         },
         {
           "title": "国家发改委推出新一批重大外资项目，包括电子制造、化工、汽车、电气机械等",
