@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T20:47:49.997467+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2026-03-18T22:17:00.422000+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时24分]"
+        },
+        {
+          "title": "奇瑞要做真正的新能源车",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%A6%81%E5%81%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "工信部发布新一批减免车辆购置税新能源汽车车型目录",
@@ -68,7 +79,7 @@
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国家发改委：推出新一批重大外资项目 包括电子制造、化工、汽车等",
@@ -83,6 +94,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[13时58分 ~ 20时47分]"
+        },
+        {
+          "title": "发改委推出新一批重大外资项目",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E6%8E%A8%E5%87%BA%E6%96%B0%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%A4%96%E8%B5%84%E9%A1%B9%E7%9B%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "国家发改委推出新一批重大外资项目，包括电子制造、化工、汽车、电气机械等",
