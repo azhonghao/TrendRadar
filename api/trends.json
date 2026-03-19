@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T14:46:39.915402+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-03-19T15:41:35.177239+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 15时41分]"
         },
         {
           "title": "央国企高端新能源汽车第一股上市",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时41分]"
         },
         {
           "title": "A股无人驾驶板块局部异动，昆仑万维短线拉升涨超4%；消息面上，工信部等三部门召开新能源汽车行业企业座谈会，提出加快自动驾驶技术攻关突破，优化准入试点流程、加快相关标准制定，为规模量产创造有利条件。",
