@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-20T22:38:36.601146+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-03-20T23:35:26.442445+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 24,
       "titles": [
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时30分 ~ 23时35分]"
+        },
         {
           "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
           "url": "https://www.cls.cn/detail/2319565",
@@ -19,22 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时32分 ~ 22时38分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时30分 ~ 22时38分]"
+          "appearance_count": 11,
+          "time_info": "[17时32分 ~ 23时35分]"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时06分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[12时06分 ~ 23时35分]"
         },
         {
           "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时30分 ~ 22时38分]"
+          "appearance_count": 10,
+          "time_info": "[18时30分 ~ 23时35分]"
         },
         {
           "title": "光伏产业仍大面积亏损，2026 年或更艰难，其主要原因及未来出路是什么？",
@@ -100,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时35分]"
         },
         {
           "title": "LG能源：计划到2026年底将储能系统（ESS）电池产能增加近一倍。",
