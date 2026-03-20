@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T01:31:43.946843+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-21T02:35:46.529141+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，储能概念持续火爆，算力租赁概念午后重挫",
+          "url": "https://www.cls.cn/detail/2319656",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
@@ -24,17 +36,6 @@
           "source": "财联社热门",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，储能概念持续火爆，算力租赁概念午后重挫",
-          "url": "https://www.cls.cn/detail/2319656",
-          "source": "财联社热门",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -60,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         }
       ]
     }
