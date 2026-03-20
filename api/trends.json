@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-03-20T20:38:03.635154+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-03-20T21:56:05.842543+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
+          "url": "https://www.cls.cn/detail/2319565",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 21时56分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 21时56分]"
+        },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796341",
@@ -19,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时06分 ~ 20时38分]"
+          "appearance_count": 15,
+          "time_info": "[12时06分 ~ 21时56分]"
         },
         {
           "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
@@ -53,31 +82,15 @@
           "time_info": "[00时48分 ~ 07时22分]"
         },
         {
-          "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
-          "url": "https://www.cls.cn/detail/2319565",
-          "source": "财联社热门",
+          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
+          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            9,
-            8,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 20时38分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 20时38分]"
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 21时56分]"
         },
         {
           "title": "LG能源：计划到2026年底将储能系统（ESS）电池产能增加近一倍。",
@@ -102,17 +115,6 @@
           "time_info": "14时43分"
         },
         {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 20时38分]"
-        },
-        {
           "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
           "url": "https://wallstreetcn.com/livenews/3073627",
           "source": "华尔街见闻-快讯",
@@ -122,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，储能概念持续火爆，算力租赁概念午后重挫",
+          "url": "https://www.cls.cn/detail/2319656",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "《光伏组件安全要求》等两项强制性国家标准座谈会在京召开",
