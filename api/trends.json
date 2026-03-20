@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T19:25:08.359605+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-03-20T20:38:03.635154+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 20时38分]"
         },
         {
           "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
@@ -34,8 +34,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时45分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[13时45分 ~ 20时38分]"
         },
         {
           "title": "光伏产业仍大面积亏损，2026 年或更艰难，其主要原因及未来出路是什么？",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 20时38分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时30分 ~ 20时38分]"
         },
         {
           "title": "LG能源：计划到2026年底将储能系统（ESS）电池产能增加近一倍。",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
+          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时30分 ~ 20时38分]"
         },
         {
           "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
@@ -170,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时45分]"
-        },
-        {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 19时25分]"
         },
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
