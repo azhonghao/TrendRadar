@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T00:33:51.928902+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-21T01:31:43.946843+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         },
         {
           "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，储能概念持续火爆，算力租赁概念午后重挫",
@@ -37,19 +37,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796341",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -59,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         }
       ]
     }
