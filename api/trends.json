@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:21:36.836010+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-21T09:11:19.117724+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时11分]"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
@@ -71,11 +71,12 @@
           "url": "https://wallstreetcn.com/articles/3767973",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时11分]"
         }
       ]
     }
