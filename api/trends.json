@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T11:57:36.736402+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-03-21T13:04:58.285207+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,20 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
+          "title": "沪指失守4000点，光伏、锂电走强，油气、化工回调、恒科指跌超2%，阿里跌6%、小米跌超8%",
+          "url": "https://wallstreetcn.com/articles/3767973",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 13时04分]"
+        },
+        {
           "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
           "url": "https://www.cls.cn/detail/2319565",
           "source": "财联社热门",
@@ -65,19 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "沪指失守4000点，光伏、锂电走强，油气、化工回调、恒科指跌超2%，阿里跌6%、小米跌超8%",
-          "url": "https://wallstreetcn.com/articles/3767973",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 11时57分]"
         }
       ]
     }
