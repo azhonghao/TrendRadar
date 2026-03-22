@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-03-22T23:18:54.103653+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-03-23T00:20:30.728499+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
-          "url": "https://flash.jin10.com/detail/20260322213846846800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时18分]"
-        },
         {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
           "url": "https://wallstreetcn.com/livenews/3074585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
