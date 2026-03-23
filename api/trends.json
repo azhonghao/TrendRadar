@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-23T18:45:15.906017+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-03-23T19:38:34.225079+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 4,
       "titles": [
+        {
+          "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
+          "url": "https://www.zhihu.com/question/654140946",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时48分 ~ 19时38分]"
+        },
         {
           "title": "工信部节能与综合利用司开展新能源汽车废旧动力电池回收利用体系建设相关研究工作",
           "url": "https://flash.jin10.com/detail/20260323135702284800",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
-          "url": "https://www.zhihu.com/question/654140946",
-          "source": "知乎",
-          "ranks": [
-            8,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时48分 ~ 18时45分]"
         },
         {
           "title": "北京科锐：中标5.76亿元光伏逆变器框架招标项目",
@@ -69,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时57分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[15时57分 ~ 19时38分]"
         },
         {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
