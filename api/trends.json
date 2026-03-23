@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T00:48:03.340152+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-24T01:44:59.747295+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/654140946",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时44分]"
         },
         {
           "title": "【数据看盘】化工ETF上周份额大减 一线游资联手量化资金抢筹太空光伏人气股",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时44分]"
         }
       ]
     }
