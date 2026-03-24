@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T16:41:10.852904+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-03-24T17:46:45.981767+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时46分]"
         },
         {
           "title": "【数据看盘】化工ETF上周份额大减 一线游资联手量化资金抢筹太空光伏人气股",
