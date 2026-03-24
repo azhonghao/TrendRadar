@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-25T04:49:21.590095+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-25T05:29:56.367466+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳大利亚政府：力拓集团将认购昆士兰中部近75亿澳元的新能源发电和输电项目。",
+          "url": "https://flash.jin10.com/detail/20260325043152090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
