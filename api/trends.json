@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T16:39:51.651340+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-03-25T17:44:43.183268+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "澳大利亚政府：力拓集团将认购昆士兰中部近75亿澳元的新能源发电和输电项目。",
@@ -28,6 +28,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "惠誉：即便伊朗冲突很快得到解决，电池储能系统的需求也应会增长。",
+          "url": "https://flash.jin10.com/detail/20260325172500324800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "惠誉：石油和液化天然气供应中断通过强化能源进口经济体在能源安全驱动下对可再生能源及电池储能系统的投资，增加了市场上行空间。",
+          "url": "https://flash.jin10.com/detail/20260325172419245800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "惠誉：伊朗冲突正在增强电池储能系统和更广泛电气化的潜力。",
+          "url": "https://flash.jin10.com/detail/20260325172350433800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
@@ -42,7 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
