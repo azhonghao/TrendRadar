@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T15:56:51.184123+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-03-26T16:44:52.002939+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,19 @@
     },
     {
       "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "LSEG数据显示，法国场外交易日前基荷电价飙升87.1%，达到112.25欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260326163510409800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
         {
           "title": "挪威能源部长：欧洲各合作伙伴需认真重新评估相关政策，以降低欧洲电价。",
           "url": "https://flash.jin10.com/detail/20260326004137930800",
