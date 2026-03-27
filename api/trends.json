@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-03-27T23:43:17.550823+08:00",
-  "total_titles_processed": 2097,
+  "generated_at": "2026-03-28T00:44:30.526903+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "蔚来李斌：今年四季度新能源渗透率有望突破65%",
-          "url": "https://wallstreetcn.com/livenews/3078235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "广汽集团2025年营业总收入约965.42亿元，节能与新能源车销量占比首破50%",
-          "url": "https://wallstreetcn.com/livenews/3078310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "亿纬锂能：拟投建60GWh储能电池生产制造项目，总投资约60亿元",
-          "url": "https://wallstreetcn.com/livenews/3078341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家能源局：1—2月，全国累计完成电力市场交易电量同比增长25.5%",
-          "url": "https://wallstreetcn.com/livenews/3078182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "宁夏发改委：猪粮比价进入过度下跌一级预警区间",
-          "url": "https://wallstreetcn.com/livenews/3078078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
