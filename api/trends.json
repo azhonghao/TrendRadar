@@ -1,61 +1,33 @@
 {
-  "generated_at": "2026-03-28T23:23:05.262466+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2026-03-29T00:23:47.420984+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
           "url": "https://www.cls.cn/detail/2327818",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9,
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时39分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "网传新能源车充电涨价是因为“用油发电”？专家回应",
           "url": "https://wallstreetcn.com/livenews/3078599",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 23时23分]"
-        },
-        {
-          "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
-          "url": "https://flash.jin10.com/detail/20260328111017309800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "富士康旗下富储科能即将发布储能新品",
-          "url": "https://flash.jin10.com/detail/20260328101337616800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "00时23分"
         }
       ]
     }
