@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:25:11.992666+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-03-28T23:23:05.262466+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时39分 ~ 22时25分]"
+          "appearance_count": 15,
+          "time_info": "[15时39分 ~ 23时23分]"
         },
         {
           "title": "网传新能源车充电涨价是因为“用油发电”？专家回应",
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时23分]"
         },
         {
           "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
