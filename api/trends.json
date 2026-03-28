@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T16:29:22.942963+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-28T17:29:17.357086+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时29分]"
         },
         {
           "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
