@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T00:23:47.420984+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-29T01:22:15.555801+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
@@ -15,8 +15,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
+        },
+        {
+          "title": "新能源车充电涨价因用油发电？没关联",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E6%B6%A8%E4%BB%B7%E5%9B%A0%E7%94%A8%E6%B2%B9%E5%8F%91%E7%94%B5%EF%BC%9F%E6%B2%A1%E5%85%B3%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 01时22分]"
         },
         {
           "title": "网传新能源车充电涨价是因为“用油发电”？专家回应",
@@ -26,8 +37,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     }
