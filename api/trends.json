@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T15:40:04.273616+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-03-28T16:29:22.942963+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2327818",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时29分]"
         },
         {
           "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
