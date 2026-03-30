@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T20:56:58.355005+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-03-30T22:23:49.163880+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
@@ -30,13 +30,25 @@
           "time_info": "[19时49分 ~ 20时56分]"
         },
         {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 22时23分]"
+        },
+        {
           "title": "亿纬锂能：子公司亿纬动力拟在荆门市投资建设60GWh动力储能电池项目",
           "url": "https://flash.jin10.com/detail/20260330203110885800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -47,18 +59,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
