@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T16:03:48.154847+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-03-31T17:56:44.767096+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             9,
             5,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时56分]"
         },
         {
           "title": "新能源汽车安全没有上限",
