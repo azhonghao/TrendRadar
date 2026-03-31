@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T20:56:13.182054+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-03-31T22:24:34.454931+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             14,
             7,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 20时56分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 22时24分]"
         },
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
