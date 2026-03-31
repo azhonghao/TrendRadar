@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T09:26:00.939762+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-03-31T12:29:58.104755+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
@@ -18,8 +18,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 12时29分]"
+        },
+        {
+          "title": "张雪机车 820RR 连续夺冠，中国摩托车技术到什么水平了，和新能源车一样实现对欧美日品牌的弯道超车了吗？",
+          "url": "https://www.zhihu.com/question/2021912194925818197",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "锚定新能源和算力两大赛道，50亿元级项目屡见不鲜",
@@ -42,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "《储能产业研究白皮书2026》：预计未来十年全球电池储能累计装机容量将激增8-17倍",
+          "url": "https://flash.jin10.com/detail/20260331114654744800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     }
