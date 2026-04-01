@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T06:29:25.531279+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-04-02T07:29:36.144865+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2332240",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
