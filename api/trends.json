@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-01T16:11:01.514880+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-04-01T18:01:58.150788+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "比亚迪李云飞：比亚迪3月份销售300222辆，获得中国车企销量冠军。乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。",
+          "url": "https://flash.jin10.com/detail/20260401175503544800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
         {
           "title": "大赚135亿！3000亿光伏龙头发布2025年年报|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2331060",
@@ -17,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "千亿光伏龙头5连跌！股价同期回调两成，近期高回撤权重盘点，这些方向占比较高",
+          "url": "https://www.cls.cn/detail/2332240",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
