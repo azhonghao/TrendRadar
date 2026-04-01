@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T20:57:51.677370+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-04-01T22:27:19.830111+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "千亿光伏龙头5连跌！股价同期回调两成，近期高回撤权重盘点，这些方向占比较高",
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时01分 ~ 22时27分]"
         },
         {
           "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时01分 ~ 22时27分]"
         },
         {
           "title": "比亚迪李云飞：比亚迪3月份销售300222辆，获得中国车企销量冠军。乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "晶科能源：二季度光伏出口退税取消后 公司排产仍保持相对稳定",
+          "url": "https://flash.jin10.com/detail/20260401215946611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "海南新能源汽车充电量一季度同比增长近四成",
@@ -152,7 +164,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
