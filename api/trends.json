@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T00:46:56.445853+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-02T01:52:13.802013+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         }
       ]
     }
