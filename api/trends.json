@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T23:34:26.057531+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2026-04-04T00:31:37.820496+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "新型储能规模2030年将超3.7亿千瓦",
@@ -15,87 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时58分 ~ 23时34分]"
-        },
-        {
-          "title": "绿联与宁德新能源科技达成战略合作",
-          "url": "https://flash.jin10.com/detail/20260403120633908800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "横店东磁：未参与特斯拉太空光伏计划",
-          "url": "https://flash.jin10.com/detail/20260403085946331800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "乘联分会：初步统计，3月1-31日，全国乘用车新能源市场零售78.4万辆，同比去年3月下降21%，较上月增长69%，今年以来累计零售184.4万辆，同比下降24%；3月1-31日，全国乘用车厂商新能源批发112.6万辆，同比去年3月增长0%，较上月增长56%，今年以来累计批发271.6万辆，同比下降5%。",
-          "url": "https://wallstreetcn.com/livenews/3082088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时45分]"
-        },
-        {
-          "title": "中国光伏“困在”霍尔木兹",
-          "url": "https://wallstreetcn.com/articles/3769103",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时45分]"
-        },
-        {
-          "title": "储能电芯供不应求：订单排期至明年，企业加速扩产应对需求爆发",
-          "url": "https://wallstreetcn.com/livenews/3082216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时40分]"
-        },
-        {
-          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
-          "url": "https://www.cls.cn/detail/2333899",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "本周光伏上游价格继续明显走跌",
-          "url": "https://wallstreetcn.com/livenews/3082130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "00时31分"
         }
       ]
     }
