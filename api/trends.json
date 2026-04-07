@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T12:27:12.953150+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-04-07T14:14:55.548068+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时14分]"
         },
         {
           "title": "中国储能企业出海进行时：订单高增叠加海外建厂潮",
           "url": "https://www.cls.cn/detail/2336012",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时14分]"
         }
       ]
     }
