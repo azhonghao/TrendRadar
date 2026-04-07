@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T19:47:40.673771+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-04-07T21:13:13.048046+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时47分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 21时13分]"
         },
         {
           "title": "中国储能企业出海进行时：订单高增叠加海外建厂潮",
@@ -43,7 +43,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -54,7 +54,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
