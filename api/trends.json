@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-04-07T22:45:04.679907+08:00",
-  "total_titles_processed": 1899,
+  "generated_at": "2026-04-08T00:06:29.555458+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "光伏产品出口退税为何取消",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5,
-            13,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时26分 ~ 22时45分]"
-        },
-        {
-          "title": "中国储能企业出海进行时：订单高增叠加海外建厂潮",
-          "url": "https://www.cls.cn/detail/2336012",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 18时01分]"
-        },
-        {
-          "title": "我国开发的东南亚单体最大光伏项目投运",
-          "url": "https://wallstreetcn.com/livenews/3083456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "我国开发的东南亚单体最大光伏项目投运",
-          "url": "https://flash.jin10.com/detail/20260407193351142800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "云汉芯城：预计一季度净利润4,904.41万元–5,420.66万元，同比增长139.40%–164.60%；第一季度，人工智能算力、新能源汽车等领域需求旺盛，带动相关电子元器件需求持续增长。",
-          "url": "https://wallstreetcn.com/livenews/3083382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "龙净环保：拟与亿纬锂能在上杭县设立合资公司，共同投资建设60GWh大容量储能电池工厂，聚焦大容量、长循环储能电芯制造，本项目总投资金额预计为人民币60亿元。",
-          "url": "https://wallstreetcn.com/livenews/3083379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "00时06分"
         }
       ]
     }
