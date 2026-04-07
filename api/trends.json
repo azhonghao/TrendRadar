@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-04-07T16:07:06.290185+08:00",
-  "total_titles_processed": 1307,
-  "failed_sources": [],
+  "generated_at": "2026-04-07T18:01:04.053214+08:00",
+  "total_titles_processed": 1454,
+  "failed_sources": [
+    "tieba",
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
@@ -14,11 +17,12 @@
           "ranks": [
             4,
             5,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 18时01分]"
         },
         {
           "title": "中国储能企业出海进行时：订单高增叠加海外建厂潮",
@@ -27,11 +31,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 18时01分]"
         }
       ]
     }
