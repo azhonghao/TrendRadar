@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T19:12:03.541927+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-04-08T19:56:01.288380+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             11,
             23,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时06分 ~ 19时12分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 19时56分]"
         },
         {
           "title": "美联储副主席Jefferson：在面临不确定性之际，利率政策处于不错的状态。 美联储能够针对一系列经济后果做出反应。 劳动力市场趋于稳定，但在冲击面前是脆弱的。 能源成本偏高，可能会不利于消费者和企业。 我将致力于推动美联储实现通胀朝着目标2%靠拢。",
