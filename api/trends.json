@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:14:23.323521+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-09T03:17:20.316765+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时17分]"
         },
         {
           "title": "油价再调整,新能源车主赢麻",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时17分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时17分]"
         }
       ]
     }
