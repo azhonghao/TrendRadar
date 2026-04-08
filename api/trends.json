@@ -1,41 +1,12 @@
 {
-  "generated_at": "2026-04-08T22:46:52.402742+08:00",
-  "total_titles_processed": 2020,
+  "generated_at": "2026-04-09T00:10:50.030621+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "光伏产品出口退税为何取消",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            16,
-            11,
-            23,
-            15,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时06分 ~ 22时46分]"
-        },
-        {
-          "title": "美联储副主席Jefferson：在面临不确定性之际，利率政策处于不错的状态。 美联储能够针对一系列经济后果做出反应。 劳动力市场趋于稳定，但在冲击面前是脆弱的。 能源成本偏高，可能会不利于消费者和企业。 我将致力于推动美联储实现通胀朝着目标2%靠拢。",
-          "url": "https://wallstreetcn.com/livenews/3083737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
         {
           "title": "我国开发的东南亚单体最大光伏项目投运",
           "url": "https://www.douyin.com/hot/2459935",
@@ -43,37 +14,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "00时10分"
         },
         {
-          "title": "天华新能：预计一季度净利润9亿元-10.5亿元，同比增长27,517.53%-32,120.45%；报告期内受储能与动力电池下游需求增长推动，公司锂电材料业务利润大幅增长。",
-          "url": "https://wallstreetcn.com/livenews/3084194",
-          "source": "华尔街见闻-快讯",
+          "title": "油价再调整,新能源车主赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352965&amp;topic_name=%E6%B2%B9%E4%BB%B7%E5%86%8D%E8%B0%83%E6%95%B4%2C%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
           "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时10分"
+        },
         {
-          "title": "国家能源局：当前全国统一电力市场建设已完成初步建成的阶段性目标",
-          "url": "https://wallstreetcn.com/livenews/3084342",
-          "source": "华尔街见闻-快讯",
+          "title": "光伏产品出口退税为何取消",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时10分"
         }
       ]
     }
