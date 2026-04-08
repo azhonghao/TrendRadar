@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T21:02:03.169912+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-04-08T22:46:52.402742+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "光伏产品出口退税为何取消",
@@ -18,11 +18,12 @@
             11,
             23,
             15,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时06分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时06分 ~ 22时46分]"
         },
         {
           "title": "美联储副主席Jefferson：在面临不确定性之际，利率政策处于不错的状态。 美联储能够针对一系列经济后果做出反应。 劳动力市场趋于稳定，但在冲击面前是脆弱的。 能源成本偏高，可能会不利于消费者和企业。 我将致力于推动美联储实现通胀朝着目标2%靠拢。",
@@ -34,6 +35,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "我国开发的东南亚单体最大光伏项目投运",
+          "url": "https://www.douyin.com/hot/2459935",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "天华新能：预计一季度净利润9亿元-10.5亿元，同比增长27,517.53%-32,120.45%；报告期内受储能与动力电池下游需求增长推动，公司锂电材料业务利润大幅增长。",
@@ -59,7 +71,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
