@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T09:18:16.657488+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-04-09T12:26:39.737166+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352965&amp;topic_name=%E6%B2%B9%E4%BB%B7%E5%86%8D%E8%B0%83%E6%95%B4%2C%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E8%B5%A2%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 09时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
