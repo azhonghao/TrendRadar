@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T12:26:39.737166+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-04-09T14:16:07.246278+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时10分 ~ 14时16分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
