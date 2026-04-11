@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:26:08.214969+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-04-11T19:24:14.403147+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,13 @@
           "url": "https://www.zhihu.com/question/2025584159024838298",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 19时24分]"
         },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
