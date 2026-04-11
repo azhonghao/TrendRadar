@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T14:51:35.165467+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-04-11T15:44:55.993659+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             17,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时44分]"
         },
         {
           "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
@@ -28,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时44分]"
         },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
