@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-11T15:44:55.993659+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-04-11T16:33:26.680286+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 3,
       "titles": [
+        {
+          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
+          "url": "https://www.zhihu.com/question/2025584159024838298",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 16时33分]"
+        },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
           "url": "https://wallstreetcn.com/livenews/3086152",
@@ -16,17 +27,6 @@
             17,
             24,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时44分]"
-        },
-        {
-          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
-          "url": "https://www.zhihu.com/question/2025584159024838298",
-          "source": "知乎",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
