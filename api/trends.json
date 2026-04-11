@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T17:32:55.385608+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-04-11T18:26:08.214969+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 18时26分]"
         },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时13分 ~ 15时44分]"
+        },
+        {
+          "title": "比亚迪廉玉波谈新能源汽车产业趋势",
+          "url": "https://www.toutiao.com/trending/7627394014204510262/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
