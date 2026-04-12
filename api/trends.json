@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-12T23:29:18.779705+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-04-13T00:28:42.349406+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "40辆新能源卡丁车巡场苏超太拉风",
-          "url": "https://www.toutiao.com/trending/7626785215834243114/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
