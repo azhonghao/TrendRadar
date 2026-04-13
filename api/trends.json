@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:23:02.459704+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-04-14T06:36:41.374568+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -50,11 +50,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 06时23分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 06时36分]"
         }
       ]
     }
