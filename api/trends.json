@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T00:55:24.636478+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-14T02:10:08.529421+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时10分]"
         },
         {
           "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时10分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%EF%BC%9F%E4%BA%A4%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时10分]"
         }
       ]
     }
