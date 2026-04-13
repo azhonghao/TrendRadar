@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T21:03:22.616434+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-04-13T23:35:36.322577+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
@@ -19,8 +19,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 21时03分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 23时35分]"
+        },
+        {
+          "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
+          "url": "https://www.cls.cn/detail/2342608",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 23时35分]"
         },
         {
           "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
@@ -33,17 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 15时10分]"
-        },
-        {
-          "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
-          "url": "https://www.cls.cn/detail/2342608",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
         },
         {
           "title": "创业板指涨0.8%再创阶段新高，锂电、光伏板块集体走强",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "新能源车牌绿色变白色？交管部门回应",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%EF%BC%9F%E4%BA%A4%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "工信部：开展锂电池、光伏组件、民用爆炸物品、无线电发射设备等重点产品质量检查",
