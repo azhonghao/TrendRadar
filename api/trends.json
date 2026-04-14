@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:53:17.142041+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-04-14T21:04:11.405820+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
@@ -92,6 +92,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家能源局 发改委 湖南发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局主要负责人会见澳大利亚驻华大使",
+          "url": "https://flash.jin10.com/detail/20260414203616002800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     }
