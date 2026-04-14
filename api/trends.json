@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T14:37:08.564597+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-04-14T16:22:31.772720+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,17 @@
           "time_info": "[00时55分 ~ 09时45分]"
         },
         {
+          "title": "多地新能源车牌绿色变白色",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时22分]"
+        },
+        {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
           "url": "https://www.cls.cn/detail/2342373",
           "source": "财联社热门",
@@ -58,17 +69,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时02分 ~ 07时36分]"
-        },
-        {
-          "title": "多地新能源车牌绿色变白色",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "新能源车牌绿变白？人为褪色属违法",
@@ -88,7 +88,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
