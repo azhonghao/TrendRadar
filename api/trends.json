@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T07:36:32.898878+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-14T09:45:40.812350+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2342608",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时45分]"
         },
         {
           "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
@@ -38,11 +39,12 @@
             16,
             14,
             7,
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时45分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
