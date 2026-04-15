@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T18:09:40.817739+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-04-15T19:50:42.805242+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2344596",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时50分]"
         },
         {
           "title": "国家能源局：加速制度改革，大胆推进氢能交易、绿色认证等机制创新",
