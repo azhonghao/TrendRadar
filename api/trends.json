@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-16T16:23:53.937690+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-04-16T18:24:33.338988+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广西新能源建设持续提速 装机占比过半",
+          "url": "https://wallstreetcn.com/livenews/3089198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
