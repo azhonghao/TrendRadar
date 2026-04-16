@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:08:02.683316+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-04-16T23:20:57.046891+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广西新能源建设持续提速 装机占比过半",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "刘翔直言中国新能源车太顶了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9B%B4%E8%A8%80%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E9%A1%B6%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -31,7 +42,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         }
