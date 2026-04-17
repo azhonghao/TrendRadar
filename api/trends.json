@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T20:58:03.218504+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-04-17T22:19:34.662774+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 22时19分]"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
