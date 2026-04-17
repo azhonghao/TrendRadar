@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T02:45:17.545457+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-18T03:53:10.240711+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时53分]"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
@@ -26,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            29
+            29,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 03时53分]"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
@@ -57,8 +58,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时53分]"
         }
       ]
     }
