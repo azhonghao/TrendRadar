@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T04:36:50.000267+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-18T05:34:40.031523+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             30,
             16,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时34分]"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
@@ -29,11 +30,12 @@
             28,
             29,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时34分]"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
@@ -50,7 +52,7 @@
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国家发改委：将制定2026年至2030年扩大内需战略实施方案",
@@ -60,8 +62,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时34分]"
+        },
+        {
+          "title": "国家发改委释放五大信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E9%87%8A%E6%94%BE%E4%BA%94%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     }
