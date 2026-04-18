@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T09:24:55.991709+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-04-18T12:25:27.006120+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "换电池小卡扣要13万新能源车主崩溃",
@@ -41,6 +41,17 @@
           "time_info": "[00时45分 ~ 07时32分]"
         },
         {
+          "title": "中国新能源产品成了海外抢手货",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E5%93%81%E6%88%90%E4%BA%86%E6%B5%B7%E5%A4%96%E6%8A%A2%E6%89%8B%E8%B4%A7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
           "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%B0%8F%E5%8D%A1%E6%89%A3%E8%A6%8113%E4%B8%87+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E5%B4%A9%E6%BA%83",
           "source": "百度热搜",
@@ -72,6 +83,19 @@
           "time_info": "[00时45分 ~ 09时24分]"
         },
         {
+          "title": "国家发改委明确鼓励探索中小学春秋假！多地落实家长带薪休假，协同效应有望放大文旅消费热情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32994479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时25分]"
+        },
+        {
           "title": "国家发改委释放五大信号",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E9%87%8A%E6%94%BE%E4%BA%94%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -83,18 +107,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时34分 ~ 07时32分]"
-        },
-        {
-          "title": "国家发改委明确鼓励探索中小学春秋假！多地落实家长带薪休假，协同效应有望放大文旅消费热情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32994479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时24分]"
         }
       ]
     }
