@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T07:32:02.111299+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-04-18T09:24:55.991709+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             9,
             7,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时24分]"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
@@ -63,11 +64,12 @@
           "ranks": [
             15,
             14,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时24分]"
         },
         {
           "title": "国家发改委释放五大信号",
@@ -87,11 +89,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32994479",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 09时24分]"
         }
       ]
     }
