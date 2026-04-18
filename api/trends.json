@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T15:55:37.974464+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-04-18T16:39:36.005042+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
             14,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 15时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 16时39分]"
         },
         {
           "title": "国家发改委释放五大信号",
