@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-04-19T23:31:58.580277+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-04-20T00:30:54.333883+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多地车主将新能源绿色车牌褪色为白色，还有博主分享攻略和教程，这种行为会带来哪些影响？要承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2027152168185082308",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6,
-            4,
-            3,
-            8,
-            13,
-            19,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时29分 ~ 22时35分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
