@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-21T02:53:33.984151+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-04-21T03:55:59.757964+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 3,
       "titles": [
+        {
+          "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
+          "url": "https://www.zhihu.com/question/1942699724776898904",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时55分]"
+        },
         {
           "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
           "url": "https://flash.jin10.com/detail/20260421013601493800",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时53分]"
-        },
-        {
-          "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
-          "url": "https://www.zhihu.com/question/1942699724776898904",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 02时53分]"
         },
         {
           "title": "美联储主席提名人沃什：一个以改革为导向的美联储能够真正改变美国人民的生活。",
