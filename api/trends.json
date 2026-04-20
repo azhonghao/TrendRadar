@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T17:50:33.609522+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-04-20T19:13:30.489208+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "绿电领跑全省 辽宁新能源装机规模超越火电成为第一大电源类型",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "广东：进一步做强电子信息、新能源汽车等支柱产业",
+          "url": "https://flash.jin10.com/detail/20260420185645315800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "工信部等部门召开光伏行业座谈会，要求扎实推进光伏行业“反内卷”工作",
