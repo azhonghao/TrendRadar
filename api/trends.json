@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:38:24.010733+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-04-22T06:32:46.129160+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 06时32分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.60%，报7020.14点。 热门中概股里，大全新能源初步收跌超9%，B站、阿特斯太阳能跌超6%，世纪互联跌5.8%，拼多多跌4.9%，新东方、小鹏、阿里、百度、蔚来、网易至少跌约3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.91%，中国科技指数ETF（CQQQ）收跌2.66%。 XtrackersHarvest中证50（ASHS）收跌1.86%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%。",
@@ -27,7 +28,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         }
