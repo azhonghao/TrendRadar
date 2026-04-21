@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T19:55:05.341266+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-04-21T21:03:37.489857+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 21时03分]"
         },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
@@ -51,7 +51,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -62,7 +62,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
