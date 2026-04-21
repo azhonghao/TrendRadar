@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T16:28:24.367713+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-04-21T18:12:59.053364+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2029614261630935945",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 18时12分]"
         },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
