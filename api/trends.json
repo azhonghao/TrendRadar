@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-21T14:32:04.228676+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-04-21T16:28:24.367713+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
           "url": "https://www.zhihu.com/question/1942699724776898904",
