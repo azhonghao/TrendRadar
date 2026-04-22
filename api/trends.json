@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-04-23T01:54:43.162012+08:00",
-  "total_titles_processed": 392,
-  "failed_sources": [],
+  "generated_at": "2026-04-23T03:01:10.677467+08:00",
+  "total_titles_processed": 440,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
@@ -15,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时01分]"
         }
       ]
     }
