@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T18:12:59.206185+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-04-22T19:55:11.003506+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
@@ -29,9 +29,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "棒杰股份：公司目前主营业务为无缝服装业务及光伏业务",
+          "url": "https://flash.jin10.com/detail/20260422192439785800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "中办、国办：合理控制煤电装机规模和发电量，大力发展非化石能源和新型储能",
@@ -40,7 +51,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
