@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T09:49:06.949168+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-04-23T12:45:18.309035+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.cls.cn/detail/2352906",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，大全新能源初步收涨16.5%，晶科能源涨11.2%，阿特斯太阳能涨8.8%，亚朵涨5%，金山云跌2.1%，新东方跌3.1%，华住跌3.9%，再鼎医药跌6.5%。 ETF中，ASHS涨2.2%，ASHR涨1.7%，CQQQ涨1.6%，KWEB跌0.5%。",
@@ -47,11 +48,12 @@
           "url": "https://wallstreetcn.com/articles/3770611",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时45分]"
         },
         {
           "title": "特斯拉：预计下半年的光伏需求强劲。",
