@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-24T22:46:52.580123+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-04-25T00:00:00.271422+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家能源局：一季度全国核发绿色电力证书6.98亿个",
-          "url": "https://wallstreetcn.com/livenews/3093929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
