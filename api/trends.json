@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T00:32:30.847694+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-26T01:32:22.906446+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "南方多省电价为何突然飙升",
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E7%94%B5%E4%BB%B7%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时32分]"
         }
       ]
     }
