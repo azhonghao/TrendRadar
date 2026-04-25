@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:32:22.906446+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-04-26T02:37:31.327604+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "南方多省电价为何突然飙升",
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     }
