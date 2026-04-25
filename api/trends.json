@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T14:16:56.568115+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-04-25T16:02:24.041409+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 16时02分]"
         },
         {
           "title": "上峰水泥：公司新经济股权投资聚焦于半导体、新材料、新能源等科创产业",
