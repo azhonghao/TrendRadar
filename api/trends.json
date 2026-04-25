@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-25T07:33:39.007686+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-25T09:28:01.776781+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.toutiao.com/trending/7632182781422063158/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
         {
           "title": "乘联分会：4月狭义乘用车零售预计142.0万辆，新能源预计86.0万辆",
           "url": "https://flash.jin10.com/detail/20260424234955601800",
