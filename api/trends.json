@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T19:34:05.562950+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-04-26T20:44:03.176207+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 09时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "光伏大佬彭小峰三度破产",
+          "url": "https://www.toutiao.com/trending/7632916037318852644/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         }
       ]
     },
