@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:16:51.492473+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-04-27T16:06:45.861396+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "协鑫集成在互动平台表示，公司主要产品覆盖高效光伏电池、大尺寸光伏组件、储能系统等，并为客户提供智慧光储一体化集成方案，目前公司储能业务占营业收入比例较低。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "北京车展百万元内新能源速览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "新能源车高速没电 司机接监控充电",
@@ -46,11 +57,23 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 16时06分]"
+        },
+        {
+          "title": "国家能源局：正在研究制定2026年新能源消纳工作方案",
+          "url": "https://wallstreetcn.com/livenews/3094783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
@@ -65,7 +88,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
