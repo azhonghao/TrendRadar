@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:06:45.861396+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-04-27T18:54:03.219931+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "协鑫集成在互动平台表示，公司主要产品覆盖高效光伏电池、大尺寸光伏组件、储能系统等，并为客户提供智慧光储一体化集成方案，目前公司储能业务占营业收入比例较低。",
@@ -30,6 +30,18 @@
           "time_info": "09时54分"
         },
         {
+          "title": "北京车展百万元内新能源速览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 18时54分]"
+        },
+        {
           "title": "协鑫集成：目前公司储能业务占营业收入比例较低",
           "url": "https://wallstreetcn.com/livenews/3094720",
           "source": "华尔街见闻-快讯",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "北京车展百万元内新能源速览",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
         },
         {
           "title": "新能源车高速没电 司机接监控充电",
@@ -65,13 +66,24 @@
           "time_info": "[09时54分 ~ 16时06分]"
         },
         {
+          "title": "欧盟对外商投资电池、电动汽车、光伏、关键原材料设限，商务部称若损害中企利益将反制，如何看待欧盟此举？",
+          "url": "https://www.zhihu.com/question/2032024898953028111",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
           "title": "国家能源局：正在研究制定2026年新能源消纳工作方案",
           "url": "https://wallstreetcn.com/livenews/3094783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
@@ -79,8 +91,41 @@
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "国家发改委禁止外资收购 Manus 项目，要求撤销交易，带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2032131106263102147",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "发改委叫停外资收购Manus",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%91%E6%94%B9%E5%A7%94%E5%8F%AB%E5%81%9C%E5%A4%96%E8%B5%84%E6%94%B6%E8%B4%ADManus",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "国家发改委：禁止外资收购Manus项目，要求撤销交易",
+          "url": "https://wallstreetcn.com/articles/3770977",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
         {
           "title": "国家能源局：将围绕重卡充电等应用场景 进一步推动充电设施扩规模、提质效",
           "url": "https://flash.jin10.com/detail/20260427123053998800",
@@ -91,6 +136,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "国家发改委：禁止外资收购Manus项目",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%A4%96%E8%B5%84%E6%94%B6%E8%B4%ADManus%E9%A1%B9%E7%9B%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "国家发改委：对外资收购Manus项目作出禁止投资决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062129",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
         }
       ]
     }
