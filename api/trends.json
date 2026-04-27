@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T20:17:11.981182+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-27T22:58:51.013082+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时06分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时06分 ~ 22时58分]"
         },
         {
           "title": "协鑫集成在互动平台表示，公司主要产品覆盖高效光伏电池、大尺寸光伏组件、储能系统等，并为客户提供智慧光储一体化集成方案，目前公司储能业务占营业收入比例较低。",
@@ -100,11 +101,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 20时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 22时58分]"
         },
         {
           "title": "国家发改委禁止外资收购 Manus 项目，要求撤销交易，带来哪些警示？",
