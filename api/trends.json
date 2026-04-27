@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T04:53:55.875715+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-04-28T05:47:09.308287+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京车展百万元内新能源速览",
@@ -18,8 +18,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时47分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 KWEB跌1.6%，CQQQ涨0.5%。",
@@ -28,9 +28,37 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南方电网回应区域现货电价波动",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%9B%9E%E5%BA%94%E5%8C%BA%E5%9F%9F%E7%8E%B0%E8%B4%A7%E7%94%B5%E4%BB%B7%E6%B3%A2%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 05时47分]"
         }
       ]
     },
@@ -46,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时47分]"
         }
       ]
     }
