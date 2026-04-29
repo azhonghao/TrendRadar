@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:12:08.193606+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-04-29T23:04:53.880442+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "豪恩汽电：收到某头部新能源汽车品牌的视觉感知系统等产品定点信 预计总金额约7.73亿元",
@@ -55,6 +55,17 @@
           "time_info": "[05时01分 ~ 05时59分]"
         },
         {
+          "title": "【焦点复盘】创业板指涨2.5%终结4连阴，全市场近4000股飘红，储能、小金属板块强势领涨",
+          "url": "https://www.cls.cn/detail/2359663",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "A股光伏设备板块盘初上扬，苏州固锝涨停，同享科技涨超15%，艾罗能源、锦浪科技、固德威、高测股份、酉立智能跟涨。",
           "url": "https://flash.jin10.com/detail/20260429093959959800",
           "source": "金十数据",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "锂电业绩大分化：上游多家材料厂利增十倍 储能龙头却坦言毛利率稳中有降是常态",
+          "url": "https://www.cls.cn/detail/2359858",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "恒生科技指数盘中涨超1%，恒生指数现涨0.86%，AI应用、内房、港口运输、家电、新能源车企等概念走强。",
