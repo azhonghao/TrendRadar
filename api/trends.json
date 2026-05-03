@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-03T09:57:19.191796+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-05-03T13:25:12.952750+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国新能源车进入“9系”时代",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E2%80%9C9%E7%B3%BB%E2%80%9D%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
