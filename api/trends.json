@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-05-03T23:39:36.316287+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-05-04T00:38:56.125213+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国新能源车进入“9系”时代",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E2%80%9C9%E7%B3%BB%E2%80%9D%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时49分]"
-        },
-        {
-          "title": "为什么新能源汽车买得起修不起",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B9%B0%E5%BE%97%E8%B5%B7%E4%BF%AE%E4%B8%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时45分 ~ 22时07分]"
-        },
-        {
-          "title": "为什么中国要推进新能源汽车",
-          "url": "https://www.toutiao.com/trending/7635575902675406399/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时07分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
