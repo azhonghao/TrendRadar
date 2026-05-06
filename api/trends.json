@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-06T13:24:02.575745+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-05-06T16:08:49.297015+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "观察｜供需格局切换后锂矿巨头业绩集体大幅反弹，储能成关键新引擎",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099879",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "吾悦 鑫远 和融 中电软件园",
       "match_count": 1,
