@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-06T18:57:35.084307+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-05-06T20:25:14.757198+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "观察｜供需格局切换后锂矿巨头业绩集体大幅反弹，储能成关键新引擎",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099879",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 20时25分]"
+        },
+        {
+          "title": "甘肃：“十五五”将加快建设全国重要的新能源及新能源装备制造基地",
+          "url": "https://flash.jin10.com/detail/20260506195424993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时08分"
+          "time_info": "20时25分"
         },
         {
           "title": "宝马回应LG新能源电池大单传闻：不评论猜测，持续评估供应商阵容",
@@ -25,7 +37,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -36,9 +48,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        },
+        {
+          "title": "“五一”期间高速公路新能源汽车日均充电量同比增长超50%",
+          "url": "https://wallstreetcn.com/livenews/3099343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
