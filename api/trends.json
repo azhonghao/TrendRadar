@@ -1,129 +1,22 @@
 {
-  "generated_at": "2026-05-10T23:44:05.880880+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-05-11T00:43:17.322387+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            14,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 20时57分]"
-        },
-        {
-          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
-          "url": "https://wallstreetcn.com/livenews/3101079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            11,
-            12,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时38分]"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            14,
-            15,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时38分]"
-        },
-        {
-          "title": "沙特阿美：公司的国内及国际存储能力提供了额外的灵活性。",
-          "url": "https://flash.jin10.com/detail/20260510130544090800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "中汽协：8家新能源车企锁电被约谈不实",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%EF%BC%9A8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时45分 ~ 04时36分]"
-        },
         {
           "title": "新能源车被“锁电”了怎么办",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E2%80%9C%E9%94%81%E7%94%B5%E2%80%9D%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E",
           "source": "百度热搜",
           "ranks": [
-            18,
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时18分 ~ 23时44分]"
-        },
-        {
-          "title": "新能源汽车“锁电”争议为何长期难解",
-          "url": "https://www.toutiao.com/trending/7638168055452798506/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://flash.jin10.com/detail/20260509210146377800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "妖魔化中国新能源车的人翻车了",
-          "url": "https://www.toutiao.com/trending/7637930823950516260/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "00时43分"
         }
       ]
     }
