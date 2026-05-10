@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T15:58:20.517211+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-05-10T17:26:31.411859+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时26分]"
         },
         {
           "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时45分 ~ 04时36分]"
+        },
+        {
+          "title": "新能源汽车“锁电”争议为何长期难解",
+          "url": "https://www.toutiao.com/trending/7638168055452798506/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
