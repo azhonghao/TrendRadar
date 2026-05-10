@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T13:38:40.538122+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-05-10T15:58:20.517211+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 13时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时58分]"
         },
         {
           "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
@@ -64,7 +64,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
