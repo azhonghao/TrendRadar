@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T05:58:31.224073+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-12T06:52:00.812656+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             10,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时52分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。",
