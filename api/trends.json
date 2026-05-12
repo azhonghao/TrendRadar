@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:14:17.816537+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-05-12T21:57:08.305817+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "老头乐和新能源到底有什么区别?",
@@ -37,6 +37,17 @@
           "time_info": "[14时00分 ~ 19时14分]"
         },
         {
+          "title": "四大光伏组件龙头已悉数出售美国工厂多数或全部股权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157466",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。",
           "url": "https://wallstreetcn.com/livenews/3101842",
           "source": "华尔街见闻-快讯",
@@ -54,7 +65,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -65,7 +76,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
