@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-13T06:06:23.766588+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-05-13T07:53:08.805654+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
+          "url": "https://www.zhihu.com/question/2037167038641198584",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
