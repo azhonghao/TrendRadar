@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T10:06:24.248454+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-05-12T14:02:23.710035+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "老头乐和新能源到底有什么区别?",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 07时49分]"
+        },
+        {
+          "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
+          "url": "https://www.zhihu.com/question/2037091318204032140",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时02分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。",
