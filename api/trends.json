@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T17:37:04.224296+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-05-13T19:56:22.563057+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.zhihu.com/question/2037631560241739641",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时56分]"
         },
         {
           "title": "比亚迪储能与Corvus Energy AS签订战略合作协议",
@@ -49,7 +50,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
