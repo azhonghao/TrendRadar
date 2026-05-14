@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T06:02:49.352316+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-05-15T07:47:21.228542+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时47分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -29,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时47分]"
         },
         {
           "title": "【数据看盘】超4亿元资金买入光伏人气股 游资、量化资金逆势涌入中国长城",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时47分]"
         },
         {
           "title": "2026 年了，如果你今年换车，你会选新能源车吗？",
