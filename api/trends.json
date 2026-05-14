@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T02:29:48.970839+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-05-15T04:26:41.218294+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -16,19 +16,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时26分]"
         },
         {
           "title": "新能源车开启涨价潮",
           "url": "https://www.douyin.com/hot/2498907",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时26分]"
         },
         {
           "title": "【数据看盘】超4亿元资金买入光伏人气股 游资、量化资金逆势涌入中国长城",
@@ -39,8 +40,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时26分]"
+        },
+        {
+          "title": "2026 年了，如果你今年换车，你会选新能源车吗？",
+          "url": "https://www.zhihu.com/question/2032194954789909616",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
