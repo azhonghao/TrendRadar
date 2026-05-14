@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-14T17:28:40.340163+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-05-14T19:45:04.956660+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "新能源车开启涨价潮",
+          "url": "https://www.douyin.com/hot/2498907",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 19时45分]"
+        },
         {
           "title": "A股光伏设备板块短线拉升，协鑫集成、双良节能涨停，连城数控涨超10%，拉普拉斯、易成新能、钧达股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260514094914107800",
@@ -31,6 +42,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会上雷军和马斯克合照，他们可能交流了什么？会对新能源车行业有影响吗？",
+          "url": "https://www.zhihu.com/question/2038327972331877678",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 19时45分]"
         }
       ]
     }
