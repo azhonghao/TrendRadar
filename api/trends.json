@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T07:47:21.228542+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-05-15T10:12:27.209303+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "新能源车开启涨价潮",
@@ -15,11 +15,34 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 07时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 10时12分]"
+        },
+        {
+          "title": "深成指、创业板指快速跳水跌超1%，沪指跌0.82%，贵金属、光伏设备、电力、航运等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3104022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "港股风电股震荡走低，金风科技(02208.HK)跌超5%，协和新能源(00182.HK)、东方电气(01072.HK)跌超3%，大唐新能源(01798.HK)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260515100747051800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
