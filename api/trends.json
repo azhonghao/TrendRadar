@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-05-16T23:50:08.437290+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-05-17T00:46:37.141339+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "惠誉：新能源冲击打断了德国脆弱的复苏。",
-          "url": "https://flash.jin10.com/detail/20260516085052198800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟电厂 售电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国内首笔 数据中心接入虚拟电厂参与电力现货市场交易",
-          "url": "https://wallstreetcn.com/livenews/3104713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
