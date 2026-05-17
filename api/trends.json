@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T14:14:14.331180+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-05-17T16:59:09.264140+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 16时59分]"
         },
         {
           "title": "中国汽车专利公开量领跑全球 我国新能源汽车专利突破11万件",
