@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-05-19T21:50:48.805505+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-05-20T00:46:09.380281+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宁德时代与山西省共建新能源全产业链集群",
-          "url": "https://flash.jin10.com/detail/20260519180909452800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "A股光伏、储能板块震荡走强，正泰电源涨停，双良节能冲击涨停，金博股份、阳光电源、国晟科技、锦浪科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3105720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高温触发电网紧急警报，美国东海岸电价暴涨",
-          "url": "https://wallstreetcn.com/livenews/3105647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
