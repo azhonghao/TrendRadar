@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T07:05:59.438640+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-05-21T10:29:18.567044+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 07时05分]"
+        },
+        {
+          "title": "A股绿电概念震荡反弹，立新能源直线涨停，江苏新能、韶能股份、黔源电力、广西能源、太阳能跟涨。",
+          "url": "https://flash.jin10.com/detail/20260521095317738800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
