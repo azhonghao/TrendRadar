@@ -1,56 +1,7 @@
 {
-  "generated_at": "2026-05-21T21:56:37.244902+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-05-22T00:35:53.571881+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
-          "url": "https://www.zhihu.com/question/2040337402904797465",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 07时05分]"
-        },
-        {
-          "title": "A股绿电概念震荡反弹，立新能源直线涨停，江苏新能、韶能股份、黔源电力、广西能源、太阳能跟涨。",
-          "url": "https://flash.jin10.com/detail/20260521095317738800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "520当天 国家发改委干了两件大事",
-          "url": "https://www.baidu.com/s?wd=520%E5%BD%93%E5%A4%A9+%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E5%B9%B2%E4%BA%86%E4%B8%A4%E4%BB%B6%E5%A4%A7%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 07时05分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
