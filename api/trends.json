@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T14:41:03.537313+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-22T18:17:21.963130+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 18时17分]"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -62,11 +63,12 @@
           "url": "https://www.cls.cn/detail/2378704",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 18时17分]"
         },
         {
           "title": "国家发改委：我国经济平稳运行，向新向优发展的态势没有变",
