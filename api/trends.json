@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:14:57.013400+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-24T19:08:40.628449+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国内单体最大智能组串式储能电站落地内蒙古",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 05时45分]"
+        },
+        {
+          "title": "马斯克放弃地面太阳能转向太空光伏",
+          "url": "https://www.toutiao.com/trending/7643348326833720868/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
@@ -34,7 +45,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         }
