@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-28T07:17:13.166492+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-28T10:09:36.356927+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3110365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
         {
           "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
           "url": "https://www.cls.cn/detail/2383044",
@@ -25,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
