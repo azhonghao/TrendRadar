@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T14:44:27.950924+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-05-28T18:46:01.367210+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 05时59分]"
+        },
+        {
+          "title": "小米超大众丰田成全球新能源第七",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%A4%A7%E4%BC%97%E4%B8%B0%E7%94%B0%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E8%83%BD%E6%BA%90%E7%AC%AC%E4%B8%83%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "订单饱满叠加海外扩张，科创板新能源公司抢抓行业高增长机遇",
