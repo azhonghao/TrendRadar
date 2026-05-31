@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-31T17:43:58.226750+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-31T19:28:10.200118+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "老人点燃杨絮 20辆新能源车被烧毁",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE+20%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
