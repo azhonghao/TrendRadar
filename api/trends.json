@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T17:13:16.694876+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-06-01T23:49:00.109536+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
@@ -42,6 +42,17 @@
           "time_info": "[00时57分 ~ 05时51分]"
         },
         {
+          "title": "【社论】如何看待“新能源车养路费”讨论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
           "title": "新能源车为何买得起修不起",
           "url": "https://www.toutiao.com/trending/7646203612858682921/",
           "source": "今日头条",
@@ -59,7 +70,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -81,7 +92,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
