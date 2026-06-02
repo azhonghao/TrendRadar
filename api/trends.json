@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T08:08:33.501763+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-06-02T13:24:34.010806+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "【社论】如何看待“新能源车养路费”讨论",
@@ -14,11 +14,23 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时11分 ~ 08时08分]"
+          "appearance_count": 5,
+          "time_info": "[04时11分 ~ 13时24分]"
+        },
+        {
+          "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
+          "url": "https://www.zhihu.com/question/2042914583443136872",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
@@ -31,6 +43,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时08分]"
+        },
+        {
+          "title": "天合光能董事长高纪凡：公司光伏技术进入双路线并行阶段 钙钛矿叠层组件功率达907W",
+          "url": "https://flash.jin10.com/detail/20260602123755139800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "协鑫集团董事长朱共山：单一光伏制造企业的概念或许会消失",
+          "url": "https://wallstreetcn.com/livenews/3112791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     }
