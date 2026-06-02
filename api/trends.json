@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T18:04:50.026041+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-06-02T22:44:12.699844+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 8,
       "titles": [
+        {
+          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
+          "url": "https://www.zhihu.com/question/2044851902995812571",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 22时44分]"
+        },
         {
           "title": "【社论】如何看待“新能源车养路费”讨论",
           "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
@@ -22,17 +34,6 @@
           "time_info": "[04时11分 ~ 13时24分]"
         },
         {
-          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
-          "url": "https://www.zhihu.com/question/2044851902995812571",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
           "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
           "url": "https://www.zhihu.com/question/2042914583443136872",
           "source": "知乎",
@@ -42,6 +43,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288710",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 22时44分]"
         },
         {
           "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
@@ -62,18 +75,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288710",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
