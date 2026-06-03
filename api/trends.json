@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-06-03T07:28:25.039256+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-06-03T10:50:45.424998+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
           "url": "https://m.thepaper.cn/newsDetail_forward_33288710",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 10时50分]"
+        },
+        {
+          "title": "老宅被亲戚偷装光伏板 女子崩溃痛哭",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%AE%85%E8%A2%AB%E4%BA%B2%E6%88%9A%E5%81%B7%E8%A3%85%E5%85%89%E4%BC%8F%E6%9D%BF+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "比亚迪 5 月汽车销量达 38.3 万辆年内首次增长，这对其市场份额与新能源汽车行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2044859839910827099",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "老宅被亲戚偷装光伏板女子崩溃痛哭",
@@ -50,7 +73,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
