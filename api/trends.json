@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T10:50:45.424998+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-06-03T16:08:09.264815+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
@@ -26,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -67,6 +67,17 @@
           "time_info": "[02时32分 ~ 05时42分]"
         },
         {
+          "title": "车市五月飘红！头部车企销量回暖 乘联分会：新能源将迎“双增长”",
+          "url": "https://www.cls.cn/detail/2389282",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
           "title": "光伏企业集体转型综合能源服务商，算电协同成争夺重地",
           "url": "https://wallstreetcn.com/livenews/3113326",
           "source": "华尔街见闻-快讯",
@@ -76,6 +87,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟电厂 售电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "售电公司发通知：我就是想停电了",
+          "url": "https://www.baidu.com/s?wd=%E5%94%AE%E7%94%B5%E5%85%AC%E5%8F%B8%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E6%83%B3%E5%81%9C%E7%94%B5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         }
       ]
     }
