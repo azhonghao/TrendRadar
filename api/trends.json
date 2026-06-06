@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-06T08:01:43.693876+08:00",
-  "total_titles_processed": 611,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-06-06T11:31:42.407216+08:00",
+  "total_titles_processed": 804,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
