@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-06-06T23:07:21.403536+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-06-07T01:02:21.857691+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国新能源车为什么越造越大",
-          "url": "https://www.toutiao.com/trending/7647769811623104054/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "刘苏社履新文旅部副部长，卸任国家发改委副主任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33317296",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 17时19分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
