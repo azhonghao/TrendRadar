@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T01:23:10.590188+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-09T04:02:33.463380+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7648583608257069099/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时02分]"
         },
         {
           "title": "新能源小车卖不动了",
