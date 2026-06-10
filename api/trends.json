@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T10:33:17.813331+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-06-10T14:59:58.148165+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "新能源车越来越胖 正制造三重风险",
@@ -30,6 +30,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "5月我国新能源汽车产销量同比两位数增长",
+          "url": "https://wallstreetcn.com/livenews/3117258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "中汽协：国内车市呈现“燃油车冷、新能源车热”的特点",
+          "url": "https://flash.jin10.com/detail/20260610140459492800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "5月我国新能源汽车产销量同比两位数增长",
+          "url": "https://flash.jin10.com/detail/20260610140345179800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "中汽协：我国拥有全球最完整的新能源汽车产业链",
+          "url": "https://flash.jin10.com/detail/20260610140107293800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌0.85%，深成指跌2.53%。有色金属、电网、光伏、消费电子、算力硬件等方向跌幅居前，沪深京三市下跌个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3117235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
