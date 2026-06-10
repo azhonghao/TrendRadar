@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T14:59:58.148165+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-06-10T18:56:32.435270+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "新能源车越来越胖 正制造三重风险",
@@ -21,6 +21,17 @@
           "time_info": "[03时07分 ~ 07时13分]"
         },
         {
+          "title": "我国储能发展驶入快车道",
+          "url": "https://www.douyin.com/hot/2529225",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
           "url": "https://wallstreetcn.com/livenews/3117027",
           "source": "华尔街见闻-快讯",
@@ -32,13 +43,35 @@
           "time_info": "05时43分"
         },
         {
+          "title": "龙蟠科技：控股孙公司锂源（亚太）通过其全资下属公司锂源印尼（巴塘）在印度尼西亚投资建设“新能源汽车动力与储能电池正极材料规模化生产项目”，项目总规划建设年产12万吨二代及三代磷酸铁锂正极材料的生产线，本项目总投资金额约为1.6亿美元，约合人民币10.88亿元。",
+          "url": "https://wallstreetcn.com/livenews/3117422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "光伏",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%89%E4%BC%8F&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "5月我国新能源汽车产销量同比两位数增长",
           "url": "https://wallstreetcn.com/livenews/3117258",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -49,7 +82,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -60,7 +93,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -71,7 +104,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -82,7 +115,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         }
