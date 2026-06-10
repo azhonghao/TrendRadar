@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-06-10T22:18:58.406652+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-06-11T01:52:23.869138+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "新能源车越来越胖 正制造三重风险",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%83%96+%E6%AD%A3%E5%88%B6%E9%80%A0%E4%B8%89%E9%87%8D%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时07分 ~ 07时13分]"
-        },
-        {
-          "title": "我国储能发展驶入快车道",
-          "url": "https://www.douyin.com/hot/2529225",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
         {
           "title": "5月新能源汽车产销量同比增长",
           "url": "https://www.douyin.com/hot/2530030",
@@ -38,108 +14,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "01时52分"
+        },
+        {
+          "title": "多个投资人入局 “光伏组件第一股”*ST亿晶预重整迎关键节点|速读公告",
+          "url": "https://www.cls.cn/detail/2396461",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "新能源车不能再“胖”了",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%86%8D%E2%80%9C%E8%83%96%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
-          "url": "https://wallstreetcn.com/livenews/3117027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "01时52分"
         },
         {
-          "title": "龙蟠科技：控股孙公司锂源（亚太）通过其全资下属公司锂源印尼（巴塘）在印度尼西亚投资建设“新能源汽车动力与储能电池正极材料规模化生产项目”，项目总规划建设年产12万吨二代及三代磷酸铁锂正极材料的生产线，本项目总投资金额约为1.6亿美元，约合人民币10.88亿元。",
-          "url": "https://wallstreetcn.com/livenews/3117422",
-          "source": "华尔街见闻-快讯",
+          "title": "光伏龙头股突然绝地反攻，强制性能耗能效标准或于近期出台？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350710",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "光伏",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%89%E4%BC%8F&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "5月我国新能源汽车产销量同比两位数增长",
-          "url": "https://wallstreetcn.com/livenews/3117258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "中汽协：国内车市呈现“燃油车冷、新能源车热”的特点",
-          "url": "https://flash.jin10.com/detail/20260610140459492800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "5月我国新能源汽车产销量同比两位数增长",
-          "url": "https://flash.jin10.com/detail/20260610140345179800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "中汽协：我国拥有全球最完整的新能源汽车产业链",
-          "url": "https://flash.jin10.com/detail/20260610140107293800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "创业板指跌超3%，沪指跌0.85%，深成指跌2.53%。有色金属、电网、光伏、消费电子、算力硬件等方向跌幅居前，沪深京三市下跌个股近4500只。",
-          "url": "https://wallstreetcn.com/livenews/3117235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "01时52分"
         }
       ]
     },
@@ -152,11 +62,11 @@
           "url": "https://www.cls.cn/detail/2396287",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "01时52分"
         }
       ]
     }
