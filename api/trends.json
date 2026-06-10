@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T18:56:32.435270+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-06-10T22:18:58.406652+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "新能源车越来越胖 正制造三重风险",
@@ -27,9 +27,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "5月新能源汽车产销量同比增长",
+          "url": "https://www.douyin.com/hot/2530030",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "新能源车不能再“胖”了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%86%8D%E2%80%9C%E8%83%96%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
@@ -49,7 +71,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -60,7 +82,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -118,6 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家能源局 发改委 湖南发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
