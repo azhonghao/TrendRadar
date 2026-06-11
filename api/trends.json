@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:48:19.245202+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-11T08:09:53.856594+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "多个投资人入局 “光伏组件第一股”*ST亿晶预重整迎关键节点|速读公告",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "新能源车不能再“胖”了",
@@ -37,11 +37,12 @@
           "ranks": [
             16,
             9,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "光伏龙头股突然绝地反攻，强制性能耗能效标准或于近期出台？",
@@ -51,8 +52,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 08时09分]"
         }
       ]
     }
