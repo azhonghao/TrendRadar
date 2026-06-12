@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T19:36:27.540736+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-06-12T22:35:57.785044+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2047600648644816926",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 22时35分]"
         },
         {
           "title": "全国首单储能机构间REITs挂牌",
