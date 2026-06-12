@@ -1,67 +1,22 @@
 {
-  "generated_at": "2026-06-12T22:35:57.785044+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-06-13T01:32:53.046258+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
           "url": "https://www.zhihu.com/question/2047600648644816926",
           "source": "知乎",
           "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 22时35分]"
-        },
-        {
-          "title": "全国首单储能机构间REITs挂牌",
-          "url": "https://flash.jin10.com/detail/20260612145055380800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "新能源车越来越多 加油站如何转型",
-          "url": "https://www.toutiao.com/trending/7650152150005190185/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "广州：全力推进智能网联与新能源汽车、人工智能、半导体及集成电路、低空经济等重大项目的落地",
-          "url": "https://flash.jin10.com/detail/20260612095700182800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "北汽新能源1-5月上险量增速 主流车企TOP1",
-          "url": "https://wallstreetcn.com/livenews/3118626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "01时32分"
         }
       ]
     }
