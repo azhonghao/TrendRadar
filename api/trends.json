@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T10:32:00.979566+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-06-13T14:50:32.064031+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 03时54分]"
+        },
+        {
+          "title": "11部门发文推动新能源重卡应用",
+          "url": "https://flash.jin10.com/detail/20260613121834786800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "燃油车反击新能源车 成本催升订单",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     }
