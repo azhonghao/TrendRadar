@@ -1,61 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:26:47.103505+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-06-14T01:12:45.934873+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "燃油车反击新能源车 成本催升订单",
-          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 17时52分]"
-        },
-        {
-          "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
-          "url": "https://www.zhihu.com/question/2047600648644816926",
-          "source": "知乎",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 03时54分]"
-        },
-        {
-          "title": "十一部门：到2030年，新能源重卡渗透率达到40%，保有量突破160万辆",
-          "url": "https://wallstreetcn.com/livenews/3119134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 19时48分]"
-        },
-        {
-          "title": "11部门发文推动新能源重卡应用",
-          "url": "https://flash.jin10.com/detail/20260613121834786800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
