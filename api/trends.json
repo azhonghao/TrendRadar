@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-15T01:10:20.529465+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-15T03:10:09.653690+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "硅料困在深渊、锂电站上顶峰，光伏巨头协鑫“脱硅入锂”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376023",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
