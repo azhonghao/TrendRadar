@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-06-15T20:58:54.387316+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-06-16T02:02:18.997898+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "北交所公司调研热度攀升 新能源与医药赛道受关注",
-          "url": "https://wallstreetcn.com/livenews/3119316",
-          "source": "华尔街见闻-快讯",
+          "title": "新能源车该不该承担“养护费”",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%BF%E6%8B%85%E2%80%9C%E5%85%BB%E6%8A%A4%E8%B4%B9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            4
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "硅料困在深渊、锂电站上顶峰，光伏巨头协鑫“脱硅入锂”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376023",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 06时15分]"
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
         }
       ]
     }
