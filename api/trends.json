@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-06-16T20:04:29.877951+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-06-17T01:56:00.002227+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "华泰证券：工信部提升光伏组件效率标准 行业拐点或逐步显现",
-          "url": "https://wallstreetcn.com/livenews/3119922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "新能源车该不该承担“养护费”",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%BF%E6%8B%85%E2%80%9C%E5%85%BB%E6%8A%A4%E8%B4%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            30,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 14时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
