@@ -1,34 +1,39 @@
 {
-  "generated_at": "2026-06-17T22:52:12.152024+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-06-18T01:45:49.068708+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
           "url": "https://www.zhihu.com/question/1918235574843729760",
           "source": "知乎",
           "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时52分]"
-        },
-        {
-          "title": "2026年储能下半场前瞻：硬件“内卷”行至尾声，电力交易、算储一体、海外户储走向台前",
-          "url": "https://wallstreetcn.com/livenews/3120543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "风力骤降致德国电价突破400欧元，创一年来新高",
+          "url": "https://wallstreetcn.com/livenews/3121147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     }
