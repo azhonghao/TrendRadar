@@ -1,138 +1,22 @@
 {
-  "generated_at": "2026-06-18T21:57:07.879558+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-06-19T01:32:06.685868+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
-          "url": "https://www.cls.cn/detail/2403340",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
-        },
-        {
-          "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
-          "url": "https://www.zhihu.com/question/1918235574843729760",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 08时08分]"
-        },
         {
           "title": "五部门开展新能源汽车下乡活动",
           "url": "https://www.douyin.com/hot/2539139",
           "source": "抖音",
           "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 21时57分]"
-        },
-        {
-          "title": "我国将启动2026年新能源汽车下乡",
-          "url": "https://www.toutiao.com/trending/7652589530977517610/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
-        },
-        {
-          "title": "新能源汽车下乡服务平台发布2026年新能源汽车下乡车型目录，共155款车型。",
-          "url": "https://wallstreetcn.com/livenews/3121424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "五部门：开展2026年新能源汽车下乡活动",
-          "url": "https://wallstreetcn.com/livenews/3121419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "2026年新能源汽车下乡车型目录公布",
-          "url": "https://flash.jin10.com/detail/20260618124749423800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家发改委回应大规模投建算力网：市场力量将起决定性作用",
-          "url": "https://www.cls.cn/detail/2403218",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 18时06分]"
-        },
-        {
-          "title": "国家发改委：把中国的产业竞争力简单归因于“补贴”，不仅过于片面，而且完全错误",
-          "url": "https://wallstreetcn.com/livenews/3121398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "风力骤降致德国电价突破400欧元，创一年来新高",
-          "url": "https://wallstreetcn.com/livenews/3121147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
