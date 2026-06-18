@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T13:29:13.632097+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-06-18T18:06:05.930776+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
+          "url": "https://www.cls.cn/detail/2403340",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
         {
           "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
           "url": "https://www.zhihu.com/question/1918235574843729760",
@@ -22,13 +33,24 @@
           "time_info": "[01时45分 ~ 08时08分]"
         },
         {
+          "title": "五部门开展新能源汽车下乡活动",
+          "url": "https://www.douyin.com/hot/2539139",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
           "title": "新能源汽车下乡服务平台发布2026年新能源汽车下乡车型目录，共155款车型。",
           "url": "https://wallstreetcn.com/livenews/3121424",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -39,7 +61,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -50,7 +72,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
@@ -65,11 +87,12 @@
           "url": "https://www.cls.cn/detail/2403218",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 18时06分]"
         },
         {
           "title": "国家发改委：把中国的产业竞争力简单归因于“补贴”，不仅过于片面，而且完全错误",
@@ -78,7 +101,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
