@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T07:41:57.820610+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-06-19T10:59:18.051711+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "五部门开展新能源汽车下乡活动",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             21,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 07时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 10时59分]"
         },
         {
           "title": "我国将启动2026年新能源汽车下乡",
@@ -38,11 +39,23 @@
           "url": "https://www.douyin.com/hot/2539912",
           "source": "抖音",
           "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 10时59分]"
+        },
+        {
+          "title": "2026新能源汽车下乡车型目录公布",
+          "url": "https://s.weibo.com/weibo?q=2026%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E4%B9%A1%E8%BD%A6%E5%9E%8B%E7%9B%AE%E5%BD%95%E5%85%AC%E5%B8%83&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时59分"
         }
       ]
     }
