@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T16:32:10.788195+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-06-19T20:41:41.443882+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             12,
             10,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 20时41分]"
         },
         {
           "title": "我国将启动2026年新能源汽车下乡",
