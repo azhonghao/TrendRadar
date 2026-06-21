@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-21T23:07:26.951726+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-22T01:20:17.295019+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中工国际：全资子公司签署11.27亿元储能电站工程总承包合同",
-          "url": "https://flash.jin10.com/detail/20260621164343508800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "中工国际：子公司签署11.27亿元储能电站总承包合同",
-          "url": "https://flash.jin10.com/detail/20260621162453464800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
