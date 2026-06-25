@@ -1,69 +1,22 @@
 {
-  "generated_at": "2026-06-25T21:12:02.404714+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-06-26T00:17:11.110168+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "新能源车私改电池生意爆火，花 1.5 万可增加 160 公里续航，私改有哪些风险？灰色市场为何难遏制？",
           "url": "https://www.zhihu.com/question/2053114654025408783",
           "source": "知乎",
           "ranks": [
-            11,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 21时12分]"
-        },
-        {
-          "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
-          "url": "https://www.zhihu.com/question/2050234299232641923",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 11时34分]"
-        },
-        {
-          "title": "两部门：加强新能源产业链上游关键矿产资源勘探开发",
-          "url": "https://wallstreetcn.com/livenews/3124567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "两部门：大力发展新型储能，加力发展长时储能",
-          "url": "https://wallstreetcn.com/livenews/3124565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "两部门：加快建设智能电网，建设智能化调度体系，提高新能源消纳水平",
-          "url": "https://wallstreetcn.com/livenews/3124561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     },
@@ -76,12 +29,11 @@
           "url": "https://www.cls.cn/detail/2409201",
           "source": "财联社热门",
           "ranks": [
-            9,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 21时12分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     }
