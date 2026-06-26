@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-26T07:08:54.975676+08:00",
-  "total_titles_processed": 564,
-  "failed_sources": [],
+  "generated_at": "2026-06-26T10:31:43.090338+08:00",
+  "total_titles_processed": 766,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新能源车私改电池生意爆火，花 1.5 万可增加 160 公里续航，私改有哪些风险？灰色市场为何难遏制？",
@@ -18,12 +20,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 03时02分]"
+        },
+        {
+          "title": "A股光伏设备板块震荡拉升，TCL中环触及涨停，华民股份、金刚光伏、双良节能、隆基绿能、易成新能均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3124948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国家发改委、国家能源局印发《新型能源体系建设“十五五”规划》",
@@ -35,6 +48,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 07时08分]"
+        },
+        {
+          "title": "电力股盘初拉升，龙源电力直线涨停，金房能源冲击涨停，节能风电、协鑫能科、浙江新能、华电辽能跟涨，消息上，国家发改委、国家能源局印发《新型能源体系建设“十五五”规划》。",
+          "url": "https://wallstreetcn.com/livenews/3124938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
