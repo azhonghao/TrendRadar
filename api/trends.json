@@ -1,50 +1,7 @@
 {
-  "generated_at": "2026-06-27T23:09:41.793566+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-06-28T00:58:30.157126+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时14分]"
-        },
-        {
-          "title": "力拓铝业及锂业务单元负责人Jérôme Pécresse表示：“未来两年，锂需求在电动汽车与储能之间的分布将更加均衡。”该公司计划到2028年提升锂产能。",
-          "url": "https://wallstreetcn.com/livenews/3125489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时14分]"
-        },
-        {
-          "title": "锂生产商押注电池储能，需求重心逐渐超越电动汽车",
-          "url": "https://wallstreetcn.com/livenews/3125488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
