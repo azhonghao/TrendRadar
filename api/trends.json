@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-30T14:48:13.838068+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-06-30T18:26:15.069358+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "武汉新能源车主可在私人充电桩卖电",
+          "url": "https://www.toutiao.com/trending/7656749329927209010/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
         {
           "title": "欧洲空调卖疯了 下一个爆款是储能吗",
           "url": "https://www.toutiao.com/trending/7656769973120929334/",
@@ -32,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 14时48分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 18时26分]"
         }
       ]
     }
