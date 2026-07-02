@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-02T07:04:06.307504+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-07-02T10:16:00.862416+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【数读IPO】华润新能源今日上市",
+          "url": "https://www.cls.cn/detail/2414801",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "电价 机制电价 分时电价",
       "match_count": 1,
@@ -14,7 +31,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
