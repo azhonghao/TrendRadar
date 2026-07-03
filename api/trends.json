@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:57:54.941334+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-04T06:57:41.285765+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 06时57分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 06时57分]"
         },
         {
           "title": "三项光伏强标实施进入倒计时 头部企业判断：硅料产能出清还有三个步骤",
@@ -39,11 +39,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 06时57分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -56,8 +57,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 06时57分]"
         },
         {
           "title": "欧洲高温，有网友拿软管把新能源车里的冷气直接拉到屋里，这招可行吗？空调系统和电池能扛得住吗？",
