@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T22:41:34.366838+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-07-04T23:55:59.594410+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
           "ranks": [
             12,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 23时55分]"
         },
         {
           "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
