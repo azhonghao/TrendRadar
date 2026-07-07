@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T19:39:27.389195+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-07T22:08:46.896723+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时08分]"
         },
         {
           "title": "LG新能源第二季度营业利润1133亿韩元，市场预期为2106.6亿韩元； 第二季度销售额7.56万亿韩元，市场预期为7.22万亿韩元。",
@@ -75,7 +75,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
