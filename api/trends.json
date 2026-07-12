@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T04:03:51.960939+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-13T05:40:28.149326+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时40分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年",
@@ -43,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时40分]"
         }
       ]
     }
