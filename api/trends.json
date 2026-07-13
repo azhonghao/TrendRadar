@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T13:28:10.769927+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-13T16:50:04.037668+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新能源车平均车龄仅1.8年",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 07时44分]"
+        },
+        {
+          "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
+          "url": "https://www.zhihu.com/question/2059928907206472162",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "新能源车主3至5年就要换车",
