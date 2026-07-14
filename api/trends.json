@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-14T09:29:19.779593+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-07-14T12:42:11.124248+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国光伏巨头进军“卖算力”赛道 CEO声称用户每月能挣数百美元",
+          "url": "https://www.cls.cn/detail/2425149",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
