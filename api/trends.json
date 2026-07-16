@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-07-16T23:27:20.817921+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2026-07-17T01:04:23.105731+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中信建投：关注能源结构的绿色低碳转型、新能源及氢基燃料的发展",
-          "url": "https://flash.jin10.com/detail/20260716074425645800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "6月我国动力和储能电池销量为196.0GWh 同比增长49.1%",
-          "url": "https://wallstreetcn.com/livenews/3134801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "宁德时代签署协议 拟在欧洲部署钠电储能系统",
-          "url": "https://wallstreetcn.com/livenews/3134985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "铁锈凭什么成为储能尖兵",
-          "url": "https://www.toutiao.com/trending/7662734527072046646/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
