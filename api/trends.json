@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T17:49:01.453771+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-07-17T19:16:14.257783+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             10,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 17时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 19时16分]"
         },
         {
           "title": "湘电股份：预计今年调相机、飞轮储能收入规模同比有大幅增长",
@@ -27,7 +28,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -38,7 +39,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         }
@@ -57,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 17时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时11分 ~ 19时16分]"
         },
         {
           "title": "国家发改委发布《人工智能合作发展行动计划》。",
