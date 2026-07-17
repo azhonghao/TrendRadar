@@ -1,115 +1,22 @@
 {
-  "generated_at": "2026-07-17T23:07:28.188387+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-07-18T01:02:29.406790+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
           "url": "https://www.zhihu.com/question/2061107208805414314",
           "source": "知乎",
           "ranks": [
-            19,
-            10,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 23时07分]"
-        },
-        {
-          "title": "湘电股份：预计今年调相机、飞轮储能收入规模同比有大幅增长",
-          "url": "https://flash.jin10.com/detail/20260717174143024800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "湖南裕能：拟投资50-80亿元建设矿化一体新能源电池材料循环产业项目",
-          "url": "https://wallstreetcn.com/livenews/3135710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "华润新能源：1-6月售电量355.26亿千瓦时，同比增长6.66%",
-          "url": "https://flash.jin10.com/detail/20260717171648643800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国家发改委发布《人工智能合作发展行动计划》",
-          "url": "https://www.cls.cn/detail/2429332",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 19时16分]"
-        },
-        {
-          "title": "国家发改委发布《人工智能合作发展行动计划》。",
-          "url": "https://wallstreetcn.com/livenews/3135476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "国家发改委：自7月17日24时起，国内汽、柴油（标准品）价格每吨分别上调300元、290元。",
-          "url": "https://flash.jin10.com/detail/20260717145857113800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
-          "url": "https://wallstreetcn.com/livenews/3135215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "01时02分"
         }
       ]
     }
