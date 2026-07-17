@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-07-17T15:11:53.805594+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-17T17:49:01.453771+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
+          "url": "https://www.zhihu.com/question/2061107208805414314",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 17时49分]"
+        },
+        {
+          "title": "湘电股份：预计今年调相机、飞轮储能收入规模同比有大幅增长",
+          "url": "https://flash.jin10.com/detail/20260717174143024800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "华润新能源：1-6月售电量355.26亿千瓦时，同比增长6.66%",
+          "url": "https://flash.jin10.com/detail/20260717171648643800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
       "match_count": 3,
       "titles": [
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 17时49分]"
+        },
         {
           "title": "国家发改委发布《人工智能合作发展行动计划》。",
           "url": "https://wallstreetcn.com/livenews/3135476",
@@ -19,44 +72,15 @@
           "time_info": "12时55分"
         },
         {
-          "title": "国家发改委发布《人工智能合作发展行动计划》",
-          "url": "https://www.cls.cn/detail/2429332",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
           "title": "国家发改委：自7月17日24时起，国内汽、柴油（标准品）价格每吨分别上调300元、290元。",
           "url": "https://flash.jin10.com/detail/20260717145857113800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
-          "url": "https://www.zhihu.com/question/2061107208805414314",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时11分]"
         }
       ]
     },
