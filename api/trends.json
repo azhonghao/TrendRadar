@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T19:16:14.257783+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-07-17T21:05:43.681348+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时55分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 21时05分]"
         },
         {
           "title": "湘电股份：预计今年调相机、飞轮储能收入规模同比有大幅增长",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
+        },
+        {
+          "title": "湖南裕能：拟投资50-80亿元建设矿化一体新能源电池材料循环产业项目",
+          "url": "https://wallstreetcn.com/livenews/3135710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "华润新能源：1-6月售电量355.26亿千瓦时，同比增长6.66%",
