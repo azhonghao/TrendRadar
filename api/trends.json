@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-07-19T23:48:08.689094+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-07-20T00:45:52.056964+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "锂电池开征消费税 新能源车要涨价吗",
-          "url": "https://www.toutiao.com/trending/7663809319988629018/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26,
-            24,
-            17,
-            20,
-            25,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时48分 ~ 07时43分]"
-        },
-        {
-          "title": "据港交所文件：奥动新能源股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260719184225351800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "青海首个采煤沉陷区治理光伏项目成功并网",
-          "url": "https://flash.jin10.com/detail/20260719161048012800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
