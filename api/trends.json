@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:02:25.245613+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-19T17:52:54.496075+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "锂电池开征消费税 新能源车要涨价吗",
@@ -23,6 +23,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时48分 ~ 07时43分]"
+        },
+        {
+          "title": "青海首个采煤沉陷区治理光伏项目成功并网",
+          "url": "https://flash.jin10.com/detail/20260719161048012800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     }
