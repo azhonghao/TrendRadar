@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-20T23:03:55.669915+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-07-21T01:24:45.535083+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股保险股震荡走高，中国太保涨超6%，中国平安涨超4%，中国人保、新华保险双双涨超3%，中国人寿涨超2%。中国太保午间表示，公司后续将继续投资科技成长、消费、新能源等领域股票及ETF，支持培育和发展新质生产力，做真正的市场耐心资本。",
-          "url": "https://flash.jin10.com/detail/20260720131550012800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "中国太保：将继续投资科技成长、消费、新能源等领域股票及ETF",
-          "url": "https://wallstreetcn.com/livenews/3136569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
