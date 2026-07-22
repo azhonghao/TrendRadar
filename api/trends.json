@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-22T07:49:28.089521+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-07-22T09:47:06.141893+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "吾悦 鑫远 和融 中电软件园",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股IPv6概念震荡走高，紫光股份涨超7%，星网锐捷涨超5%，中兴通讯、网宿科技、烽火通信等个股跟涨。消息面上，中央网络安全和信息化委员会印发《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》，其中提出，到2027年，IPv6端到端贯通水平全面提升，技术创新和融合应用取得重要阶段性成果。",
+          "url": "https://flash.jin10.com/detail/20260722093830324800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
