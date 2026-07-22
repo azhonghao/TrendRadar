@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T18:16:14.423355+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-07-22T20:22:49.086407+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "11家国央企光伏组件集采开标79.7GW，TCL中环暂列入围规模首位",
@@ -23,11 +23,23 @@
           "url": "https://www.cls.cn/detail/2433756",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时22分]"
+        },
+        {
+          "title": "5连板立新能源：无算力产业相关业务布局 亦未开展面向算力中心的专属供电配套服务",
+          "url": "https://flash.jin10.com/detail/20260722200220686800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
