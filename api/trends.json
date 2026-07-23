@@ -1,184 +1,22 @@
 {
-  "generated_at": "2026-07-23T23:07:08.788806+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-07-24T01:10:12.563624+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
           "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
           "url": "https://www.zhihu.com/question/2063532260934907357",
           "source": "知乎",
           "ranks": [
-            9,
-            5,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 23时07分]"
-        },
-        {
-          "title": "新能源车跨境自驾遭远程锁车30小时",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%B7%A8%E5%A2%83%E8%87%AA%E9%A9%BE%E9%81%AD%E8%BF%9C%E7%A8%8B%E9%94%81%E8%BD%A630%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 10时14分]"
-        },
-        {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时58分]"
-        },
-        {
-          "title": "新能源车跨境自驾突遭远程锁车超30小时",
-          "url": "https://www.toutiao.com/trending/7664856600502599699/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时58分]"
-        },
-        {
-          "title": "A股钙钛矿电池板块盘初走强，拓日新能涨停，国晟科技涨超3%，英诺激光、西子洁能、隆华科技、中来股份、聚石化学等个股跟涨。可再生能源发展十五五规划提出：加速钙钛矿叠层电池等高效光伏电池制备及产业化生产技术研究，研究面向太空的太阳能发电技术，推进关键技术验证。",
-          "url": "https://flash.jin10.com/detail/20260723094204055800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。 我们试图在美国生产大量光伏产品。",
-          "url": "https://wallstreetcn.com/livenews/3138455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时58分]"
-        },
-        {
-          "title": "A股算力概念盘初拉升，证通电子、鸿博股份双双涨停，锐捷网络涨超9%，利通电子、东易日盛、金刚光伏、群兴玩具、奥瑞德等个股跟涨。可再生能源发展十五五规划提出：引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力。",
-          "url": "https://flash.jin10.com/detail/20260723093829849800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "我国每卖出10辆新车有6辆以上是新能源汽车。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3138706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "A股电力板块盘初走强，拓日新能、新中港、立新能源等多股涨停，世茂能源涨超8%，华电辽能、华电能源、山高环能、川能动力、国电电力等个股跟涨。可再生能源发展十五五规划提出：2030年，可再生能源发电总装机达到35亿千瓦左右，年发电量达到6万亿千瓦时左右；风电和太阳能发电总装机达到28亿千瓦以上、装机占比超过50%。",
-          "url": "https://flash.jin10.com/detail/20260723093441408800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "新能源车跨境自驾遭远程锁车30小时",
-          "url": "https://www.toutiao.com/trending/7664856600502599699/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "自驾新能源车跨境遭远程锁车超30小时",
-          "url": "https://www.toutiao.com/trending/7664856600502599699/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "我国研发出具有“电子共振”结构的钙钛矿光伏电池",
-          "url": "https://wallstreetcn.com/livenews/3138298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "阳光电源：控股子公司阳光新能源以1.99亿元出资设立合伙企业",
-          "url": "https://wallstreetcn.com/livenews/3138785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发展改革委、国家能源局印发 《可再生能源发展“十五五”规划》",
-          "url": "https://wallstreetcn.com/livenews/3138499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     }
