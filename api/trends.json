@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T19:02:36.385193+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-07-23T20:26:57.097957+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时03分 ~ 10时14分]"
+        },
+        {
+          "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
+          "url": "https://www.zhihu.com/question/2063532260934907357",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 20时26分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -48,19 +62,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 06时58分]"
-        },
-        {
-          "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
-          "url": "https://www.zhihu.com/question/2063532260934907357",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 19时02分]"
         },
         {
           "title": "A股钙钛矿电池板块盘初走强，拓日新能涨停，国晟科技涨超3%，英诺激光、西子洁能、隆华科技、中来股份、聚石化学等个股跟涨。可再生能源发展十五五规划提出：加速钙钛矿叠层电池等高效光伏电池制备及产业化生产技术研究，研究面向太空的太阳能发电技术，推进关键技术验证。",
@@ -158,7 +159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
