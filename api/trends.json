@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T10:14:36.007755+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-07-23T13:45:42.850432+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "新能源车跨境自驾遭远程锁车30小时",
@@ -56,7 +56,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -73,13 +73,24 @@
           "time_info": "[06时58分 ~ 07时58分]"
         },
         {
+          "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
+          "url": "https://www.zhihu.com/question/2063532260934907357",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "A股算力概念盘初拉升，证通电子、鸿博股份双双涨停，锐捷网络涨超9%，利通电子、东易日盛、金刚光伏、群兴玩具、奥瑞德等个股跟涨。可再生能源发展十五五规划提出：引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力。",
           "url": "https://flash.jin10.com/detail/20260723093829849800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -90,7 +101,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -140,7 +151,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
