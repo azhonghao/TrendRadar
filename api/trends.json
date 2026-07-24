@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T16:08:58.104938+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-24T18:54:57.659774+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时09分 ~ 07时53分]"
+        },
+        {
+          "title": "2连板孚日股份：子公司孚日新能源VC精制产能1万吨 对公司营业收入贡献有限",
+          "url": "https://flash.jin10.com/detail/20260724183920652800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "上半年量价承压，光伏产业链反转拐点或临近",
@@ -40,7 +51,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         }
