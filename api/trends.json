@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-26T20:59:58.790257+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-07-26T22:28:50.797549+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "宁德时代：587Ah储能大电芯已规模化交付",
+          "url": "https://flash.jin10.com/detail/20260726213559391800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
         {
           "title": "立新能源：公司股价近期累计涨幅较大 存在快速下跌风险",
           "url": "https://flash.jin10.com/detail/20260726161023521800",
