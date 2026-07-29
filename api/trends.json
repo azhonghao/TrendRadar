@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:31:57.097147+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-07-29T21:09:34.879491+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,28 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "标准落地即行动！光伏行业价格合规指导活动在即 统一成本核算“红绿灯”亮起",
+          "url": "https://www.cls.cn/detail/2439979",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 21时09分]"
+        },
+        {
           "title": "新能源汽车智驾小蓝灯将禁用",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
           "source": "贴吧",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "标准落地即行动！光伏行业价格合规指导活动在即 统一成本核算“红绿灯”亮起",
-          "url": "https://www.cls.cn/detail/2439979",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时31分]"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 21时09分]"
         },
         {
           "title": "力拓(RIO.N)首席执行官：电网储能电池对锂的需求增速超出预期。",
@@ -83,7 +84,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
