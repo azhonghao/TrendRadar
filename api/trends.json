@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:52:05.792605+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-30T07:54:52.541269+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时54分]"
+        },
+        {
+          "title": "央视3分钟评上汽MG新能源技术",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%863%E5%88%86%E9%92%9F%E8%AF%84%E4%B8%8A%E6%B1%BDMG%E6%96%B0%E8%83%BD%E6%BA%90%E6%8A%80%E6%9C%AF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     }
