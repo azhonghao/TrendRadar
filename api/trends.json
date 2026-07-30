@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T18:13:59.650342+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-07-30T20:24:56.113966+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -54,11 +54,12 @@
             6,
             14,
             18,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 18时13分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 20时24分]"
         },
         {
           "title": "央视3分钟评上汽MG新能源技术",
