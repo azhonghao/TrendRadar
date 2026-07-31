@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T04:55:06.738768+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-01T05:58:18.344528+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 05时58分]"
         },
         {
           "title": "发改委连续3场发布会回应算力发展",
           "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E8%BF%9E%E7%BB%AD3%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E5%9B%9E%E5%BA%94%E7%AE%97%E5%8A%9B%E5%8F%91%E5%B1%95",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 05时58分]"
         }
       ]
     }
