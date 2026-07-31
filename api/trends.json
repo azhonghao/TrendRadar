@@ -1,72 +1,22 @@
 {
-  "generated_at": "2026-07-31T21:42:28.780855+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-08-01T01:20:29.974210+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国家发改委：十五五算力网将新增直接投资4万亿",
-          "url": "https://www.cls.cn/detail/2442255",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 19时22分]"
-        },
         {
           "title": "国家发改委：正会同有关部门抓紧研究制定扩大内需战略实施方案（2026-2030年）",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688842",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 21时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "协合新能源：与特斯拉签订购售电协议 容量合计约469兆瓦",
-          "url": "https://wallstreetcn.com/livenews/3143160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟电厂 售电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI助力虚拟电厂规模化加速 头部企业订单大增 交易收入占比已近60%|传真",
-          "url": "https://www.cls.cn/detail/2442116",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 16时35分]"
+          "time_info": "01时20分"
         }
       ]
     }
