@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:54:47.964187+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-08-01T09:55:56.031959+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 09时55分]"
         },
         {
           "title": "发改委连续3场发布会回应算力发展",
