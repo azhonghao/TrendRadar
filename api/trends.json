@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-08-01T23:53:58.521608+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-08-02T00:50:09.533128+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上汽通用五菱7月全球销量120050辆，7月新能源销量72695辆。",
-          "url": "https://flash.jin10.com/detail/20260801130929294800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "吉利汽车7月销量创同期新高，新能源出口销量同比增616%",
-          "url": "https://flash.jin10.com/detail/20260801173325858800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家发改委：正会同有关部门抓紧研究制定扩大内需战略实施方案（2026-2030年）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688842",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 09时55分]"
-        },
-        {
-          "title": "发改委连续3场发布会回应算力发展",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E8%BF%9E%E7%BB%AD3%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E5%9B%9E%E5%BA%94%E7%AE%97%E5%8A%9B%E5%8F%91%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时54分 ~ 06时56分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
