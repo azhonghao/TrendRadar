@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T19:55:56.966959+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-08-02T21:01:31.033919+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             14,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 21时01分]"
         },
         {
           "title": "比亚迪：2026年7月新能源汽车产量超42万辆",
@@ -66,11 +67,12 @@
           "ranks": [
             11,
             17,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 21时01分]"
         }
       ]
     },
@@ -87,8 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 21时01分]"
         }
       ]
     }
