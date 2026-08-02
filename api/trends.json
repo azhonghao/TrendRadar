@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-02T09:52:22.529981+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-08-02T13:18:56.376970+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "电价 机制电价 分时电价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
+          "url": "https://flash.jin10.com/detail/20260802123845073800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
