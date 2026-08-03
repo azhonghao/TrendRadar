@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T01:48:41.405302+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-04T03:20:37.975566+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.toutiao.com/trending/7669619798967484459/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时20分]"
         },
         {
           "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_33708330",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时20分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
@@ -37,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时20分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时20分]"
         }
       ]
     }
