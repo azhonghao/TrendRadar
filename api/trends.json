@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T19:57:18.004242+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-08-04T21:51:25.225918+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时55分 ~ 19时57分]"
+          "appearance_count": 12,
+          "time_info": "[04时55分 ~ 21时51分]"
         },
         {
           "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
@@ -77,7 +77,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
