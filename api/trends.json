@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T11:59:05.818631+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-08-04T14:25:28.921922+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时55分 ~ 11时59分]"
+          "appearance_count": 8,
+          "time_info": "[04时55分 ~ 14时25分]"
         },
         {
           "title": "赛力斯7月新能源汽车销量同比降45%",
@@ -52,11 +52,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时25分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
