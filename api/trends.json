@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T08:08:08.102123+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-04T11:59:05.818631+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时08分]"
+        },
+        {
+          "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时55分 ~ 11时59分]"
         },
         {
           "title": "赛力斯7月新能源汽车销量同比降45%",
@@ -34,6 +48,17 @@
           "time_info": "[01时48分 ~ 06时59分]"
         },
         {
+          "title": "国家出手 新能源汽车充电将全面升级",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "为什么好多人不想买新能源汽车？",
           "url": "https://www.zhihu.com/question/2067315373137990163",
           "source": "知乎",
@@ -43,19 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时08分]"
-        },
-        {
-          "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711206",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时55分 ~ 08时08分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.75%，报6647.91点。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，中概互联网指数ETF（KWEB）收涨0.88%，中国科技指数ETF（CQQQ）收跌0.22%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%，trackersHarvest中证50（ASHS）收跌1.09%。",
