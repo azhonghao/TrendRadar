@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-06T23:07:48.057919+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-08-07T07:50:37.877588+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家能源局：2025年我国核电发电量4852亿千瓦时 同比增长7.6%",
-          "url": "https://flash.jin10.com/detail/20260806123805692800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
