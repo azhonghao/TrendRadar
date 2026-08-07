@@ -1,170 +1,22 @@
 {
-  "generated_at": "2026-08-07T23:46:03.456215+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-08-08T00:42:42.388043+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "光伏硅料八巨头签署倡议：不得低于成本价销售",
-          "url": "https://wallstreetcn.com/livenews/3146366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "光伏硅料八巨头签署倡议：不得低于成本价销售",
-          "url": "https://flash.jin10.com/detail/20260807094021448800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "决战非农！就业稳态之下失业率暗藏上行风险，美联储能否守住鹰派立场？",
-          "url": "https://flash.jin10.com/detail/20260807121658995800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "女子称某品牌新能源车车门音响存隐患",
-          "url": "https://www.toutiao.com/trending/7671130471815921718/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
-          "title": "全球首个长时储能一体化产业园正式量产",
-          "url": "https://wallstreetcn.com/livenews/3146754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "多家光伏龙头回应美国加征关税",
-          "url": "https://wallstreetcn.com/livenews/3146417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "海辰储能王鹏程：推动全球锂电长时储能进入大规模交付时代",
-          "url": "https://flash.jin10.com/detail/20260807114959161800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "江淮汽车：新能源乘用车7月销量为1277辆，同比下降33.66%",
-          "url": "https://flash.jin10.com/detail/20260807170524781800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家能源局 发改委 湖南发改委",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国家能源局：8月7日全国用电负荷入夏以来第四次创历史新高 达到15.57亿千瓦",
-          "url": "https://flash.jin10.com/detail/20260807202227367800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电",
-          "url": "https://wallstreetcn.com/livenews/3146713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
-          "url": "https://wallstreetcn.com/livenews/3146427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 14时05分]"
-        },
-        {
-          "title": "国家能源局印发《电力安全生产“十五五”行动计划》",
-          "url": "https://wallstreetcn.com/livenews/3146426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电价 机制电价 分时电价",
       "match_count": 1,
       "titles": [
         {
-          "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
-          "url": "https://www.cls.cn/detail/2448170",
-          "source": "财联社热门",
+          "title": "全球首个长时储能一体化产业园量产",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E9%95%BF%E6%97%B6%E5%82%A8%E8%83%BD%E4%B8%80%E4%BD%93%E5%8C%96%E4%BA%A7%E4%B8%9A%E5%9B%AD%E9%87%8F%E4%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            6,
-            3,
-            4
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时48分 ~ 20时41分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         }
       ]
     }
