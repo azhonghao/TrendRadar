@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-09T23:22:36.550270+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-08-10T00:23:18.906090+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "储能 光伏 新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源充电站一辆SUV突然起火爆燃",
+          "url": "https://www.toutiao.com/trending/7671198968541921289/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://azhonghao.github.io/TrendRadar/img/news.jpg"
 }
