@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T05:37:12.606030+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-08-12T09:06:28.924128+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 09时06分]"
         },
         {
           "title": "印度想摆脱对华光伏依赖为何弄巧成拙",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时47分 ~ 02时48分]"
+        },
+        {
+          "title": "为何印度光伏产业正经历供给侧危机",
+          "url": "https://www.toutiao.com/trending/7672892077264342569/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     }
