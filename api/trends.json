@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T04:34:44.114943+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-08-13T05:36:30.668983+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 05时36分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -27,8 +27,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 05时36分]"
         }
       ]
     }
