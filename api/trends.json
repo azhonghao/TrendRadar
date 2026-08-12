@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T20:45:35.653300+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-08-12T23:52:12.715327+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
@@ -28,9 +28,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时52分]"
         },
         {
           "title": "新能源汽车月度新车销量占比首超60%",
@@ -39,9 +39,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时52分]"
+        },
+        {
+          "title": "新能源汽车迎来两个“首次”突破",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "印度想摆脱对华光伏依赖为何弄巧成拙",
