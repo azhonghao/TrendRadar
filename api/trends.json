@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-13T17:04:12.077109+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-08-13T18:54:27.333913+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 6,
       "titles": [
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时54分]"
+        },
         {
           "title": "新能源汽车新车销量占比首超60%",
           "url": "https://www.toutiao.com/trending/7673110698733637130/",
@@ -30,19 +44,6 @@
           "time_info": "[12时01分 ~ 15时13分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时04分]"
-        },
-        {
           "title": "新能源汽车迎来两个“首次”突破",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 18时54分]"
         },
         {
           "title": "A股三大指数尾盘集体翻绿，贵金属、教育、光伏设备、房地产等板块跌幅居前，沪深京三市下跌个股超4300只。",
