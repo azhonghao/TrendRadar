@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T01:51:36.862773+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-14T02:49:46.639262+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时49分]"
         },
         {
           "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时49分]"
         }
       ]
     }
