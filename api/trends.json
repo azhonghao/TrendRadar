@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:16:41.294100+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-08-13T23:51:17.493514+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 23时51分]"
         },
         {
           "title": "新能源汽车新车销量占比首超60%",
@@ -46,6 +46,18 @@
           "time_info": "[12时01分 ~ 15时13分]"
         },
         {
+          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
+          "url": "https://www.cls.cn/detail/2453703",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时51分]"
+        },
+        {
           "title": "新能源汽车迎来两个“首次”突破",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时48分 ~ 18时54分]"
-        },
-        {
-          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
-          "url": "https://www.cls.cn/detail/2453703",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时16分]"
         },
         {
           "title": "A股三大指数尾盘集体翻绿，贵金属、教育、光伏设备、房地产等板块跌幅居前，沪深京三市下跌个股超4300只。",
