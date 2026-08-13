@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T18:54:27.333913+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-08-13T20:46:50.329947+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -15,11 +15,12 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 18时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 20时46分]"
         },
         {
           "title": "新能源汽车新车销量占比首超60%",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
+          "url": "https://www.cls.cn/detail/2453703",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "上海：鼓励民营企业进入虚拟电厂、车网互动、新型储能等领域，对民间投资项目依法依规给予支持",
