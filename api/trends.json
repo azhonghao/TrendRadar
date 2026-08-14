@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-14T07:32:28.021940+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-08-14T09:07:25.411241+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
       "match_count": 3,
       "titles": [
+        {
+          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
+          "url": "https://www.cls.cn/detail/2453703",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时51分 ~ 09时07分]"
+        },
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
@@ -15,17 +26,6 @@
             1,
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时51分 ~ 07时32分]"
-        },
-        {
-          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
-          "url": "https://www.cls.cn/detail/2453703",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 7,
