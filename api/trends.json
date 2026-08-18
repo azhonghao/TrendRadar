@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-18T02:24:45.580119+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-18T08:50:55.015656+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "储能 光伏 新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "9部门：扩大优质优价商品供应 大力支持新能源汽车等下乡",
+          "url": "https://flash.jin10.com/detail/20260818083854411800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
         {
           "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
           "url": "https://www.zhihu.com/question/2071644037833135057",
